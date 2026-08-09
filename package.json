@@ -1,0 +1,11 @@
+{
+  "name": "earhart-bulk-planner",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs --days 14",
+    "generate-icons": "node scripts/generate-icons.mjs",
+    "serve": "python3 -m http.server 8080"
+  }
+}

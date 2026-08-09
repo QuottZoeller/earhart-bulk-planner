@@ -1,0 +1,38 @@
+name: Update Earhart menu data
+
+on:
+  schedule:
+    # 5:00 AM America/New_York. GitHub Actions cron is UTC and does not
+    # observe DST, so this fires at 9:00 UTC (EDT, roughly Mar-Nov) and
+    # effectively 4am/5am depending on the season. Close enough for a menu
+    # that only changes once a day; adjust the two cron lines if you care.
+    - cron: '0 9 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        run: node scripts/scrape.mjs --days 14
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/menus.json data/nutrition.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update Earhart menu data"
+            git push
+          fi
