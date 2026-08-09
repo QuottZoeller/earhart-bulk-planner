@@ -1,6 +1,9 @@
 import { getItem, setItem } from './storage.js';
+import { LOCATIONS } from './locations.js';
 
 const KEY = 'settings';
+
+const DEFAULT_LOCATIONS = Object.fromEntries(LOCATIONS.map((l) => [l.slug, l.slug === 'earhart']));
 
 const DEFAULTS = {
   bodyweightLb: null,
@@ -14,14 +17,28 @@ const DEFAULTS = {
   mealsAttended: { breakfast: true, lunch: true, dinner: true },
   dislikes: [], // lowercase keyword substrings matched against item names
   allergenExclusions: [], // Purdue allergen names, e.g. "Peanuts"
+  locations: DEFAULT_LOCATIONS, // dining courts + Quick Bites the user actually attends, by slug
+  weekResetDay: 1, // 0=Sunday...6=Saturday. Used for the weekly carry-out swipe counter. Default Monday (common US meal-plan reset).
+  weeklyCarryOutLimit: 8, // Purdue's unlimited plan carry-out swipe allowance; editable since plans vary.
   lastExportAt: null,
 };
 
 export function getSettings() {
   const stored = getItem(KEY, null);
   if (!stored) return { ...DEFAULTS };
-  // Merge so new fields introduced later always have a default.
-  return { ...DEFAULTS, ...stored, mealsAttended: { ...DEFAULTS.mealsAttended, ...(stored.mealsAttended || {}) } };
+  // Merge so new fields introduced later always have a default -- existing
+  // users who never saw a "locations" field keep their prior single-location
+  // (Earhart-only) behavior instead of suddenly seeing every hall enabled.
+  return {
+    ...DEFAULTS,
+    ...stored,
+    mealsAttended: { ...DEFAULTS.mealsAttended, ...(stored.mealsAttended || {}) },
+    locations: { ...DEFAULT_LOCATIONS, ...(stored.locations || {}) },
+  };
+}
+
+export function attendedLocationSlugs(settings) {
+  return LOCATIONS.filter((l) => settings.locations[l.slug]).map((l) => l.slug);
 }
 
 export function saveSettings(patch) {

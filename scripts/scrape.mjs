@@ -1,22 +1,28 @@
 #!/usr/bin/env node
-// Fetches Earhart Dining Court menus for the next N days from Purdue's public
-// HFS API, then backfills nutrition for any item IDs not already cached in
-// data/nutrition.json. The nutrition cache is permanent: once an item ID is
-// present it is never re-fetched, so this converges to near-zero network
-// calls as the menu rotation repeats (Purdue reuses item IDs across weeks).
+// Fetches menus for every configured dining court + Quick Bites location
+// (see js/locations.js) for the next N days from Purdue's public HFS API,
+// then backfills nutrition for any item IDs not already cached in
+// data/nutrition.json. The nutrition cache is shared across all locations
+// (Purdue reuses item IDs across dining courts) and is permanent: once an
+// item ID is present it is never re-fetched, so this converges to
+// near-zero network calls as the menu rotation repeats.
+//
+// On-the-GO! locations are intentionally not fetched here -- verified
+// against Purdue's own live site that they publish no itemized daily menu
+// at all. Those are handled as a manually-curated catalog in the app.
 //
 // Usage: node scripts/scrape.mjs [--days 14]
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { LOCATIONS } from '../js/locations.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const MENUS_PATH = path.join(DATA_DIR, 'menus.json');
 const NUTRITION_PATH = path.join(DATA_DIR, 'nutrition.json');
 
-const LOCATION = 'Earhart';
 const API_BASE = 'https://api.hfs.purdue.edu/menus/v2';
 const CONCURRENCY = 5;
 const RETRY_DELAYS_MS = [500, 1500, 4000];
@@ -144,15 +150,8 @@ async function mapWithConcurrency(items, limit, fn) {
   return results;
 }
 
-async function main() {
-  await mkdir(DATA_DIR, { recursive: true });
-
-  const nutritionCache = await loadJsonIfExists(NUTRITION_PATH, { updatedAt: null, items: {} });
-  nutritionCache.items = nutritionCache.items || {};
-
+async function fetchLocationDays(location, allItemStubs) {
   const days = [];
-  const allItemStubs = new Map(); // id -> {name, isVegetarian, nutritionReady}
-
   const today = new Date();
   for (let i = 0; i < DAYS; i++) {
     const d = new Date(today);
@@ -160,18 +159,18 @@ async function main() {
     const apiDate = formatDate(d);
     let dayData;
     try {
-      dayData = await fetchJson(`${API_BASE}/locations/${LOCATION}/${apiDate}`);
+      const encoded = encodeURIComponent(location.name);
+      dayData = await fetchJson(`${API_BASE}/locations/${encoded}/${apiDate}`);
     } catch (err) {
-      console.error(`Failed to fetch menu for ${apiDate}: ${err.message}`);
+      console.error(`[${location.slug}] Failed to fetch menu for ${apiDate}: ${err.message}`);
       continue;
     }
 
-    if (!dayData.IsPublished || !Array.isArray(dayData.Meals)) {
-      console.warn(`No published menu for ${apiDate}, skipping.`);
+    if (!dayData.IsPublished || !Array.isArray(dayData.Meals) || !dayData.Meals.length) {
       continue;
     }
 
-    const meals = dayData.Meals.map((meal) => ({
+    const meals = dayData.Meals.filter((meal) => (meal.Stations || []).some((s) => (s.Items || []).length)).map((meal) => ({
       name: meal.Name,
       type: meal.Type,
       status: meal.Status,
@@ -189,13 +188,35 @@ async function main() {
       })),
     }));
 
+    if (!meals.length) continue;
+
     days.push({
       date: isoDate(d),
       dayOfWeek: d.toLocaleDateString('en-US', { weekday: 'long' }),
       meals,
     });
+  }
+  return days;
+}
 
-    console.log(`Fetched ${apiDate}: ${meals.length} meals, ${allItemStubs.size} cumulative unique items`);
+async function main() {
+  await mkdir(DATA_DIR, { recursive: true });
+
+  const nutritionCache = await loadJsonIfExists(NUTRITION_PATH, { updatedAt: null, items: {} });
+  nutritionCache.items = nutritionCache.items || {};
+
+  const allItemStubs = new Map(); // id -> {name, isVegetarian, nutritionReady}
+  const locationsOutput = {};
+
+  for (const location of LOCATIONS) {
+    const days = await fetchLocationDays(location, allItemStubs);
+    locationsOutput[location.slug] = {
+      name: location.name,
+      displayName: location.displayName,
+      category: location.category,
+      days,
+    };
+    console.log(`[${location.slug}] ${days.length} day(s) with a published menu, ${allItemStubs.size} cumulative unique items across all locations so far`);
   }
 
   const idsNeedingFetch = [...allItemStubs.keys()].filter((id) => !(id in nutritionCache.items));
@@ -229,14 +250,14 @@ async function main() {
 
   const menusOutput = {
     generatedAt: new Date().toISOString(),
-    location: LOCATION,
-    days,
+    locations: locationsOutput,
   };
 
   await writeFile(MENUS_PATH, JSON.stringify(menusOutput, null, 2) + '\n');
   await writeFile(NUTRITION_PATH, JSON.stringify(nutritionCache, null, 2) + '\n');
 
-  console.log(`Wrote ${MENUS_PATH} (${days.length} days) and ${NUTRITION_PATH} (${Object.keys(nutritionCache.items).length} cached items).`);
+  const totalDays = Object.values(locationsOutput).reduce((s, l) => s + l.days.length, 0);
+  console.log(`Wrote ${MENUS_PATH} (${totalDays} location-days across ${LOCATIONS.length} locations) and ${NUTRITION_PATH} (${Object.keys(nutritionCache.items).length} cached items).`);
 }
 
 main().catch((err) => {

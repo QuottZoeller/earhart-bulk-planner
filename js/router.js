@@ -38,6 +38,11 @@ async function render() {
     console.error(err);
     viewRoot.innerHTML = `<div class="empty-state">Something went wrong loading this screen.<br><span class="muted">${err.message}</span></div>`;
   }
+  // Actual route/tab/day/location changes should land at the top of the new
+  // screen. This only runs on real hash changes (navigate()), not on a
+  // view's own in-place re-renders after a swipe/regenerate/checkbox toggle,
+  // so it never fights with scroll position during normal interaction.
+  window.scrollTo(0, 0);
 }
 
 export function startRouter(rootEl) {

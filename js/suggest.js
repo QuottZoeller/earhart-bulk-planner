@@ -23,12 +23,21 @@ function scoreCandidate(candidate, remainingCalories, remainingProtein) {
   return ratioDistance * 10 + overshoot;
 }
 
+// A garnish-sized item (a leaf of cabbage, a pat of butter) can have a
+// protein-per-calorie ratio that happens to match the ideal gap ratio purely
+// by being tiny, which makes it score deceptively well despite being useless
+// advice -- "eat 400 of these" isn't a real suggestion. Floor out anything
+// under a real side-dish-sized portion.
+const MIN_SUGGESTION_CALORIES = 60;
+
 /**
  * @param candidates [{id, name, source: 'dining'|'myfood', calories, protein, servingSize}]
  */
 export function suggestGapFillers(candidates, remainingCalories, remainingProtein, limit = 5) {
   if (remainingCalories <= 0) return [];
-  const known = candidates.filter((c) => typeof c.calories === 'number' && typeof c.protein === 'number' && c.calories > 0);
+  const known = candidates.filter(
+    (c) => typeof c.calories === 'number' && typeof c.protein === 'number' && c.calories >= MIN_SUGGESTION_CALORIES
+  );
   const ranked = known
     .map((c) => ({ ...c, score: scoreCandidate(c, remainingCalories, Math.max(0, remainingProtein)) }))
     .sort((a, b) => a.score - b.score);

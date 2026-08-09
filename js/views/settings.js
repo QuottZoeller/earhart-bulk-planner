@@ -1,11 +1,13 @@
 import { getSettings, saveSettings, computeDailyTargets } from '../settings.js';
 import { exportJSON, exportDailySummaryCSV, exportLogEntriesCSV, importJSON } from '../exportImport.js';
 import { clearAll } from '../storage.js';
+import { LOCATIONS, diningLocations, quickBitesLocations } from '../locations.js';
 import { h } from '../dom.js';
 import { showToast } from '../toast.js';
 import { navigate } from '../router.js';
 
 const ALLERGENS = ['Coconut', 'Eggs', 'Fish', 'Gluten', 'Milk', 'Peanuts', 'Sesame', 'Shellfish', 'Soy', 'Tree Nuts', 'Wheat'];
+const WEEKDAYS = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
 export async function renderSettings(root) {
   root.innerHTML = '';
@@ -14,6 +16,8 @@ export async function renderSettings(root) {
   root.appendChild(renderExportReminder(settings));
   root.appendChild(renderTargetsCard(settings, () => renderSettings(root)));
   root.appendChild(renderMealsCard(settings, () => renderSettings(root)));
+  root.appendChild(renderLocationsCard(settings, () => renderSettings(root)));
+  root.appendChild(renderCarryOutSettingsCard(settings, () => renderSettings(root)));
   root.appendChild(renderDislikesCard(settings, () => renderSettings(root)));
   root.appendChild(renderAllergensCard(settings, () => renderSettings(root)));
   root.appendChild(renderDataCard(() => renderSettings(root)));
@@ -110,6 +114,65 @@ function renderMealsCard(settings, rerender) {
       rerender();
     })
   );
+  return card;
+}
+
+function renderLocationsCard(settings, rerender) {
+  const card = h(`<div class="card">
+    <div class="card-title">Dining locations you attend</div>
+    <div class="muted">Controls which halls show up as location tabs on Home, and which Quick Bites show up under Carry-Out in Log.</div>
+
+    <div class="section-heading" style="margin-top:14px;">Dining courts</div>
+    ${diningLocations().map((l) => `
+      <label class="checkbox-row">
+        <input type="checkbox" data-loc="${l.slug}" ${settings.locations[l.slug] ? 'checked' : ''}>
+        <span>${l.displayName}</span>
+      </label>
+    `).join('')}
+
+    <div class="section-heading">Quick Bites</div>
+    ${quickBitesLocations().map((l) => `
+      <label class="checkbox-row">
+        <input type="checkbox" data-loc="${l.slug}" ${settings.locations[l.slug] ? 'checked' : ''}>
+        <span>${l.displayName}</span>
+      </label>
+    `).join('')}
+    <div class="muted" style="margin-top:6px;">On-the-GO! locations aren't listed here -- Purdue doesn't publish an itemized menu for them at all, so there's nothing to plan around. Add items you grab there under Log → Carry-Out instead.</div>
+  </div>`);
+
+  card.querySelectorAll('[data-loc]').forEach((cb) =>
+    cb.addEventListener('change', (e) => {
+      const locations = { ...settings.locations, [e.target.dataset.loc]: e.target.checked };
+      saveSettings({ locations });
+      rerender();
+    })
+  );
+  return card;
+}
+
+function renderCarryOutSettingsCard(settings, rerender) {
+  const card = h(`<div class="card">
+    <div class="card-title">Carry-out swipes</div>
+    <div class="muted">Purely a local counter for On-the-GO!/Quick Bites carry-out swipes -- not connected to any real Purdue system, adjust freely if it drifts.</div>
+    <div class="field" style="margin-top:10px;">
+      <label>Swipes per week</label>
+      <input type="number" inputmode="numeric" id="carryout-limit" value="${settings.weeklyCarryOutLimit}">
+    </div>
+    <div class="field">
+      <label>Week resets on</label>
+      <select id="week-reset-day">
+        ${WEEKDAYS.map((w, i) => `<option value="${i}" ${settings.weekResetDay === i ? 'selected' : ''}>${w}</option>`).join('')}
+      </select>
+    </div>
+  </div>`);
+  card.querySelector('#carryout-limit').addEventListener('change', (e) => {
+    saveSettings({ weeklyCarryOutLimit: parseInt(e.target.value, 10) || 8 });
+    rerender();
+  });
+  card.querySelector('#week-reset-day').addEventListener('change', (e) => {
+    saveSettings({ weekResetDay: parseInt(e.target.value, 10) });
+    rerender();
+  });
   return card;
 }
 

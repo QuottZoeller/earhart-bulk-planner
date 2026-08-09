@@ -1,10 +1,15 @@
 import { loadAll, itemsForMeal, resolveDay } from '../api.js';
-import { getSettings, computeDailyTargets } from '../settings.js';
-import { getDayLog, computeDayTotals, addEntry, removeEntry, restoreEntry, updateServings } from '../log.js';
+import { getSettings, computeDailyTargets, attendedLocationSlugs } from '../settings.js';
+import { getDayLog, computeDayTotals, addEntry, removeEntry, restoreEntry, updateServings, removeEntriesBySlot, restoreEntriesSnapshot } from '../log.js';
 import { listMyFoods, addMyFood, removeMyFood, restoreMyFood } from '../myfoods.js';
 import { lookupBarcode, getCachedProduct, isBarcodeDetectorSupported, startScanner } from '../barcode.js';
 import { suggestGapFillers, remainingMealSlotsToday } from '../suggest.js';
 import { isCondiment } from '../planner.js';
+import {
+  listCarryOutItems, addCarryOutItem, removeCarryOutItem, restoreCarryOutItem,
+  getQuickBitesItemsToday, getSwipeCount, incrementSwipeCount, decrementSwipeCount, setSwipeCount,
+} from '../carryout.js';
+import { diningLocations, ON_THE_GO_LOCATIONS } from '../locations.js';
 import { todayISO, servingsLabel, calorieRangeLabel } from '../util.js';
 import { h, esc } from '../dom.js';
 import { makeSwipeable } from '../swipe.js';
@@ -39,6 +44,8 @@ export async function renderLog(root) {
     frag.appendChild(buildEntriesSection(date, dayLog, rerender));
 
     frag.appendChild(buildAddActionsSection(date, rerender));
+
+    frag.appendChild(await buildCarryOutSection(date, settings, menus, nutrition, rerender));
 
     frag.appendChild(buildMyFoodsSection(date, rerender));
 
@@ -84,9 +91,16 @@ function buildSuggestionSection(date, menus, nutrition, dayLog, remainingCalorie
 
   const loggedRefIds = new Set(dayLog.entries.map((e) => e.refId).filter(Boolean));
   const remainingSlots = remainingMealSlotsToday();
-  const day = resolveDay(menus, nutrition, date);
+  const settings = getSettings();
+  // Quick Bites / On-the-GO! are deliberately excluded here -- with only a
+  // handful of carry-out swipes/week those aren't meant to be planned
+  // around to hit a macro target, just tapped from the Carry-Out catalog
+  // below when you happen to use one.
+  const attendedDiningSlugs = attendedLocationSlugs(settings).filter((slug) => diningLocations().some((l) => l.slug === slug));
   const candidates = [];
-  if (day) {
+  for (const locSlug of attendedDiningSlugs) {
+    const day = resolveDay(menus, nutrition, locSlug, date);
+    if (!day) continue;
     for (const meal of day.meals) {
       const slot = meal.name.toLowerCase();
       if (!remainingSlots.includes(slot)) continue;
@@ -143,7 +157,20 @@ function buildEntriesSection(date, dayLog, rerender) {
   for (const slot of MEAL_ORDER) {
     const entries = dayLog.entries.filter((e) => (e.mealSlot || null) === slot);
     if (!entries.length) continue;
-    wrap.appendChild(h(`<div class="muted" style="margin:8px 0 4px;font-weight:700;">${MEAL_LABEL[slot]}</div>`));
+    const groupHeader = h(`<div class="btn-row" style="justify-content:space-between;align-items:center;margin:8px 0 4px;">
+      <span style="font-weight:700;">${MEAL_LABEL[slot]}</span>
+      <button class="link-btn clear-group-btn" style="padding:2px 0;font-size:12.5px;">Clear</button>
+    </div>`);
+    groupHeader.querySelector('.clear-group-btn').addEventListener('click', () => {
+      const { removedCount, snapshot } = removeEntriesBySlot(date, slot);
+      if (!removedCount) return;
+      showUndoToast(`Removed ${removedCount} item(s) from ${MEAL_LABEL[slot]}`, () => {
+        restoreEntriesSnapshot(date, snapshot);
+        rerender();
+      });
+      rerender();
+    });
+    wrap.appendChild(groupHeader);
     for (const entry of entries) {
       wrap.appendChild(renderLogRow(date, entry, rerender));
     }
@@ -252,6 +279,113 @@ function buildMyFoodsSection(date, rerender) {
   return wrap;
 }
 
+// Quick Bites (real API data) + On-the-GO! (manually-curated catalog, since
+// Purdue publishes no menu for those at all) share one section because both
+// draw against the same weekly carry-out swipe allowance on the unlimited
+// plan. Neither runs through the planner -- these are occasional grabs, not
+// something to hit a macro target with.
+async function buildCarryOutSection(date, settings, menus, nutrition, rerender) {
+  const wrap = h('<div></div>');
+  wrap.appendChild(h('<div class="section-heading">Carry-Out (On-the-GO! / Quick Bites)</div>'));
+
+  const used = getSwipeCount(settings.weekResetDay);
+  const limit = settings.weeklyCarryOutLimit;
+  const counterCard = h(`<div class="card">
+    <div class="btn-row" style="justify-content:space-between;align-items:center;">
+      <div>
+        <div class="item-name">${used}/${limit} swipes used this week</div>
+        <div class="muted">Local counter only, not connected to Purdue. Adjust freely if it drifts.</div>
+      </div>
+      <div class="stepper">
+        <button class="swipe-dec">−</button>
+        <button class="swipe-inc">+</button>
+      </div>
+    </div>
+  </div>`);
+  counterCard.querySelector('.swipe-dec').addEventListener('click', () => { decrementSwipeCount(settings.weekResetDay); rerender(); });
+  counterCard.querySelector('.swipe-inc').addEventListener('click', () => { incrementSwipeCount(settings.weekResetDay); rerender(); });
+  wrap.appendChild(counterCard);
+
+  const attended = attendedLocationSlugs(settings);
+  const quickBitesToday = getQuickBitesItemsToday(menus, nutrition, attended, date);
+  const catalog = listCarryOutItems();
+
+  const card = h('<div class="card"></div>');
+  if (!quickBitesToday.length && !catalog.length) {
+    card.appendChild(h('<div class="muted">No Quick Bites menu published for today, and no On-the-GO! items saved yet.</div>'));
+  }
+
+  for (const item of quickBitesToday) {
+    const row = h(`<div class="btn-row" style="justify-content:space-between;align-items:center;margin-bottom:8px;">
+      <div>
+        <div class="item-name">${esc(item.name)}</div>
+        <div class="item-meta">${esc(item.locationDisplayName)} · ${item.mealName} · ${Math.round(item.calories)} cal · ${Math.round(item.protein * 10) / 10}g protein</div>
+      </div>
+      <button class="btn sm qb-log">Log</button>
+    </div>`);
+    row.querySelector('.qb-log').addEventListener('click', () => {
+      const entry = addEntry(date, {
+        source: 'quickbites',
+        name: item.name,
+        mealSlot: item.mealName.toLowerCase(),
+        refId: item.id,
+        servings: 1,
+        perServing: { calories: item.calories, protein: item.protein, carbs: item.carbs, fat: item.fat },
+      });
+      incrementSwipeCount(settings.weekResetDay);
+      showUndoToast(`Logged ${item.name} (1 carry-out swipe used)`, () => {
+        removeEntry(date, entry.id);
+        decrementSwipeCount(settings.weekResetDay);
+        rerender();
+      });
+      rerender();
+    });
+    card.appendChild(row);
+  }
+
+  for (const item of catalog) {
+    const row = h(`<div class="swipe-row" data-carryout-id="${item.id}">
+      <div class="swipe-row-bg">Delete</div>
+      <div class="swipe-row-content">
+        <div style="flex:1;">
+          <div class="item-name">${esc(item.name)}</div>
+          <div class="item-meta">${esc(item.servingDesc || 'On-the-GO!')} · ${item.calories} cal · ${item.protein}g protein</div>
+        </div>
+        <button class="btn sm otg-log">Log</button>
+      </div>
+    </div>`);
+    row.querySelector('.otg-log').addEventListener('click', () => {
+      const entry = addEntry(date, {
+        source: 'onthego',
+        name: item.name,
+        mealSlot: null,
+        refId: item.id,
+        servings: 1,
+        perServing: { calories: item.calories, protein: item.protein, carbs: item.carbs ?? null, fat: item.fat ?? null },
+      });
+      incrementSwipeCount(settings.weekResetDay);
+      showUndoToast(`Logged ${item.name} (1 carry-out swipe used)`, () => {
+        removeEntry(date, entry.id);
+        decrementSwipeCount(settings.weekResetDay);
+        rerender();
+      });
+      rerender();
+    });
+    makeSwipeable(row, () => {
+      const removed = removeCarryOutItem(item.id);
+      showUndoToast(`Deleted ${item.name}`, () => { if (removed) restoreCarryOutItem(removed); rerender(); });
+      rerender();
+    });
+    card.appendChild(row);
+  }
+
+  card.appendChild(h('<button class="link-btn" id="btn-add-carryout">+ Add an On-the-GO! item</button>'));
+  wrap.appendChild(card);
+  card.querySelector('#btn-add-carryout').addEventListener('click', () => openAddCarryOutModal(rerender));
+
+  return wrap;
+}
+
 // ---- Modals ----
 
 function openQuickAddModal(date, rerender) {
@@ -304,6 +438,44 @@ function openAddMyFoodModal(rerender) {
       protein,
       carbs: parseFloat(content.querySelector('#mf-carb').value) || null,
       fat: parseFloat(content.querySelector('#mf-fat').value) || null,
+    });
+    overlay.remove();
+    rerender();
+  });
+}
+
+function openAddCarryOutModal(rerender) {
+  const content = h(`<div>
+    <div class="card-title">Add an On-the-GO! item</div>
+    <div class="field"><label>Name</label><input type="text" id="co-name" placeholder="e.g. Turkey pesto wrap"></div>
+    <div class="field">
+      <label>Which On-the-GO! (optional)</label>
+      <select id="co-location">
+        <option value="">Not specified</option>
+        ${ON_THE_GO_LOCATIONS.map((l) => `<option value="${l.slug}">${esc(l.displayName)}</option>`).join('')}
+      </select>
+    </div>
+    <div class="field"><label>Serving description</label><input type="text" id="co-serving" placeholder="e.g. 1 wrap"></div>
+    <div class="field"><label>Calories</label><input type="number" inputmode="numeric" id="co-cal"></div>
+    <div class="field"><label>Protein (g)</label><input type="number" inputmode="numeric" id="co-pro"></div>
+    <div class="field"><label>Carbs (g, optional)</label><input type="number" inputmode="numeric" id="co-carb"></div>
+    <div class="field"><label>Fat (g, optional)</label><input type="number" inputmode="numeric" id="co-fat"></div>
+    <button class="btn block" id="co-save">Save</button>
+  </div>`);
+  const overlay = openModal(content);
+  content.querySelector('#co-save').addEventListener('click', () => {
+    const name = content.querySelector('#co-name').value.trim();
+    const calories = parseFloat(content.querySelector('#co-cal').value) || 0;
+    const protein = parseFloat(content.querySelector('#co-pro').value) || 0;
+    if (!name || (!calories && !protein)) { showToast('Name + at least calories or protein required'); return; }
+    addCarryOutItem({
+      name,
+      onTheGoLocationSlug: content.querySelector('#co-location').value || null,
+      servingDesc: content.querySelector('#co-serving').value.trim() || null,
+      calories,
+      protein,
+      carbs: parseFloat(content.querySelector('#co-carb').value) || null,
+      fat: parseFloat(content.querySelector('#co-fat').value) || null,
     });
     overlay.remove();
     rerender();

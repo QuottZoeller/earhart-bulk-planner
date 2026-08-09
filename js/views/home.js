@@ -1,8 +1,9 @@
-import { loadAll } from '../api.js';
-import { getSettings, attendedMealCount } from '../settings.js';
-import { buildDayPlan, regenerateMeal, removeItemFromMeal, restoreItemToMeal, mealSlotToName } from '../planState.js';
+import { loadAll, publishedDatesForLocation } from '../api.js';
+import { getSettings, attendedMealCount, attendedLocationSlugs } from '../settings.js';
+import { buildDayPlan, regenerateMeal, removeItemFromMeal, restoreItemToMeal } from '../planState.js';
 import { logPlate, getDayLog, addEntry, removeEntry, restoreEntry } from '../log.js';
 import { remainingMealSlotsToday } from '../suggest.js';
+import { locationBySlug } from '../locations.js';
 import { todayISO, addDaysISO, formatDayLabel, servingsLabel, calorieRangeLabel } from '../util.js';
 import { h, esc } from '../dom.js';
 import { makeSwipeable } from '../swipe.js';
@@ -17,6 +18,8 @@ function mealIcon(slot) {
 
 export async function renderHome(root, params) {
   const settings = getSettings();
+  root.innerHTML = '';
+
   if (attendedMealCount(settings) === 0) {
     root.appendChild(
       h(`<div class="empty-state">No meals selected in Settings yet.<br><br>
@@ -34,18 +37,32 @@ export async function renderHome(root, params) {
     return;
   }
 
+  const attendedLocs = attendedLocationSlugs(settings);
+  if (!attendedLocs.length) {
+    root.appendChild(
+      h(`<div class="empty-state">No dining locations selected in Settings yet.<br><br>
+        <button class="btn" id="go-settings">Go to Settings</button></div>`)
+    );
+    root.querySelector('#go-settings').addEventListener('click', () => navigate('#/settings'));
+    return;
+  }
+
   const date = params.get('date') || todayISO();
+  const requestedLoc = params.get('loc');
+  const locationSlug = attendedLocs.includes(requestedLoc) ? requestedLoc : attendedLocs[0];
   const { menus, nutrition } = await loadAll();
 
-  root.innerHTML = '';
-  root.appendChild(renderDaySwitcher(date, menus));
+  root.appendChild(renderDaySwitcher(date, locationSlug, menus));
+  if (attendedLocs.length > 1) {
+    root.appendChild(renderLocationSwitcher(date, locationSlug, attendedLocs));
+  }
 
-  const plan = buildDayPlan(date, menus, nutrition, settings);
+  const plan = buildDayPlan(locationSlug, date, menus, nutrition, settings);
   const isToday = date === todayISO();
   const dayLog = getDayLog(date);
 
   if (!plan.published) {
-    root.appendChild(h(`<div class="empty-state">Purdue hasn't published a menu for this day yet.<br>Check back closer to the date.</div>`));
+    root.appendChild(h(`<div class="empty-state">${esc(locationBySlug(locationSlug)?.displayName)} hasn't published a menu for this day yet.<br>Check back closer to the date, or try another location above.</div>`));
     return;
   }
 
@@ -68,11 +85,11 @@ export async function renderHome(root, params) {
     container.appendChild(renderMealCard(meal, { date, isToday, dayLog, emphasize: isToday && meal === meals[0] }));
   }
 
-  wireMealCardEvents(container, date, () => renderHome(root, params));
+  wireMealCardEvents(container, locationSlug, date, () => renderHome(root, params));
 }
 
-function renderDaySwitcher(selectedDate, menus) {
-  const publishedDates = new Set(menus.days.map((d) => d.date));
+function renderDaySwitcher(selectedDate, locationSlug, menus) {
+  const publishedDates = publishedDatesForLocation(menus, locationSlug);
   const wrap = h('<div class="day-switcher" id="day-switcher"></div>');
   for (let i = 0; i < DAY_SWITCHER_SPAN; i++) {
     const date = addDaysISO(todayISO(), i);
@@ -80,7 +97,18 @@ function renderDaySwitcher(selectedDate, menus) {
       ${formatDayLabel(date)}${publishedDates.has(date) ? '' : ' <span class="muted">·</span>'}
     </button>`);
     if (!publishedDates.has(date)) chip.style.opacity = '0.55';
-    chip.addEventListener('click', () => navigate(`#/home?date=${date}`));
+    chip.addEventListener('click', () => navigate(`#/home?date=${date}&loc=${locationSlug}`));
+    wrap.appendChild(chip);
+  }
+  return wrap;
+}
+
+function renderLocationSwitcher(date, selectedSlug, attendedLocs) {
+  const wrap = h('<div class="day-switcher" id="location-switcher"></div>');
+  for (const slug of attendedLocs) {
+    const loc = locationBySlug(slug);
+    const chip = h(`<button class="day-chip ${slug === selectedSlug ? 'active' : ''}" data-loc="${slug}">${esc(loc.displayName)}</button>`);
+    chip.addEventListener('click', () => navigate(`#/home?date=${date}&loc=${slug}`));
     wrap.appendChild(chip);
   }
   return wrap;
@@ -120,11 +148,11 @@ function renderMealCard(meal, { date, isToday, dayLog, emphasize }) {
     list.appendChild(h('<div class="muted">No items available to plan with right now.</div>'));
   }
   for (const item of plate.plateItems) {
-    list.appendChild(renderItemRow(item, meal.slot));
+    list.appendChild(renderItemRow(item));
   }
   card.appendChild(list);
 
-  if (plate.fillers.length || true) {
+  {
     const fillerWrap = h('<div class="section-heading" style="margin-top:10px;margin-bottom:4px;">If you\'re short</div>');
     card.appendChild(fillerWrap);
     const fillerRow = h('<div class="btn-row"></div>');
@@ -172,7 +200,7 @@ function renderMealCard(meal, { date, isToday, dayLog, emphasize }) {
   return card;
 }
 
-function renderItemRow(item, mealSlot) {
+function renderItemRow(item) {
   const row = h(`<div class="swipe-row" data-item-id="${item.id}">
     <div class="swipe-row-bg">Remove</div>
     <div class="swipe-row-content">
@@ -186,16 +214,16 @@ function renderItemRow(item, mealSlot) {
   return row;
 }
 
-function wireMealCardEvents(container, date, rerender) {
+function wireMealCardEvents(container, locationSlug, date, rerender) {
   container.querySelectorAll('.swipe-row').forEach((row) => {
     const itemId = row.dataset.itemId;
     const mealName = row.closest('.meal-card').dataset.meal;
     makeSwipeable(row, () => {
       const nameEl = row.querySelector('.item-name');
       const itemName = nameEl ? nameEl.textContent : 'Item';
-      removeItemFromMeal(date, mealName, itemId);
+      removeItemFromMeal(locationSlug, date, mealName, itemId);
       showUndoToast(`Removed ${itemName}`, () => {
-        restoreItemToMeal(date, mealName, itemId);
+        restoreItemToMeal(locationSlug, date, mealName, itemId);
         rerender();
       });
       rerender();
@@ -204,7 +232,7 @@ function wireMealCardEvents(container, date, rerender) {
 
   container.querySelectorAll('.regenerate-btn').forEach((btn) => {
     btn.addEventListener('click', () => {
-      regenerateMeal(date, btn.dataset.meal);
+      regenerateMeal(locationSlug, date, btn.dataset.meal);
       rerender();
     });
   });
@@ -216,11 +244,14 @@ function wireMealCardEvents(container, date, rerender) {
       // exactly what's on screen (including any swipes since page load).
       const { menus, nutrition } = await loadAll();
       const settings = getSettings();
-      const plan = buildDayPlan(date, menus, nutrition, settings);
+      const plan = buildDayPlan(locationSlug, date, menus, nutrition, settings);
       const meal = plan.meals.find((m) => m.slot === mealSlot);
       if (!meal || meal.unavailable) return;
-      logPlate(date, mealSlot, meal.plate);
-      showToast(`Logged ${meal.plate.plateItems.length} item(s) from ${meal.mealName}`);
+      const loggedEntries = logPlate(date, mealSlot, meal.plate);
+      showUndoToast(`Logged ${loggedEntries.length} item(s) from ${meal.mealName}`, () => {
+        loggedEntries.forEach((e) => removeEntry(date, e.id));
+        rerender();
+      });
       rerender();
     });
   });
@@ -238,7 +269,7 @@ function wireMealCardEvents(container, date, rerender) {
         servings: 1,
         perServing: { calories: rec.calories, protein: rec.protein, carbs: rec.carbs, fat: rec.fat },
       });
-      showUndoToast(`Logged ${rec.name}`, () => removeEntry(date, entry.id));
+      showUndoToast(`Logged ${rec.name}`, () => { removeEntry(date, entry.id); rerender(); });
       rerender();
     });
   });
@@ -253,7 +284,7 @@ function wireMealCardEvents(container, date, rerender) {
         servings: 1,
         perServing: null,
       });
-      showUndoToast(`Logged ${btn.dataset.itemName} (unknown nutrition, not counted)`, () => removeEntry(date, entry.id));
+      showUndoToast(`Logged ${btn.dataset.itemName} (unknown nutrition, not counted)`, () => { removeEntry(date, entry.id); rerender(); });
       rerender();
     });
   });

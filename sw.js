@@ -1,6 +1,6 @@
 // Bump this on every deploy that changes any precached file so old clients
 // pick up the new version instead of serving stale JS forever.
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const SHELL_CACHE = `ebp-shell-${CACHE_VERSION}`;
 const DATA_CACHE = `ebp-data-${CACHE_VERSION}`;
 
@@ -16,10 +16,12 @@ const SHELL_FILES = [
   './js/api.js',
   './js/app.js',
   './js/barcode.js',
+  './js/carryout.js',
   './js/chart.js',
   './js/dom.js',
   './js/exportImport.js',
   './js/history.js',
+  './js/locations.js',
   './js/log.js',
   './js/modal.js',
   './js/myfoods.js',

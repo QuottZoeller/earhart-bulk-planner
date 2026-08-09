@@ -29,11 +29,19 @@ export async function loadAll() {
   return { menus, nutrition };
 }
 
+export function locationDays(menus, locationSlug) {
+  return menus.locations[locationSlug]?.days || [];
+}
+
+export function publishedDatesForLocation(menus, locationSlug) {
+  return new Set(locationDays(menus, locationSlug).map((d) => d.date));
+}
+
 // Resolves a day's meals into fully-joined item objects (menu stub + cached
 // nutrition record). Items whose nutrition was never fetched still appear,
 // flagged unknown -- callers must not treat missing data as zero.
-export function resolveDay(menus, nutrition, dateISO) {
-  const day = menus.days.find((d) => d.date === dateISO);
+export function resolveDay(menus, nutrition, locationSlug, dateISO) {
+  const day = locationDays(menus, locationSlug).find((d) => d.date === dateISO);
   if (!day) return null;
   return {
     ...day,

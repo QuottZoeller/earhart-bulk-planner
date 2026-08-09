@@ -56,6 +56,26 @@ export function restoreEntry(date, entry, index) {
   saveDayLog(date, log);
 }
 
+// Bulk removal for an entire logged meal group at once (e.g. "Ate this"
+// tapped twice by mistake, or the wrong meal) -- undo restores the exact
+// prior entries array rather than replaying individual inserts, so ordering
+// and IDs come back exactly as they were.
+export function removeEntriesBySlot(date, mealSlot) {
+  const log = getDayLog(date);
+  const snapshot = log.entries;
+  const remaining = log.entries.filter((e) => (e.mealSlot || null) !== mealSlot);
+  const removedCount = snapshot.length - remaining.length;
+  log.entries = remaining;
+  saveDayLog(date, log);
+  return { removedCount, snapshot };
+}
+
+export function restoreEntriesSnapshot(date, snapshotEntries) {
+  const log = getDayLog(date);
+  log.entries = snapshotEntries;
+  saveDayLog(date, log);
+}
+
 export function updateServings(date, entryId, servings) {
   const log = getDayLog(date);
   const entry = log.entries.find((e) => e.id === entryId);
