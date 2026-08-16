@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:30:33.272Z",
+  "updatedAt": "2026-08-16T09:31:43.364Z",
   "items": {
     "005fa9e5-75b4-4e5b-8483-d4958fbc9ac5": {
       "name": "Dinner Rolls",
@@ -3948,6 +3948,26 @@
         "Wheat": true
       },
       "ingredients": "Dough Cookie Sugar 1oz (Enriched Bleached Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Margarine (Palm Oil, Water, Soybean Oil, Contains 2% Or Less Of: Salt, Mono- And Diglycerides, Natural Flavors [Contains Milk], Citric Acid, Vitamin A Palmitate Added, Beta Carotene [Color]), Eggs, Contains 2% Or Less Of: Invert Sugar, Salt, Baking Soda, Defatted Soy Flour.), Granulated Sugar (Sugar.), Cinnamon"
+    },
+    "2b219e1b-c69b-4d04-ac1d-6af74ab8850f": {
+      "name": "Sugar Cookie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "2c155803-4105-466d-a894-182385cb1511": {
       "name": "Tangy Gold BBQ Sauce",
@@ -9264,6 +9284,26 @@
         "Wheat": false
       },
       "ingredients": "Beef Italian Sliced w/Gravy (Beef: Halal Beef, Water, Salt, Maltodextrin, Dextrose, Hydrolyzed Soy Protein, Soy Protein Isolate, Natural Flavors, Polysorbate 80, Sodium Phosphate, Spices And Caramel Color. Gravy: Water, Palm Oil, Salt, Dehydrated Garlic And Onion, Maltodextrin, Dextrose, Sugar, Yeast Extract, Spices, Beef Flavor (Natural Flavor, Yeast Extract, Maltodextrin, Sunflower Oil, Caramelized Sugar, Xanthan Gum).)"
+    },
+    "5e8a3e8f-b887-4158-915c-5f30b6e1d252": {
+      "name": "Strawberry Frosting",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "5e9273d4-9941-4652-a47e-4f6dca633323": {
       "name": "Orange Cranberry Bread",
