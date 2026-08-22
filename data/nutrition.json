@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:41:28.574Z",
+  "updatedAt": "2026-08-22T09:31:30.848Z",
   "items": {
     "005fa9e5-75b4-4e5b-8483-d4958fbc9ac5": {
       "name": "Dinner Rolls",
@@ -33578,6 +33578,40 @@
         "Wheat": false
       },
       "ingredients": null
+    },
+    "e07353b1-62b0-4c25-ad22-e2baf66cdc82": {
+      "name": "Appetizer Potato Cheddar Nugget 6x3#",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "Ounce",
+      "calories": 60.7489,
+      "protein": 1.6875,
+      "carbs": 6.0749,
+      "fat": 3.375,
+      "saturatedFat": 1.1812,
+      "sodium": 151.8723,
+      "fiber": 1.0125,
+      "sugar": 0,
+      "addedSugar": null,
+      "cholesterol": 5.0624,
+      "calcium": 33.7494,
+      "iron": 0.1215,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Potatoes, Cheeses (Mozzarella Cheese And Pasteurized Processed Cheddar Cheese  (Pasteurized Milk, Nonfat Milk Cheese Cultures, Salt, Enzymes), Water, Enzyme Modified Cheese (Milk, Water, Salt, Cheese Cultures, Enzymes), Milkfat, Sodium Phosphate, Sodium Hexametaphosphate, Cream, Salt, Lactic Acid, Sorbic Acid (Preservative), Milk Protein Concentrate, Artificial Colour), Wheat Flour, Enriched Bleached Flour (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Vegetable Oil (Contains One Or More Of The Following: Canola Oil, Corn Oil, Cottonseed Oil, Palm Oil, Soybean Oil, Sunflower Oil), Salt, Modified Food Starch, Corn Flour, Natural Flavor, Rice Flour, Sugar, Yeast, Potato Flour, Dextrin, Methylcellulose, Leavening (Disodium Dihydrogen Pyrophosphate, Sodium Bicarbonate), Cornstarch, Wheat Starch."
     },
     "e07c9c56-0363-4108-abaa-840fdbfa1050": {
       "name": "Boston Cream Pie",
