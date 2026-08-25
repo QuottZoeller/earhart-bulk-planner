@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T09:53:09.644Z",
+  "updatedAt": "2026-08-25T09:40:06.548Z",
   "items": {
     "005fa9e5-75b4-4e5b-8483-d4958fbc9ac5": {
       "name": "Dinner Rolls",
@@ -4642,6 +4642,40 @@
         "Wheat": false
       },
       "ingredients": "Chocolate Pudding (2% Milk (Reduced Fat Milk, Vitamin A Palmitate And Vitamin D3.), Mix Pudding Instant Chocolate 24 oz. (Dextrose, Sugar, Modified Food Starch, Cocoa Processed With Alkali, Less Than 2% Disodium Phosphate, Tetrasodium Pyrophosphate, Salt, Tricalcium Phosphate, Caramel Color, Natural And Artificial Flavor, Silicon Dioxide, Emulsifier Blend (Nonfat Dry Milk, Mono And Diglycerides), Red 40.)), Whpd Topping, Whipped Topping (Water, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), High Fructose Corn Syrup, Contains Less Than 2% Of The Following: Carbohydrate Gum, Polysorbate 60, Salt, Polyglycerol Esters Of Fatty Acids, Soy Lecithin, Disodium Phosphate, Sodium Citrate, Xanthan Gum, Artificial Flavor, Natural Flavor, Colored With Turmeric And Annatto Extracts.)"
+    },
+    "20fa5fd1-d12d-461c-a964-573028fd0cc3": {
+      "name": "Honey Dijon Dressing",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Tablespoon",
+      "calories": 45,
+      "protein": 0,
+      "carbs": 4,
+      "fat": 3,
+      "saturatedFat": 0.5,
+      "sodium": 160,
+      "fiber": 0,
+      "sugar": 4,
+      "addedSugar": 3.5,
+      "cholesterol": 2.5,
+      "calcium": 0,
+      "iron": 0,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Water, Soybean Oil, Sugar, Dijon Mustard (Distilled White Vinegar, Mustard Seed, Water, Salt, White Wine, Citric Acid, Tartaric Acid, Fruit Pectin, Sugar, Spices), Honey, White Wine Vinegar, Vinegar, Contains Less Than 2% Of Egg Yolks, Salt, Lemon Juice Concentrate, Xanthan Gum, Natural Flavor, Propylene Glycol Alginate, Sorbic Acid And Calcium Disodium EDTA As Preservatives, Spice, Dried Onions."
     },
     "21bd7146-2cb4-4cbb-a74d-29123063a61b": {
       "name": "Jalapeno Popper Dip",
