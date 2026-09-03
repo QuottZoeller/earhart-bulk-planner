@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T13:27:26.883Z",
+  "updatedAt": "2026-09-03T13:25:52.720Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -1446,6 +1446,26 @@
         "Wheat": true
       },
       "ingredients": "Mix Cake Yellow (Sugar, Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Dextrose. Contains 2 % Or Less Of: Leavening (Sodium Aluminum Phosphate, Baking Soda), Propylene Glycol Mono And Diesters Of Fatty Acids, Modified Corn Starch, Egg With Sodium Silicoaluminate, Egg White, Salt, Nonfat Milk, Mono And Diglycerides, Modified Whey, Xanthan Gum, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour.), Canned Pumpkin (Pumpkin.), Milk Evaporated (Milk, Dipotassium Phosphate, Carrageenan, And Vitamin D3.), Brown Sugar (Sugar, Molasses.), Butter Solids (Pasteurized Cream (Milk), Salt.), Egg Whole Frozen (Whole Egg, Citric Acid.), Pecan Pieces, Spice Pumpkin Pie 16 oz (Spices.)"
+    },
+    "080c8109-ba09-4cd8-8c6e-1a20aaeb67f8": {
+      "name": "Mini Potato Pancakes ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "08433d42-69c9-4d44-9704-c46f24a70b01": {
       "name": "Pie Apple ALGF",
