@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:30:45.353Z",
+  "updatedAt": "2026-09-06T12:44:47.352Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -15549,6 +15549,26 @@
       },
       "ingredients": "Whole Green Beans, Tomato Diced 6 x #10 (Tomatoes, Tomato Juice, Less Than 2% Of: Salt, Calcium Chloride, Citric Acid.), Canola/Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Minced Garlic (Peeled Garlic), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Spice Pepper Black Coarse Grind 5# (Black Pepper.)"
     },
+    "4b2e3ed0-1935-43be-9697-dcb6f6804158": {
+      "name": "Mandarin Oranges",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "4b533d25-da25-48d6-8053-1803c83b47a8": {
       "name": "GF Cauliflower Crust Cheese Pizza",
       "isVegetarian": true,
@@ -25809,6 +25829,26 @@
       "allergens": null,
       "ingredients": null
     },
+    "7b2a3758-ca48-4a0a-bc03-f68269e77748": {
+      "name": "Cheese Tortellini",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "7b47e641-0f7b-48b6-9525-7bbdbbc3529c": {
       "name": "Chickpea Chole Curry",
       "isVegetarian": true,
@@ -33218,6 +33258,26 @@
         "Wheat": false
       },
       "ingredients": "Rice Long Grain (Long Grain Rice Enriched With Iron (Ferric Orthophosphate), Niacin, Thiamin (Thiamin Mononitrate), And Folic Acid.)"
+    },
+    "9e989aaa-65cb-4b55-b6b9-dbc29d01c75e": {
+      "name": "Sausage Links",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "9ecaf4f9-aeb2-4e7f-b9b6-30e5c4029024": {
       "name": "Tartar Sauce",
@@ -46280,6 +46340,26 @@
         "Wheat": true
       },
       "ingredients": "White Vanilla Chocolate Chips (Sugar, Fractionated Palm Kernel Oil And Hydrogenated Palm Oil), Milk, Nonfat Milk, And Less Than 2% Of Soy Lecithin, Natural Flavor.), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Red Raspberries (Raspberries.), Granulated Sugar (Sugar.), Butter Solids (Pasteurized Cream (Milk), Salt.), Egg Whole Frozen (Whole Egg, Citric Acid.), Flavor Vanilla Imitation (Water, Caramel Color, Artifical Flavor, Citric Acid, Sodium Benzoate (Preservative).), Baking Powder 4 x 10# (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.)"
+    },
+    "ded599b4-81aa-4314-a2bf-51b16db235a5": {
+      "name": "Meat Spaghetti Sauce",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "ded7e363-89ee-4642-be5f-57036bdfd669": {
       "name": "Red Raspberries",
