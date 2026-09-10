@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T13:36:56.652Z",
+  "updatedAt": "2026-09-10T13:27:55.718Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -9280,6 +9280,40 @@
         "Wheat": false
       },
       "ingredients": "Sausage Polish Rope Fontanini 20# (Pork, Beef, Water, Salt, Corn Syrup Solids, Spices, Dextrose, Monosodium Glutamate, Paprika, Flavoring, Sodium Erythorbate, Sodium Nitrite.)"
+    },
+    "2f60a49c-cb45-45e3-8888-36459096a8dd": {
+      "name": "Southern Style Chicken Breast",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "Each",
+      "calories": 129.4271,
+      "protein": 9.9559,
+      "carbs": 8.9603,
+      "fat": 5.9735,
+      "saturatedFat": 0.9956,
+      "sodium": 368.3692,
+      "fiber": 0.9956,
+      "sugar": 0.9956,
+      "addedSugar": 0.9956,
+      "cholesterol": 29.8677,
+      "calcium": 13.9383,
+      "iron": 0,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Boneless Chicken Breast Meat With Rib Meat, Water, Seasoning (Modified Food Starch, Carrageenan), Sugar, Seasoning (Salt, Onion Powder, Yeast Extract, Torula Yeast, Garlic Powder, Spices, Disodium Inosinate And Disodium Guanylate, Flavor (Hydrolyzed Soy Protein, Autolyzed Yeast Extract, Hydrolyzed Corn Protein, Natural Chicken Type Flavor, Maltodextrin, Chicken Fat, Corn Syrup Solids), Paprika, Spice Extractives), Sodium Phosphates. Breaded With Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Wheat Flour, Sugar, Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Monocalicum Phosphate), Whey Protein Concentrate, Spices, Dried Whole Egg, Yeast Extract, Disodium Inosinate And Guanylate, Paprika, Extractive Of Turmeric."
     },
     "2f79f0ae-686f-47a5-b7c5-15a1d430cc1d": {
       "name": "Crunchy Peanut Butter",
@@ -19553,6 +19587,26 @@
       },
       "ingredients": "Baked Potato (Potato.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.)"
     },
+    "5ddd7e40-e05d-4e34-91a3-528c01a8930f": {
+      "name": "Cheese Enchiladas",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "5e132aca-4ad4-4daf-b076-79b7ba700a85": {
       "name": "Spicy Mayonnaise",
       "isVegetarian": true,
@@ -24741,6 +24795,26 @@
       },
       "ingredients": "Potato Peeled Diced 1/2\" (Red Potatoes, Sodium Acid Sulfate (Sodium Bisulfate).), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Peas (Green Peas.), Tomato Crushed Ex Heavy 6 x #10 (Crushed Tomatoes (Water, Concentrated Crushed Tomatoes), Less Than 2% Of: Salt, Citric Acid), Diced Onion (Onion.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.), Spread Red Chili Harissa 28 oz (Canola Oil, Water, Red Pepper, Garlic, Salt, Cumin, Chili Pepper, Lemon Juice, Sugar, Potassium Sorbate (Preservative).), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Spice Cumin Whole 1# (Ground Cumin.), Spice Indian Garam Masala 14.1 oz (Coriander Powder, Red Chili Powder, Mango Powder, Cumin Powder, Curry Leaves Powder, Fennel Seed Powder, Clove Powder, Bay Leaves Powder, Salt, Cinnamon Powder, Black Pepper Powder, Anistar Powder, Mace Powder.), Spice Ground Turmeric 1# (Ground Turmeric), Spice Coriander Ground 16 oz, Spice Kashmiri Chilly Powder 7 oz (Spices, Turmeric (As Color), Salt, Red Pepper, Spice Extract)"
     },
+    "76df4cd4-2c81-48d1-a2d4-2b20d0e381f6": {
+      "name": "Parstock Earhart Coconut Curry Udon Bowl",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "77039018-8257-49a8-a19e-6196874fd7b0": {
       "name": "Saus-Zage",
       "isVegetarian": false,
@@ -27170,6 +27244,26 @@
         "Wheat": false
       },
       "ingredients": "Beef Ground 80 Fine Grind Chuck 60# Avg (Halal Ground Beef.), Peas (Green Peas.), Tomato Diced 6 x #10 (Tomatoes, Tomato Juice, Less Than 2% Of: Salt, Calcium Chloride, Citric Acid.), Yellow Onion (Onion.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Lemon Juice (Filtered Water, Lemon Juice Concentrate, Sodium Bisulfite (Preservative), Sodium Benzoate (Preservative) And Lemon Oil.), Pepper Chili Serrano 2# (Chili Serrano Pepper.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Cilantro (Cilantro.), Ground Cumin (Cumin.), Spice Indian Garam Masala 14.1 oz (Coriander Powder, Red Chili Powder, Mango Powder, Cumin Powder, Curry Leaves Powder, Fennel Seed Powder, Clove Powder, Bay Leaves Powder, Salt, Cinnamon Powder, Black Pepper Powder, Anistar Powder, Mace Powder.), Spice Coriander Ground 16 oz, Cayenne Pepper (Red Pepper.)"
+    },
+    "81f50d7b-2294-4ea3-8c69-7f21f9dc2b33": {
+      "name": "Banana Cream Pie ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "81f84191-161e-4ddb-9579-d2298311278d": {
       "name": "Korean Fried Tofu Cubes",
@@ -29730,6 +29824,26 @@
         "Wheat": true
       },
       "ingredients": "Donut Hole Rich #02831 (Enriched Unbleached Wheat Flour, (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Palm Oil, Sugar, Water, Soybean Oil, Contains Less Than 2% Of The Following: Defatted Soy Flour, Egg Yolks, Leavening (Sodium Acid Pyrophosphate, Baking Soda), Dextrose, Wheat Starch, Salt, Skim Milk, Modified Wheat Starch, Potato Flour, Artificial Favor, Sodium Stearoyl Lactylate.), Cinnamon Sugar (Granulated Sugar (Sugar.), Cinnamon)"
+    },
+    "8d38a4a5-92d6-4a75-a10f-9d6ed612fa08": {
+      "name": "Mango Chunks",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "8d5d322c-b015-43f3-8147-2374ec4d8290": {
       "name": "Black Olives",
@@ -47734,6 +47848,26 @@
         "Wheat": true
       },
       "ingredients": "Dough Pizza Fz to Oven 16\" (Wheat Flour Enriched (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid, Malted Barley Flour), Water, Yeast, Degermed White Corn Meal, Salt, Palm Oil, Sugar, Soybean Oil, Dry Malt (Malted Barley Flour, Wheat Flour, Dextrose), Dough Conditioner (Enriched Wheat Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Inactive Dry Yeast, Xanthan Gum, Enzymes, Ascorbic Acid), Vital Wheat Gluten, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Dough Improver (Enriched Wheat Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Guar Gum, Ammonium Sulfate, Monoglycerides, Enzymes, Ascorbic Acid [Vitamin C] And Soybean Oil), Garlic.), GF Alfredo Sauce (Cream, Skim Milk, Water, Parmesan And Asiago Cheese Blend With Flavor (Parmesan And Asiago Cheeses [Cultured Milk, Salt, Enzymes], Enzyme Modified Parmesan Cheese [Cultured Milk, Water, Salt, Enzymes], Whey, Salt), Soybean Oil, Canola Oil, 2% Or Less Of Modified Cornstarch, Salt, Romano Cheese Made From Cow's Milk Cultured Milk, Salt, Enzymes), Lactose, Spice, Xanthan Gum, Datem, Mono- And Diglycerides, Seasoning (Cornstarch, Extractives Of Turmeric And Annatto, Natural Flavor), Seasoning (Maltodextrin, Flavor, Enzyme Modified Butterfat).), Garlic Herb Chicken Strip (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Seasoning (Corn Syrup Solids, Salt, Sugar, Garlic Powder, Spices, Hydrolyzed Corn, Soy And Wheat Gluten Protein, Parsley, Onion Powder, Natural Flavor, Soybean Oil), Isolated Soy Protein Product (Isolated Soy Protein, Modified Food Starch, Unmodified Corn Starch, Carrageenan, With Less Than 2% Soy Lecithin), Romano Cheese (Made From Pasteurized Part-Skim Cow's Milk, Cheese Cultures, Salt And Enzymes), Sodium Phosphates.), Shredded Aged White Cheddar Cheese (Cheddar (Pasteurized Milk, Cheese Cultures, Salt, And Enzymes), Aged Cheddar (Cultured Pasteurized Milk, Salt, Enzymes).), Jalapeno Pepper Rings (Jalapeno Peppers, Water, Vinegar, Salt, Calcium Chloride, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative), Yellow 5.), Red Onion (Onion.)"
+    },
+    "e3931564-28c5-40b6-836a-c86d6e81112b": {
+      "name": "Long Grain Rice",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "e395abfc-aded-4c03-a027-fdb9769f879b": {
       "name": "Chicken Peanut Stir Fry",
