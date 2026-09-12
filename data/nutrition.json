@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T13:25:23.633Z",
+  "updatedAt": "2026-09-12T12:45:34.706Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -28807,6 +28807,26 @@
       },
       "ingredients": "Mild Italian Sausage Link (Pork, Water, Salt, Corn Syrup Solids, Spices, BHA, BHT, Propyl Gallate, Citric Acid.)"
     },
+    "86d4d166-d785-4f17-8164-a6b861914a64": {
+      "name": "Stir Fry Vegetables",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "8700fde0-d703-44f3-80b0-7fc9a257baa3": {
       "name": "Roasted Parmesan Edamame",
       "isVegetarian": true,
@@ -44025,6 +44045,40 @@
       },
       "ingredients": "Creamy Peanut Butter (Roasted Peanuts And Sugar, Contains 2% Or Less Of Molasses, Fully Hydrogenated Vegetable Oils (Rapeseed And Soybean), Mono And Diglycerides, Salt.), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Granulated Sugar (Sugar.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Brown Sugar (Sugar, Molasses.), Egg Whole Frozen (Whole Egg, Citric Acid.), Flavor Vanilla Imitation (Water, Caramel Color, Artifical Flavor, Citric Acid, Sodium Benzoate (Preservative).), Baking Soda 24 x 1# (Sodium Bicarbonate)"
     },
+    "cf7a5441-35cc-416a-8745-77515536d22f": {
+      "name": "Cinnamon Muffin",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Muffin",
+      "calories": 238.3264,
+      "protein": 2.3059,
+      "carbs": 44.3506,
+      "fat": 5.3783,
+      "saturatedFat": 3.0733,
+      "sodium": 430.2388,
+      "fiber": 0.782,
+      "sugar": 23.5867,
+      "addedSugar": 22.8178,
+      "cholesterol": 7.6828,
+      "calcium": 38.6734,
+      "iron": 1.5388,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Mix Muffin Basic TFF Add Water Complete (Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar, Palm Oil, Leavening (Sodium Acid Pyrophosphate, Baking Soda, Monocalcium Phosphate), Contains 2% Or Less Of: Dextrose, Modified Whey, Salt, Egg Yolk With Sodium Silicoaluminate, Xanthan Gum, Soy Lecithin, Nonfat Milk, Whey, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour, Eggs With Sodium Silicoaluminate.), Granulated Sugar (Sugar.), Cinnamon"
+    },
     "cf7f6476-98d2-4a56-b649-1588be5b67c7": {
       "name": "Meatballs with Spaghetti Sauce",
       "isVegetarian": false,
@@ -54020,6 +54074,26 @@
         "Wheat": true
       },
       "ingredients": "Flour Tortilla 12\" (Enriched Bleched Flour (Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Shortening (Interesterified And Hydrogenated Soybean Oils), Contains 2% Or Less Of: Salt, Baking Soda, Sodium Acid Pyrophosphate, Distilled Monoglycerides, Enzymes, Vital Wheat Gluten, Cellulose Gum, Fumaric Acid And Calcium Propionate And Sorbic Acid (To Maintain Freshness).), Diced Tomatoes (Tomatoes.), Shredded Lettuce (Lettuce.), Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Color) When Applicable.), Bacon Round (Smoke Flavoring Added, Cured With Water, Salt, Smoke Flavoring, Sugar, Sodium Diacetate, Dextrose, Sodium Erythorbate, Sodium Nitrite.), Ranch Dressing (Soybean Oil, Water, Vinegar, Buttermilk, Sugar, Egg Yolk Salt, Contains Less Than 2% Of The Following: Modified Food Starch, Dried Whey, Xanthan Gum, Dried Garlic, Died Onions, Spice, Phosphoric Acid, Disodium Guanylate, Disodium Inosinate, Sorbic Acid And Calcium Disodium EDTA (To Protect Flavor)..)"
+    },
+    "ff69a147-436a-4c0b-a596-8ce70a1a730e": {
+      "name": "Baked Tofu",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "ff834cec-8702-4e9f-9387-1a815bdbc46e": {
       "name": "Parstock Earhart Pho Bowl",
