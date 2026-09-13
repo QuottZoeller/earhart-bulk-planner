@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T12:45:34.706Z",
+  "updatedAt": "2026-09-13T13:44:14.076Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -53830,6 +53830,26 @@
         "Wheat": false
       },
       "ingredients": "Chicken Breast Diced Raw 1/2\" (Chicken Breast.), Milk Coconut 6 x #10 (Coconut Milk, Water, Polysorbate 60, Guar Gum, Sodium Carboxyl Methyl Cellulose, Sodium Metabisulfite (Preservative).), Red Pepper (Red Pepper.), Green Pepper (Green Pepper.), Paste Curry Green 35 oz (Green Chili, Lemon Grass, Garlic Salt, Galangal, Shrimp Paste, Kaffir Lime Peel, Coriander Seed, Pepper, Cumin, Tumeric.), Fish Sauce (Anchovy Extract (Fish), Salt, Water, Sugar, Hydrolyzed Vegetable Protein (Corn).), Granulated Sugar (Sugar.), Cilantro (Cilantro.), Minced Garlic (Peeled Garlic), Lime Juice (Lime Juice From Concentrate (Water, Concentrated Lime Juice) And Less Than 2% Of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative).), Ginger Root 30# Case (Ginger Root.)"
+    },
+    "fe0a04f2-af50-4ca7-9f5f-9a2fa4580c7d": {
+      "name": "Pineapple Cubes",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "fe1fb65c-7cbb-4baf-b113-117442f1e546": {
       "name": "Hamburger buns",
