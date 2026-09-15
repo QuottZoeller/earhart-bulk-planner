@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:48:06.760Z",
+  "updatedAt": "2026-09-15T14:15:02.358Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -910,6 +910,40 @@
         "Wheat": false
       },
       "ingredients": "Grilled Chicken Breast Strip (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Modified Food Starch, Seasoning (Chicken Broth, Chicken Flavor, Sea Salt, Potato Flour, Onion Powder, Cane Sugar And Natural Flavor), Salt, Dextrose, Sodium Phosphates, Carrageenan.)"
+    },
+    "0454bd76-564c-43f3-b6a5-015b0cf24656": {
+      "name": "Funnel Cake Fries",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Ounce",
+      "calories": 83.9985,
+      "protein": 1.05,
+      "carbs": 14.1747,
+      "fat": 2.625,
+      "saturatedFat": 0.525,
+      "sodium": 110.2481,
+      "fiber": 0,
+      "sugar": 4.7249,
+      "addedSugar": 4.7249,
+      "cholesterol": 10.4998,
+      "calcium": 5.2499,
+      "iron": 0.105,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Water, Funnel Fry Mix (Wheat Starch, Yellow Corn Flour, Soybean Oil, Sodium Caseinate, Eggs, Egg Whites, Egg Yolks, Guar Gum, Leavening [Baking Soda, Sodium Acid Pyrophosphate], Mono And Diglycerides, Propylene Glycol Monostearate, Salt, Soy Flour), Sugar, Soybean Oil, Artificial Flavor."
     },
     "04649de5-1b26-41a7-93ba-598b32c6684d": {
       "name": "Chef Salad",
@@ -10435,6 +10469,26 @@
       },
       "ingredients": "Pie Dutch Apple Unbaked 10\" (Apples, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Vegetable Oil (Palm, Soybean), Corn Syrup, Contains 2% Or Less: Modified Corn Starch, Salt, White Grape Juice Concentrate, Cellulose Gel, Cinnamon, Wheat Gluten, Lemon Juice Solids, Natural Flavors.)"
     },
+    "33c535b4-e444-4c35-9e8a-ed993b70f8b5": {
+      "name": "bacon",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "33d5e455-c1bc-488a-be9e-191648d667cd": {
       "name": "Gluten Free Granola",
       "isVegetarian": true,
@@ -15588,6 +15642,26 @@
         "Wheat": false
       },
       "ingredients": "Fresh Spinach (Spinach.)"
+    },
+    "498ae094-2ec1-4864-9b2e-62ffc0a418c7": {
+      "name": "Parstock Earhart Ultimate Cheese Pizza",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "4992cea2-643f-43bc-9536-ccc35579be5b": {
       "name": "Garlic and Rosemary Eggplant",
@@ -52342,6 +52416,40 @@
         "Wheat": true
       },
       "ingredients": "Breaded Chicken Breast Strips (Boneless Chicken Breast With Rib Meat, Water, Salt, Sodium Phosphates. Breaded With Enriched Bleached Wheat Flour And Durum Flour (Enriched With Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Modified Food Starch, Salt, Garlic Powder, Spices, Soybean Oil, Yellow Corn Flour, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Dextrose, Extractives Of Paprika, Cellulose Gum (Sodium Carboxymethylcellulose), Natural Flavor, Sodium Alginate, Not More Than 2% Silicon Dioxide Added To Prevent Caking.)"
+    },
+    "f353cf88-c279-4829-a21e-cc242822bc99": {
+      "name": "Ole Zmokey",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "1/2 Pizza",
+      "calories": 813.8137,
+      "protein": 28.9147,
+      "carbs": 126.6954,
+      "fat": 21.7304,
+      "saturatedFat": 9.3305,
+      "sodium": 1661.6603,
+      "fiber": 2.0591,
+      "sugar": 36.6443,
+      "addedSugar": 28.778,
+      "cholesterol": 93.5532,
+      "calcium": 310.2379,
+      "iron": 5.5165,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Dough Pizza Sheeted 10\" (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean Oil, Yeast, Dry Malt (Malted Barley Flour, Wheat Flour, Dextrose), Salt, Sugar, Baking Powder (Corn Starch, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate), Dough Improver (Wheat Flour, Monocalcium Phosphate, Corn Starch, Salt, Mono- And- Diglycerides, Contains 2% Or Less Of: Ascorbic Acid, Potassium Iodate & Enzyme).), Chicken Pulled 2 x 5# (Dark Chicken Meat, Water, Tomatoes (Water, Tomato Paste), Seasoning (Salt, Sugar, Spices, Dehydrated Garlic, Xanthan Gum, Mustard, Dehydrated Onion, Corn Syrup Solids, Paprika, Canola Oil, Chili Pepper, Lemon Juice Solids, Natural Flavors, Garlic Powder), Chicken Fat, Sodium Phosphates, Rice Flour, Chicken Type Flavor (Autolyzed Yeast Extract, Flavors, Salt, Chicken Fat), Chili Powder (Chili Peppers, Flavoring), Curry Powder (Spices, Turmeric).), Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Food Starch, Contains Less Than 2% Of: Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spice, Caramel Color, Molasses, Sodium Benzoate (Preservative), Dried Garlic, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed.), Shredded 3 Cheese Blend (Paseurized Milk, Cheese Cultures, Salt, Enzymes.), Sliced Red Onion, Sweet Baby Ray's BBQ Sauce (High Fructose Corn Syrup, Distilled Vinegar, Tomato Paste, Modified Food Starch, Contains Less Than 2% Of: Salt, Pineapple Juice Concentrate, Natural Smoke Flavor, Spice, Caramel Color, Molasses, Sodium Benzoate (Preservative), Dried Garlic, Mustard Flour, Corn Syrup, Sugar, Tamarind, Natural Flavor, Celery Seed.), Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Color) When Applicable.)"
     },
     "f36b310b-eb1f-49e2-8de1-a467ccf919a6": {
       "name": "Hand-Carved Roast Beef",
