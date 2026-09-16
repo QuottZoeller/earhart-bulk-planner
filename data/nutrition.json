@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:15:02.358Z",
+  "updatedAt": "2026-09-16T14:07:09.362Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -3060,6 +3060,40 @@
         "Wheat": false
       },
       "ingredients": "Milk Coconut 6 x #10 (Coconut Milk, Water, Polysorbate 60, Guar Gum, Sodium Carboxyl Methyl Cellulose, Sodium Metabisulfite (Preservative).), Rice Long Grain (Long Grain Rice Enriched With Iron (Ferric Orthophosphate), Niacin, Thiamin (Thiamin Mononitrate), And Folic Acid.), Butter Solids (Pasteurized Cream (Milk), Salt.), Coconut (Coconut, Sugar, Water, Propylene Glycol (Sustains Freshness), Salt, Sodium Metabisulfite (Preserves Whiteness).), Spice Cinnamon Stick 2.75\" (Cinnamon Stick.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.)"
+    },
+    "100bdd8b-ec41-4fbb-a6df-5c6696cff7b9": {
+      "name": "Bacon Round",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "Slice",
+      "calories": 46.7767,
+      "protein": 3.1184,
+      "carbs": 0,
+      "fat": 3.6382,
+      "saturatedFat": 1.5592,
+      "sodium": 166.3171,
+      "fiber": 0,
+      "sugar": 0,
+      "addedSugar": 0,
+      "cholesterol": 15.5922,
+      "calcium": 0,
+      "iron": 0,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Smoke Flavoring Added, Cured With Water, Salt, Smoke Flavoring, Sugar, Sodium Diacetate, Dextrose, Sodium Erythorbate, Sodium Nitrite."
     },
     "1059c5c7-ce19-4f0b-bd65-64d4a5cfd976": {
       "name": "Strawberries",
@@ -25214,6 +25248,40 @@
         "Wheat": true
       },
       "ingredients": "Mix Muffin Basic TFF Add Water Complete (Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar, Palm Oil, Leavening (Sodium Acid Pyrophosphate, Baking Soda, Monocalcium Phosphate), Contains 2% Or Less Of: Dextrose, Modified Whey, Salt, Egg Yolk With Sodium Silicoaluminate, Xanthan Gum, Soy Lecithin, Nonfat Milk, Whey, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour, Eggs With Sodium Silicoaluminate.), Granulated Sugar (Sugar.), Semisweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor, Milk).), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Cocoa Mix Dispenser Pack (Sugar, Modified Whey, Cocoa Processed With Alkali, Non Dairy Creamer (Coconut Oil, Corn Syrup Solids, Sodium Caseinate [Milk Derived], Sodium Citrate, Mono And Diglycerides, Salt, Sodium Aluminosilicate), Contains 2% Or Less Of Silicon Dioxide, Salt, Cellulose Gum, Artificial Flavor.)"
+    },
+    "75b1be1f-a779-455b-8f50-45115905f52e": {
+      "name": "Chocolate Cream Dessert",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "8 X 10 Cut Serving",
+      "calories": 294.0741,
+      "protein": 1.8551,
+      "carbs": 31.3451,
+      "fat": 17.8683,
+      "saturatedFat": 14.8817,
+      "sodium": 292.4188,
+      "fiber": 0.2532,
+      "sugar": 20.0835,
+      "addedSugar": 17.9543,
+      "cholesterol": 3.372,
+      "calcium": 89.8027,
+      "iron": 0.402,
+      "allergens": {
+        "Coconut": true,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "2% Milk (Reduced Fat Milk, Vitamin A Palmitate And Vitamin D3.), Whipped Topping (Water, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), High Fructose Corn Syrup, Contains Less Than 2% Of The Following: Carbohydrate Gum, Polysorbate 60, Salt, Polyglycerol Esters Of Fatty Acids, Soy Lecithin, Disodium Phosphate, Sodium Citrate, Xanthan Gum, Artificial Flavor, Natural Flavor, Colored With Turmeric And Annatto Extracts.), Mix Pudding Instant Chocolate 24 oz. (Dextrose, Sugar, Modified Food Starch, Cocoa Processed With Alkali, Less Than 2% Disodium Phosphate, Tetrasodium Pyrophosphate, Salt, Tricalcium Phosphate, Caramel Color, Natural And Artificial Flavor, Silicon Dioxide, Emulsifier Blend (Nonfat Dry Milk, Mono And Diglycerides), Red 40.), Whpd Topping, Graham Cracker Crumbs (Whole Wheat Flour, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Vitamin B1 (Thiamin Mononitrate), Vitamin B2 (Riboflavin), Folic Acid), Sugar, Vegetable Oil (Soybean And/Or Canola Oil), Molasses, Honey, Corn Syrup, Contains 2% Or Less Of Leavening (Baking Soda, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Natural Flavors, Salt, Soy Lecithin.), Whipped Topping (Water, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), High Fructose Corn Syrup, Contains Less Than 2% Of The Following: Carbohydrate Gum, Polysorbate 60, Salt, Polyglycerol Esters Of Fatty Acids, Soy Lecithin, Disodium Phosphate, Sodium Citrate, Xanthan Gum, Artificial Flavor, Natural Flavor, Colored With Turmeric And Annatto Extracts.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Granulated Sugar (Sugar.), Topping Dark Chocolate Jimmies (Sugar, Corn Starch, Palm Oil, Cocoa, Artificial Flavors, Artificial Colors (FD&C Yellow No. 5 Aluminum Lake, FD&C Red No. 40 Aluminum Lake, FD&C Yellow No. 6 Aluminum Lake, FD&C Blue No. 1 Aluminum Lake And FD&C Red No. 3), Citric Acid, Shellac Gum And Potassium Sorbate As Preservative.)"
     },
     "75d6e739-6a77-4062-a402-ff28327fed65": {
       "name": "Bowtie Caesar Pasta Salad",
@@ -48790,6 +48858,40 @@
         "Wheat": true
       },
       "ingredients": "Fillings: Cabbage, Green Beans, Carrots, Mushroom, Onions, Vermicelli, Corn Starch, Sesame Oil, Soybean Oil, Ginger, Garlic, Salt, Spices. Wrapper: Wheat Flour, Water, Salt, Soybean Oil."
+    },
+    "e2844386-05c0-494a-bb77-22310c387c98": {
+      "name": "Cranberry Orange Muffin",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Muffin",
+      "calories": 298.3937,
+      "protein": 2.7871,
+      "carbs": 57.5243,
+      "fat": 6.0585,
+      "saturatedFat": 3.414,
+      "sodium": 478.4253,
+      "fiber": 1.8379,
+      "sugar": 30.9533,
+      "addedSugar": 28.4588,
+      "cholesterol": 8.531,
+      "calcium": 50.095,
+      "iron": 1.8108,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Mix Muffin Basic TFF Add Water Complete (Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar, Palm Oil, Leavening (Sodium Acid Pyrophosphate, Baking Soda, Monocalcium Phosphate), Contains 2% Or Less Of: Dextrose, Modified Whey, Salt, Egg Yolk With Sodium Silicoaluminate, Xanthan Gum, Soy Lecithin, Nonfat Milk, Whey, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour, Eggs With Sodium Silicoaluminate.), Orange Juice (Minute Maid Orange Juice (Orange Juice Concentrate from the USA, Brazil And Coasta Rica.)), Cranberries Sliced Frozen 20#, Orange Zest (Orange), Granulated Sugar (Sugar.), Granulated Sugar (Sugar.)"
     },
     "e30251bb-a70f-4977-a8ba-d6de9dfacf74": {
       "name": "Baked Ziti Pork Ragu",
