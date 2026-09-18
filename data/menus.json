@@ -1,279 +1,11 @@
 {
-  "generatedAt": "2026-09-17T14:12:49.315Z",
+  "generatedAt": "2026-09-18T13:30:56.694Z",
   "locations": {
     "earhart": {
       "name": "Earhart",
       "displayName": "Earhart",
       "category": "dining",
       "days": [
-        {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Breakfast",
-              "type": "Breakfast",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "Granite Grill",
-                  "items": [
-                    "6c883ba0-e283-4086-ab01-e181a6615435",
-                    "49589c3c-4068-4057-af54-f771d2ffab56",
-                    "86332472-08be-41fd-bf50-2759c25e7f93",
-                    "233d82b6-7691-4ee9-823b-4e58bb02731b",
-                    "ffe53c8f-387e-44ef-8474-8ae0021c7edd",
-                    "53c93b77-2eaa-4c19-8e30-5c4885a3bc01"
-                  ]
-                },
-                {
-                  "name": "The Gallery",
-                  "items": [
-                    "6fb853de-3219-493b-952b-2626b842273d"
-                  ]
-                },
-                {
-                  "name": "The Pastry Shop",
-                  "items": [
-                    "05782ddc-cb96-4259-8e3a-a379be36735b",
-                    "cb72c75b-72a4-447a-8a5a-ded4a7c9aac1",
-                    "5c4c102c-c82b-4676-bc9e-a8c33929c12e",
-                    "662aadf1-953c-4f7f-84e1-d433c6d7fb2a",
-                    "a8ff0f0b-8638-4f95-8973-376439dc4612",
-                    "5e54c87b-9a54-4073-be2d-125e7408cc3f",
-                    "33d5e455-c1bc-488a-be9e-191648d667cd",
-                    "35f8ace1-5a55-4be2-9a57-7166721db4b5",
-                    "d2610609-333a-4b5f-9080-dbc40805991a",
-                    "36c2e392-d4f9-44e3-ac6e-09ff62ecbc83",
-                    "2f79f0ae-686f-47a5-b7c5-15a1d430cc1d",
-                    "1bf25d09-e2dc-4437-818d-c5b55f5c56e8",
-                    "e2580868-4a79-4eaf-be27-0e18f7c5588b",
-                    "47335b2c-9e91-4368-8541-1801cd4e929f",
-                    "91018895-f02e-4f9d-9107-0acf8b0dea4a",
-                    "ad4cd8db-5445-414d-8960-f0acc58f9030",
-                    "a92c1b04-bc3c-42a0-80f8-58dc8a0fa90c",
-                    "991aa015-3197-46d7-af1b-6413a030070c",
-                    "37f56aa1-a123-4a27-88dc-90e96a8b9ea5"
-                  ]
-                },
-                {
-                  "name": "Oatmeal Bar",
-                  "items": [
-                    "9319676c-b719-4657-81d2-6355d070b5c5",
-                    "8c53e1d4-0d10-401c-b7db-9e77c4996142",
-                    "968e662c-2c76-434b-91f6-46b21ee52930",
-                    "bcdae061-3f7f-47c6-9483-b29bf4ef0379",
-                    "d2610609-333a-4b5f-9080-dbc40805991a",
-                    "a8483451-f8bb-484e-9412-e3027e1573c7",
-                    "0c48bf1f-1804-4f89-b55c-4b9269cd66ba",
-                    "f084c83e-9700-4194-ba87-1c9ddf1a08bd",
-                    "f9e263f1-07a5-4b93-8a7e-d9681120e628",
-                    "0c48bf1f-1804-4f89-b55c-4b9269cd66ba"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "18c82f07-181e-4383-b06f-0095997a7faa",
-                    "fa5ba527-3a4a-4478-96bb-0225d44a4435",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "8a887719-a700-41fe-af71-88b38c6dc70c"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "Granite Grill",
-                  "items": [
-                    "ea76adaf-1daa-4b93-9cf3-36d1422699a8",
-                    "d02b2362-4e18-465f-a765-ba0c046c1b4a",
-                    "c8df3c4f-8065-44d7-9c77-7ee9ad6e698c",
-                    "bf428317-5f91-4a22-97af-537ce0b790af",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a"
-                  ]
-                },
-                {
-                  "name": "Heartland Classics",
-                  "items": [
-                    "a9305d91-36dc-4126-a72e-e020e5a07eeb",
-                    "5020be85-be5a-4377-b32d-2f008d58cfcc",
-                    "e64dabe9-e91e-4ad8-8ca8-88fd814bf781",
-                    "15b91261-ded2-471a-a4cb-11ed537b2fa4",
-                    "38ce3f45-44a6-4487-bc7f-f88d8f080e7c",
-                    "015cb9e3-a2df-462e-953f-8ade70ee56a4",
-                    "d2610609-333a-4b5f-9080-dbc40805991a"
-                  ]
-                },
-                {
-                  "name": "Aviator Snacks",
-                  "items": [
-                    "21bd7146-2cb4-4cbb-a74d-29123063a61b",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17",
-                    "08f9ff1f-3894-4a9a-8adb-36d2894c46df",
-                    "b7d4f432-7951-44b4-a936-8ad41d8b609c"
-                  ]
-                },
-                {
-                  "name": "The Gallery",
-                  "items": [
-                    "4bd0a23d-7dde-4970-a6d1-f8a75db6e670",
-                    "8250ca53-98cb-4ba9-9699-c760e1375c3d",
-                    "ab98a972-ac86-42d6-8a5a-02b00ade4549",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "923de590-b346-44f9-962d-dbec39f26ab5"
-                  ]
-                },
-                {
-                  "name": "Totally Italian",
-                  "items": [
-                    "39612e49-9315-41c9-8f30-ebfd4908c628",
-                    "526393e5-3278-4b88-9536-b4e52b41c1ed"
-                  ]
-                },
-                {
-                  "name": "The Pastry Shop",
-                  "items": [
-                    "6f6ef6dc-a4ac-47d1-8295-e82c302dba20",
-                    "98734e6a-53d8-48b9-bdb0-8877a9576601",
-                    "7ceebc42-5b67-4d3f-be9b-a40f37ed4a08"
-                  ]
-                },
-                {
-                  "name": "Salad Stop",
-                  "items": [
-                    "fe840b88-8888-4e79-ab2e-814dd9e7a45f",
-                    "662aadf1-953c-4f7f-84e1-d433c6d7fb2a",
-                    "a8ff0f0b-8638-4f95-8973-376439dc4612",
-                    "5e54c87b-9a54-4073-be2d-125e7408cc3f"
-                  ]
-                },
-                {
-                  "name": "Souper Deli",
-                  "items": [
-                    "255941ec-72a3-45cb-bfed-cb2d0e4119d9"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "1359a560-f891-4657-8bde-23d1ce3995d4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "9da15eea-f096-434c-8cd1-3e6b3c1a4cd4",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 2,
-              "stations": [
-                {
-                  "name": "Granite Grill",
-                  "items": [
-                    "ea76adaf-1daa-4b93-9cf3-36d1422699a8",
-                    "d02b2362-4e18-465f-a765-ba0c046c1b4a",
-                    "c8df3c4f-8065-44d7-9c77-7ee9ad6e698c",
-                    "bf428317-5f91-4a22-97af-537ce0b790af",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a"
-                  ]
-                },
-                {
-                  "name": "Heartland Classics",
-                  "items": [
-                    "475e55db-1d99-48d0-8c9d-1309d83f8238",
-                    "dd53ce1d-f2b9-4698-8dc2-f6a5d96b87d1",
-                    "5020be85-be5a-4377-b32d-2f008d58cfcc",
-                    "7b1c81e7-edf0-4d38-9825-51b04dca5ed1",
-                    "dd9f6dd6-ba33-4381-841d-af01d912588e",
-                    "015cb9e3-a2df-462e-953f-8ade70ee56a4",
-                    "d2610609-333a-4b5f-9080-dbc40805991a"
-                  ]
-                },
-                {
-                  "name": "Aviator Snacks",
-                  "items": [
-                    "21bd7146-2cb4-4cbb-a74d-29123063a61b",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17",
-                    "08f9ff1f-3894-4a9a-8adb-36d2894c46df",
-                    "b7d4f432-7951-44b4-a936-8ad41d8b609c"
-                  ]
-                },
-                {
-                  "name": "The Gallery",
-                  "items": [
-                    "4bd0a23d-7dde-4970-a6d1-f8a75db6e670",
-                    "8250ca53-98cb-4ba9-9699-c760e1375c3d",
-                    "ab98a972-ac86-42d6-8a5a-02b00ade4549",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "923de590-b346-44f9-962d-dbec39f26ab5"
-                  ]
-                },
-                {
-                  "name": "Totally Italian",
-                  "items": [
-                    "39612e49-9315-41c9-8f30-ebfd4908c628",
-                    "526393e5-3278-4b88-9536-b4e52b41c1ed"
-                  ]
-                },
-                {
-                  "name": "The Pastry Shop",
-                  "items": [
-                    "6f6ef6dc-a4ac-47d1-8295-e82c302dba20",
-                    "98734e6a-53d8-48b9-bdb0-8877a9576601",
-                    "7ceebc42-5b67-4d3f-be9b-a40f37ed4a08"
-                  ]
-                },
-                {
-                  "name": "Salad Stop",
-                  "items": [
-                    "fe840b88-8888-4e79-ab2e-814dd9e7a45f",
-                    "662aadf1-953c-4f7f-84e1-d433c6d7fb2a",
-                    "a8ff0f0b-8638-4f95-8973-376439dc4612",
-                    "5e54c87b-9a54-4073-be2d-125e7408cc3f"
-                  ]
-                },
-                {
-                  "name": "Souper Deli",
-                  "items": [
-                    "255941ec-72a3-45cb-bfed-cb2d0e4119d9"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "1359a560-f891-4657-8bde-23d1ce3995d4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "9da15eea-f096-434c-8cd1-3e6b3c1a4cd4",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
@@ -290,8 +22,8 @@
                     "6c883ba0-e283-4086-ab01-e181a6615435",
                     "4c971f2e-fca7-4933-a3dd-ab6bfdb0b3fd",
                     "c63a2a32-09d2-4d60-a8fc-4005e1a738d5",
-                    "6d2445b9-1c11-4341-9cff-267fc6f71d9f",
-                    "53c93b77-2eaa-4c19-8e30-5c4885a3bc01"
+                    "53c93b77-2eaa-4c19-8e30-5c4885a3bc01",
+                    "e0945dc5-8fa5-4586-b625-0b42c01842ba"
                   ]
                 },
                 {
@@ -714,6 +446,7 @@
                   "items": [
                     "21c9dc15-1c15-470c-b608-927f0bca717a",
                     "0a0d1e53-9365-48bc-b449-6d37ce0f3ed5",
+                    "292a668b-03ff-4855-aaa8-101300c8f5c6",
                     "793905a8-edce-43b2-be5e-79d545b3c5ee",
                     "005fa9e5-75b4-4e5b-8483-d4958fbc9ac5",
                     "ff0b5fe2-f41a-4c3f-87f7-6cc9469523c9"
@@ -794,6 +527,7 @@
                   "items": [
                     "21c9dc15-1c15-470c-b608-927f0bca717a",
                     "0a0d1e53-9365-48bc-b449-6d37ce0f3ed5",
+                    "292a668b-03ff-4855-aaa8-101300c8f5c6",
                     "793905a8-edce-43b2-be5e-79d545b3c5ee",
                     "005fa9e5-75b4-4e5b-8483-d4958fbc9ac5",
                     "ff0b5fe2-f41a-4c3f-87f7-6cc9469523c9"
@@ -2769,261 +2503,6 @@
       "displayName": "Ford",
       "category": "dining",
       "days": [
-        {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Breakfast",
-              "type": "Breakfast",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "BoilerQ",
-                  "items": [
-                    "6c883ba0-e283-4086-ab01-e181a6615435",
-                    "53c93b77-2eaa-4c19-8e30-5c4885a3bc01",
-                    "0bc9d39f-5e44-47df-820b-64f0c23c551d",
-                    "9e32c702-f013-4d75-b767-2d411a5c3f32",
-                    "b92e7ae2-c9de-435a-b62e-4c278e90fa8f",
-                    "0c48bf1f-1804-4f89-b55c-4b9269cd66ba",
-                    "f9e263f1-07a5-4b93-8a7e-d9681120e628",
-                    "4b219abf-3412-41fb-be77-ea4de806e5d3"
-                  ]
-                },
-                {
-                  "name": "Salami and Swiss",
-                  "items": [
-                    "86012f74-9046-4051-b1fa-b9b6b8e0e269",
-                    "4c80adff-aa1d-4b6d-a02b-b8014789affa",
-                    "f084c83e-9700-4194-ba87-1c9ddf1a08bd",
-                    "cec2dfa6-4f39-4a7e-b143-e77da17a1e8f",
-                    "a32b7925-0f30-4de6-a0fc-1fde018e929a",
-                    "6ea795d3-67d5-4a39-9e81-d2ee5e9e64aa"
-                  ]
-                },
-                {
-                  "name": "Sugar Hill",
-                  "items": [
-                    "dc0c0251-58c5-48f7-b078-3443b0e93ee9"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "8a887719-a700-41fe-af71-88b38c6dc70c",
-                    "6b7a1b33-2117-459b-a115-cf49b2882c99",
-                    "376f78d1-56ce-44ce-963a-c6710560c654"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "BoilerQ",
-                  "items": [
-                    "8214a737-761c-4965-be9b-c4a7852b5c25",
-                    "55e312d4-80f1-4349-84f5-57d521347c56",
-                    "fca6f6a1-c881-478b-bf95-2b5c8b09706e",
-                    "880a0426-707b-468d-bb22-4eb1707fc512",
-                    "ef9d521e-99f4-41d7-900c-69190bd2a55e",
-                    "d0d7da1b-e05b-4fee-a607-d8a552307f94"
-                  ]
-                },
-                {
-                  "name": "Potāto, Potäto",
-                  "items": [
-                    "5503df6b-079a-48ba-accd-184ae2a41f90",
-                    "9ae04007-d231-4a73-98fb-b6ddc3a436c2",
-                    "1646a2af-e1c3-442a-a57b-69c29ccecd60",
-                    "444e5dfe-1074-460a-a539-f41dca3e2609",
-                    "91dfe1f5-91e4-4c50-b30d-ffa7ac1d1cb4",
-                    "6b5c4d8e-2cf8-476e-bbcc-55a0e761bbab"
-                  ]
-                },
-                {
-                  "name": "International Market",
-                  "items": [
-                    "21416734-943f-4a0e-8a61-aef39aace651",
-                    "fddb5d07-b613-4e09-89f1-b40fc47d34a1",
-                    "77492629-1a36-412d-99d1-a29a01d5e30e",
-                    "6ef54b98-dd3e-4321-9dd8-e4a01503eadb",
-                    "cbb3d1ad-e2d0-4b9d-a9a5-5d6bf865a7f1",
-                    "3108c1d9-ba5a-45cf-9eaf-de211ecda91b",
-                    "df79537e-5130-4e1b-97b3-03010f71627d",
-                    "d8c97f04-be7a-45b6-a11c-77cd14fc7242"
-                  ]
-                },
-                {
-                  "name": "Parmesan Tomato",
-                  "items": [
-                    "d192b0a5-d774-4029-9cc2-7779ddfae5ac",
-                    "29a7aa2d-0f3a-4357-8b0b-aa12e33f47d3",
-                    "5963cabb-0f45-41c8-9604-16aa637f1a5b"
-                  ]
-                },
-                {
-                  "name": "Salami and Swiss",
-                  "items": [
-                    "34422c2a-dd40-44e5-8394-804b0e3a64bf",
-                    "79723909-c4cf-4c76-aa95-cef81c8d12f1",
-                    "538f6f1b-e266-42da-bb57-4e96da5d6353",
-                    "cec2dfa6-4f39-4a7e-b143-e77da17a1e8f",
-                    "a32b7925-0f30-4de6-a0fc-1fde018e929a",
-                    "0c65ef86-1674-4e5c-b262-7da962c9f406"
-                  ]
-                },
-                {
-                  "name": "Sugar Hill",
-                  "items": [
-                    "01c96af9-4c7f-46cd-9d18-52d0ac180d53",
-                    "1279d949-60ff-40fd-8990-baa1f022c1b0",
-                    "c9c25543-d867-4b25-9664-44c9e495feac",
-                    "23bcb55a-4baf-4d50-b63a-8bb1f50f28c0"
-                  ]
-                },
-                {
-                  "name": "Simple Servings",
-                  "items": [
-                    "91dfe1f5-91e4-4c50-b30d-ffa7ac1d1cb4",
-                    "444e5dfe-1074-460a-a539-f41dca3e2609",
-                    "1646a2af-e1c3-442a-a57b-69c29ccecd60"
-                  ]
-                },
-                {
-                  "name": "Salads",
-                  "items": [
-                    "6f395b9f-820c-430d-920f-8bb004905080",
-                    "01a17994-06c2-4c94-b709-715898d37e88"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "4b533d25-da25-48d6-8053-1803c83b47a8",
-                    "6b7a1b33-2117-459b-a115-cf49b2882c99",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 2,
-              "stations": [
-                {
-                  "name": "BoilerQ",
-                  "items": [
-                    "8214a737-761c-4965-be9b-c4a7852b5c25",
-                    "55e312d4-80f1-4349-84f5-57d521347c56",
-                    "fca6f6a1-c881-478b-bf95-2b5c8b09706e",
-                    "880a0426-707b-468d-bb22-4eb1707fc512",
-                    "ef9d521e-99f4-41d7-900c-69190bd2a55e",
-                    "d0d7da1b-e05b-4fee-a607-d8a552307f94"
-                  ]
-                },
-                {
-                  "name": "Potāto, Potäto",
-                  "items": [
-                    "78d0c24f-8cbd-4e76-a0f3-319fff058a44",
-                    "6b5c4d8e-2cf8-476e-bbcc-55a0e761bbab",
-                    "444e5dfe-1074-460a-a539-f41dca3e2609",
-                    "1646a2af-e1c3-442a-a57b-69c29ccecd60",
-                    "91dfe1f5-91e4-4c50-b30d-ffa7ac1d1cb4",
-                    "f97ea168-2600-4a61-8cad-bad4bbc83863"
-                  ]
-                },
-                {
-                  "name": "International Market",
-                  "items": [
-                    "21416734-943f-4a0e-8a61-aef39aace651",
-                    "fddb5d07-b613-4e09-89f1-b40fc47d34a1",
-                    "77492629-1a36-412d-99d1-a29a01d5e30e",
-                    "6ef54b98-dd3e-4321-9dd8-e4a01503eadb",
-                    "cbb3d1ad-e2d0-4b9d-a9a5-5d6bf865a7f1",
-                    "3108c1d9-ba5a-45cf-9eaf-de211ecda91b",
-                    "df79537e-5130-4e1b-97b3-03010f71627d",
-                    "d8c97f04-be7a-45b6-a11c-77cd14fc7242"
-                  ]
-                },
-                {
-                  "name": "Parmesan Tomato",
-                  "items": [
-                    "d192b0a5-d774-4029-9cc2-7779ddfae5ac",
-                    "29a7aa2d-0f3a-4357-8b0b-aa12e33f47d3",
-                    "5963cabb-0f45-41c8-9604-16aa637f1a5b"
-                  ]
-                },
-                {
-                  "name": "Salami and Swiss",
-                  "items": [
-                    "34422c2a-dd40-44e5-8394-804b0e3a64bf",
-                    "79723909-c4cf-4c76-aa95-cef81c8d12f1",
-                    "538f6f1b-e266-42da-bb57-4e96da5d6353",
-                    "cec2dfa6-4f39-4a7e-b143-e77da17a1e8f",
-                    "a32b7925-0f30-4de6-a0fc-1fde018e929a",
-                    "0c65ef86-1674-4e5c-b262-7da962c9f406"
-                  ]
-                },
-                {
-                  "name": "Sugar Hill",
-                  "items": [
-                    "01c96af9-4c7f-46cd-9d18-52d0ac180d53",
-                    "1279d949-60ff-40fd-8990-baa1f022c1b0",
-                    "c9c25543-d867-4b25-9664-44c9e495feac",
-                    "23bcb55a-4baf-4d50-b63a-8bb1f50f28c0"
-                  ]
-                },
-                {
-                  "name": "Simple Servings",
-                  "items": [
-                    "91dfe1f5-91e4-4c50-b30d-ffa7ac1d1cb4",
-                    "444e5dfe-1074-460a-a539-f41dca3e2609",
-                    "1646a2af-e1c3-442a-a57b-69c29ccecd60"
-                  ]
-                },
-                {
-                  "name": "Salads",
-                  "items": [
-                    "6f395b9f-820c-430d-920f-8bb004905080",
-                    "01a17994-06c2-4c94-b709-715898d37e88"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "4b533d25-da25-48d6-8053-1803c83b47a8",
-                    "6b7a1b33-2117-459b-a115-cf49b2882c99",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
@@ -5383,288 +4862,6 @@
       "category": "dining",
       "days": [
         {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "SafeBytes - Top 9 Free",
-                  "items": [
-                    "03a5e7d7-9481-4eba-a58d-8cc88c06d851",
-                    "aeb68478-1f09-4a66-ad86-5a9cfefc5d22",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd",
-                    "949e5886-4ea8-4ef3-87ca-1017a6849e5d"
-                  ]
-                },
-                {
-                  "name": "Clickbait",
-                  "items": [
-                    "4ea98f5f-85aa-40f1-a763-30b2ee91c2ae",
-                    "3549cf95-1698-49df-98a8-8fce25289c17",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a",
-                    "13fa2fc2-0af2-4193-b215-826c3434fa5a",
-                    "5c7d5c81-f792-4c46-8934-e3e09d731c6c",
-                    "8ffd2b33-af64-4311-95b9-2a0d5b0ea3d9"
-                  ]
-                },
-                {
-                  "name": "Chef Choice",
-                  "items": [
-                    "e12eff45-2af8-4551-b9eb-f54b8bdc4bbf",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Cookie Cache",
-                  "items": [
-                    "f8175066-12d7-482d-8580-73c44b54ba08",
-                    "33a69247-d0a9-4637-ab45-d876bd0d2009",
-                    "25093723-e818-4730-a0e7-be1eaa925c74"
-                  ]
-                },
-                {
-                  "name": "Bit by Bit",
-                  "items": [
-                    "02d143b2-d2b2-42c6-9ac3-55dcb1259ee7",
-                    "55e312d4-80f1-4349-84f5-57d521347c56",
-                    "1ccfb904-da2f-401f-93ec-ac69c27d0eda",
-                    "1a5dd07f-834b-4465-8d4b-b2f4fcae7e01"
-                  ]
-                },
-                {
-                  "name": "Big Bytes",
-                  "items": [
-                    "40732679-cd68-4d71-90ea-b0bfc185a5bb",
-                    "1759c2ba-c55a-4072-b5ae-d018d8266f89",
-                    "6687f64d-3ec4-4bff-b42a-eaa3a1ff220c",
-                    "5dcf50a4-cac2-4969-8ea9-5a4a079be685",
-                    "690ea93b-a1b2-4d24-918f-22e6a9d23624",
-                    "db3ec71d-8894-41a0-97ca-4106a971ad6f",
-                    "233d82b6-7691-4ee9-823b-4e58bb02731b",
-                    "e1d83a2b-ea9b-49db-a68c-b8fbcf7db0d1",
-                    "223e958e-885c-4ba2-b11f-c8f2adba5124",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Data Crunch",
-                  "items": [
-                    "7ae32d88-b272-41c2-b928-ce9b991ade16",
-                    "f55b6690-f347-418a-9937-be02775e5b1b",
-                    "6c4fcb26-84d8-4036-ad33-44d754781daf",
-                    "78c71078-ecb0-423f-a221-b344b4e3be4f"
-                  ]
-                },
-                {
-                  "name": "Firewall",
-                  "items": [
-                    "111bf101-d390-488d-ae78-75d18749d346",
-                    "8ffd2b33-af64-4311-95b9-2a0d5b0ea3d9",
-                    "5c7d5c81-f792-4c46-8934-e3e09d731c6c",
-                    "13fa2fc2-0af2-4193-b215-826c3434fa5a",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "af8a5c65-37af-4f7d-b891-498383c4d995",
-                    "765a1e57-a1c8-4952-aeb0-5b8c9cf273c1",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Late Lunch",
-              "type": "Snack",
-              "status": "Open",
-              "order": 2,
-              "stations": [
-                {
-                  "name": "SafeBytes - Top 9 Free",
-                  "items": [
-                    "03a5e7d7-9481-4eba-a58d-8cc88c06d851",
-                    "aeb68478-1f09-4a66-ad86-5a9cfefc5d22",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd",
-                    "949e5886-4ea8-4ef3-87ca-1017a6849e5d"
-                  ]
-                },
-                {
-                  "name": "Clickbait",
-                  "items": [
-                    "4ea98f5f-85aa-40f1-a763-30b2ee91c2ae",
-                    "3549cf95-1698-49df-98a8-8fce25289c17",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a",
-                    "13fa2fc2-0af2-4193-b215-826c3434fa5a",
-                    "5c7d5c81-f792-4c46-8934-e3e09d731c6c",
-                    "8ffd2b33-af64-4311-95b9-2a0d5b0ea3d9"
-                  ]
-                },
-                {
-                  "name": "Chef Choice",
-                  "items": [
-                    "e12eff45-2af8-4551-b9eb-f54b8bdc4bbf",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Cookie Cache",
-                  "items": [
-                    "f8175066-12d7-482d-8580-73c44b54ba08",
-                    "33a69247-d0a9-4637-ab45-d876bd0d2009",
-                    "25093723-e818-4730-a0e7-be1eaa925c74"
-                  ]
-                },
-                {
-                  "name": "Bit by Bit",
-                  "items": [
-                    "02d143b2-d2b2-42c6-9ac3-55dcb1259ee7",
-                    "55e312d4-80f1-4349-84f5-57d521347c56",
-                    "1ccfb904-da2f-401f-93ec-ac69c27d0eda",
-                    "1a5dd07f-834b-4465-8d4b-b2f4fcae7e01"
-                  ]
-                },
-                {
-                  "name": "Data Crunch",
-                  "items": [
-                    "7ae32d88-b272-41c2-b928-ce9b991ade16",
-                    "f55b6690-f347-418a-9937-be02775e5b1b",
-                    "6c4fcb26-84d8-4036-ad33-44d754781daf",
-                    "78c71078-ecb0-423f-a221-b344b4e3be4f"
-                  ]
-                },
-                {
-                  "name": "Firewall",
-                  "items": [
-                    "111bf101-d390-488d-ae78-75d18749d346",
-                    "8ffd2b33-af64-4311-95b9-2a0d5b0ea3d9",
-                    "5c7d5c81-f792-4c46-8934-e3e09d731c6c",
-                    "13fa2fc2-0af2-4193-b215-826c3434fa5a",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "af8a5c65-37af-4f7d-b891-498383c4d995",
-                    "765a1e57-a1c8-4952-aeb0-5b8c9cf273c1",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 3,
-              "stations": [
-                {
-                  "name": "SafeBytes - Top 9 Free",
-                  "items": [
-                    "03a5e7d7-9481-4eba-a58d-8cc88c06d851",
-                    "aeb68478-1f09-4a66-ad86-5a9cfefc5d22",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd",
-                    "949e5886-4ea8-4ef3-87ca-1017a6849e5d"
-                  ]
-                },
-                {
-                  "name": "Clickbait",
-                  "items": [
-                    "4ea98f5f-85aa-40f1-a763-30b2ee91c2ae",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a",
-                    "3549cf95-1698-49df-98a8-8fce25289c17",
-                    "13fa2fc2-0af2-4193-b215-826c3434fa5a",
-                    "5c7d5c81-f792-4c46-8934-e3e09d731c6c",
-                    "8ffd2b33-af64-4311-95b9-2a0d5b0ea3d9",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Chef Choice",
-                  "items": [
-                    "e12eff45-2af8-4551-b9eb-f54b8bdc4bbf",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Cookie Cache",
-                  "items": [
-                    "f8175066-12d7-482d-8580-73c44b54ba08",
-                    "33a69247-d0a9-4637-ab45-d876bd0d2009",
-                    "25093723-e818-4730-a0e7-be1eaa925c74"
-                  ]
-                },
-                {
-                  "name": "Bit by Bit",
-                  "items": [
-                    "02d143b2-d2b2-42c6-9ac3-55dcb1259ee7",
-                    "55e312d4-80f1-4349-84f5-57d521347c56",
-                    "1ccfb904-da2f-401f-93ec-ac69c27d0eda",
-                    "1a5dd07f-834b-4465-8d4b-b2f4fcae7e01"
-                  ]
-                },
-                {
-                  "name": "Big Bytes",
-                  "items": [
-                    "b1890c38-92db-4451-9947-fa5111c1a588",
-                    "0a0d1e53-9365-48bc-b449-6d37ce0f3ed5",
-                    "553c5d21-4ddf-4805-8c92-7808d11d4f96",
-                    "690ea93b-a1b2-4d24-918f-22e6a9d23624",
-                    "db3ec71d-8894-41a0-97ca-4106a971ad6f",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Data Crunch",
-                  "items": [
-                    "7ae32d88-b272-41c2-b928-ce9b991ade16",
-                    "f55b6690-f347-418a-9937-be02775e5b1b",
-                    "6c4fcb26-84d8-4036-ad33-44d754781daf",
-                    "78c71078-ecb0-423f-a221-b344b4e3be4f"
-                  ]
-                },
-                {
-                  "name": "Firewall",
-                  "items": [
-                    "111bf101-d390-488d-ae78-75d18749d346",
-                    "8ffd2b33-af64-4311-95b9-2a0d5b0ea3d9",
-                    "5c7d5c81-f792-4c46-8934-e3e09d731c6c",
-                    "13fa2fc2-0af2-4193-b215-826c3434fa5a",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "af8a5c65-37af-4f7d-b891-498383c4d995",
-                    "765a1e57-a1c8-4952-aeb0-5b8c9cf273c1",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
           "meals": [
@@ -7504,247 +6701,6 @@
       "category": "dining",
       "days": [
         {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Breakfast",
-              "type": "Breakfast",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "Romeo & Parmesan",
-                  "items": [
-                    "0cca3864-6390-4257-9e02-ccb890e86165"
-                  ]
-                },
-                {
-                  "name": "Classic Flavors",
-                  "items": [
-                    "6c883ba0-e283-4086-ab01-e181a6615435",
-                    "c63a2a32-09d2-4d60-a8fc-4005e1a738d5",
-                    "59bf1033-2f1d-4a12-abc4-f1b2f7077fe9",
-                    "845e6cd2-0cb3-4eaa-ab76-bf19e654d902",
-                    "6ea795d3-67d5-4a39-9e81-d2ee5e9e64aa",
-                    "53c93b77-2eaa-4c19-8e30-5c4885a3bc01"
-                  ]
-                },
-                {
-                  "name": "Fresh Tastes",
-                  "items": [
-                    "6b41961b-4b32-41d8-a9db-00e15d2af2b4",
-                    "42965e57-f502-400f-875a-5bfed6fe3195"
-                  ]
-                },
-                {
-                  "name": "Delectables",
-                  "items": [
-                    "279d40f1-a8cd-4f2b-825c-a70fe3f8237d",
-                    "78afe7d8-073e-44c6-844e-49117c09b125"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "fa0d7d81-f64e-4a3b-89d0-b1c0a1d54ea3",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "8a887719-a700-41fe-af71-88b38c6dc70c",
-                    "8a887719-a700-41fe-af71-88b38c6dc70c",
-                    "376f78d1-56ce-44ce-963a-c6710560c654"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "La Fonda",
-                  "items": [
-                    "ee057e7d-ce96-4743-9b6e-6003c56b3a29",
-                    "0b089db2-4e17-4a81-93cf-a2c8c01a494f",
-                    "79bf1143-1763-48ce-92cc-0eeca0c57b65",
-                    "a8d73326-6b30-414a-8e48-5daea95b5f0b",
-                    "5f44992f-f9dc-4920-b287-bae594e39b90",
-                    "f8f548fa-e607-4aeb-a705-e42718668d34",
-                    "06d8dd22-fe62-45e8-88a8-911b1cb30f81",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17"
-                  ]
-                },
-                {
-                  "name": "Romeo & Parmesan",
-                  "items": [
-                    "6c7ad283-9467-478c-b0a8-17bb09f82018",
-                    "526f3bd3-e6f8-475e-a976-60000f96a1b0"
-                  ]
-                },
-                {
-                  "name": "Classic Flavors",
-                  "items": [
-                    "aeffd50c-7541-424f-b667-9eb5620f1aae",
-                    "2c155803-4105-466d-a894-182385cb1511",
-                    "dd53ce1d-f2b9-4698-8dc2-f6a5d96b87d1",
-                    "cc614b40-c72a-4679-83e0-296c780f969d",
-                    "c13a4a05-24b5-4766-8a6a-ac1db9f0e835",
-                    "6b0cc671-b1c8-4540-9b2e-bd2fb27681f0"
-                  ]
-                },
-                {
-                  "name": "Mozzarella Fresca",
-                  "items": [
-                    "bc19ba26-ea56-4267-9142-b53b375c9d16",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a",
-                    "ef2d27de-fd60-4c90-beb6-0651adccac08"
-                  ]
-                },
-                {
-                  "name": "Fresh Tastes",
-                  "items": [
-                    "141e0144-7902-4062-ada4-28e620136966",
-                    "6b41961b-4b32-41d8-a9db-00e15d2af2b4",
-                    "42965e57-f502-400f-875a-5bfed6fe3195"
-                  ]
-                },
-                {
-                  "name": "Gluten Friendly",
-                  "items": [
-                    "e12eff45-2af8-4551-b9eb-f54b8bdc4bbf",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "6b0cc671-b1c8-4540-9b2e-bd2fb27681f0"
-                  ]
-                },
-                {
-                  "name": "Delectables",
-                  "items": [
-                    "a631f9ca-b010-4a20-8005-97ea3f69b085",
-                    "2009c5e9-22db-4a7e-9b12-72c74d9a2138",
-                    "d4972af8-c7c0-4f09-b9c1-d502fbf10363",
-                    "2a5d0029-3aa0-4c94-9e4f-52b2fbf2b01b"
-                  ]
-                },
-                {
-                  "name": "Vegetarian",
-                  "items": [
-                    "7d07264a-eb0a-4cf7-ac8c-93fe2acdd2bc",
-                    "8df51ebd-0271-4a66-bf2c-6e65cc8504b8"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "6b7a1b33-2117-459b-a115-cf49b2882c99",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 2,
-              "stations": [
-                {
-                  "name": "La Fonda",
-                  "items": [
-                    "a853c245-6368-4778-a64b-a65205ca7c78",
-                    "79bf1143-1763-48ce-92cc-0eeca0c57b65",
-                    "5f44992f-f9dc-4920-b287-bae594e39b90",
-                    "a8d73326-6b30-414a-8e48-5daea95b5f0b",
-                    "06d8dd22-fe62-45e8-88a8-911b1cb30f81",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17"
-                  ]
-                },
-                {
-                  "name": "Romeo & Parmesan",
-                  "items": [
-                    "6c7ad283-9467-478c-b0a8-17bb09f82018",
-                    "526f3bd3-e6f8-475e-a976-60000f96a1b0"
-                  ]
-                },
-                {
-                  "name": "Classic Flavors",
-                  "items": [
-                    "cd201d7b-6b1d-4fc5-81b3-0479c5e16cb5",
-                    "1759c2ba-c55a-4072-b5ae-d018d8266f89",
-                    "6687f64d-3ec4-4bff-b42a-eaa3a1ff220c",
-                    "747991a0-6a18-4472-9a17-b98e1e8e6b9c",
-                    "6eb7debc-ff94-4cf9-90d0-a764f5fb3e0a",
-                    "37273012-c06e-4a76-9a63-368097501c13",
-                    "cc4fb58c-3b5f-4438-b665-53ba083530a8"
-                  ]
-                },
-                {
-                  "name": "Mozzarella Fresca",
-                  "items": [
-                    "bc19ba26-ea56-4267-9142-b53b375c9d16",
-                    "ef2d27de-fd60-4c90-beb6-0651adccac08",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a"
-                  ]
-                },
-                {
-                  "name": "Fresh Tastes",
-                  "items": [
-                    "141e0144-7902-4062-ada4-28e620136966",
-                    "6b41961b-4b32-41d8-a9db-00e15d2af2b4",
-                    "42965e57-f502-400f-875a-5bfed6fe3195"
-                  ]
-                },
-                {
-                  "name": "Gluten Friendly",
-                  "items": [
-                    "e12eff45-2af8-4551-b9eb-f54b8bdc4bbf",
-                    "9e6eb50a-0778-49fd-a84e-d9d476f1a297",
-                    "cc4fb58c-3b5f-4438-b665-53ba083530a8"
-                  ]
-                },
-                {
-                  "name": "Delectables",
-                  "items": [
-                    "a631f9ca-b010-4a20-8005-97ea3f69b085",
-                    "2009c5e9-22db-4a7e-9b12-72c74d9a2138",
-                    "d4972af8-c7c0-4f09-b9c1-d502fbf10363",
-                    "2a5d0029-3aa0-4c94-9e4f-52b2fbf2b01b"
-                  ]
-                },
-                {
-                  "name": "Vegetarian",
-                  "items": [
-                    "ad81509c-7974-4aac-b273-0a821b2f536a",
-                    "36c564ab-649b-48e7-afd4-db4f506f964a",
-                    "7e5c8c47-d100-43aa-8ea8-2607ee981d78"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "6b7a1b33-2117-459b-a115-cf49b2882c99",
-                    "376f78d1-56ce-44ce-963a-c6710560c654",
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "15ca873d-ce96-40af-ae25-547aec74789b"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
           "meals": [
@@ -8478,6 +7434,7 @@
                 {
                   "name": "Vegetarian",
                   "items": [
+                    "d6f4132a-5e69-4552-b66b-0e74d2925089",
                     "6f1ce413-72c6-401d-bebd-c86ed8bd5d3c",
                     "9e6eb50a-0778-49fd-a84e-d9d476f1a297"
                   ]
@@ -9266,6 +8223,7 @@
                   "name": "La Fonda",
                   "items": [
                     "3ba2541e-bcd8-476d-82b0-3f3b0690c70a",
+                    "0b089db2-4e17-4a81-93cf-a2c8c01a494f",
                     "a8d73326-6b30-414a-8e48-5daea95b5f0b",
                     "5f44992f-f9dc-4920-b287-bae594e39b90",
                     "79bf1143-1763-48ce-92cc-0eeca0c57b65",
@@ -10204,302 +9162,6 @@
       "category": "dining",
       "days": [
         {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "SoHo International Market",
-                  "items": [
-                    "98abb8cd-0016-4587-ba1b-e98df19242e0",
-                    "57bedd01-7fba-4247-ab7d-0f3c514a21c1",
-                    "48cd9c1d-7f22-4437-bc97-d5adba855c4a",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17",
-                    "7af36f7c-db9f-40a9-a039-80324de2646a",
-                    "26e59970-482a-4597-97a5-93440f1419a6"
-                  ]
-                },
-                {
-                  "name": "Halal",
-                  "items": [
-                    "98abb8cd-0016-4587-ba1b-e98df19242e0",
-                    "57bedd01-7fba-4247-ab7d-0f3c514a21c1",
-                    "48cd9c1d-7f22-4437-bc97-d5adba855c4a",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17"
-                  ]
-                },
-                {
-                  "name": "Regent Grill",
-                  "items": [
-                    "31385092-de7a-413c-acdc-e489653d07fd",
-                    "585b0c64-164d-4ee7-8629-2e9a23197ab8",
-                    "b333f90b-859d-4d07-9069-9ec6e5d213b8",
-                    "2c7b6d7b-757d-44d8-9297-a5dfebc9fcab",
-                    "4fce70df-9332-460a-825f-46da9ee0a54f",
-                    "59bf1033-2f1d-4a12-abc4-f1b2f7077fe9",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Portobello Road - Vegetarian",
-                  "items": [
-                    "e71a8e30-5fb4-43be-a982-9115444979c1",
-                    "cb389e1f-a2f5-44f1-b538-6f046dccdbb0",
-                    "8250ca53-98cb-4ba9-9699-c760e1375c3d",
-                    "df79537e-5130-4e1b-97b3-03010f71627d",
-                    "d2721d90-db5b-451d-a450-bd5957ec40f9"
-                  ]
-                },
-                {
-                  "name": "Pasta Bar",
-                  "items": [
-                    "db9a6006-9b29-4705-8d9c-bc13f6d6f460",
-                    "ec7eb998-a992-48ef-a683-9aa5b038ff26",
-                    "49712305-dc59-4a2d-9982-f37a07466c69",
-                    "e3f88c0f-331d-4ccf-8e34-6c1ec53bc2fe"
-                  ]
-                },
-                {
-                  "name": "Chelsea Garden",
-                  "items": [
-                    "8f487137-3ad5-443e-9101-7f2ab5d01653",
-                    "ab24665f-bbc5-4782-b5e7-e6bc4677281e",
-                    "a4c1cdbb-5285-4248-957e-977f197f3857"
-                  ]
-                },
-                {
-                  "name": "Grain Central Station",
-                  "items": [
-                    "6ea8afe8-85b0-4b3a-81b4-325ada49efb1",
-                    "75d6e739-6a77-4062-a402-ff28327fed65"
-                  ]
-                },
-                {
-                  "name": "Abby Road Deli",
-                  "items": [
-                    "426a8fb8-2c00-4fa8-8bfa-9274b0b5f56b",
-                    "23cfc816-08e6-45af-92aa-e0ecf2a466e8"
-                  ]
-                },
-                {
-                  "name": "Devonshire Way",
-                  "items": [
-                    "0490d9d4-ae34-4e13-984c-4c2b3bdaaace",
-                    "1459911c-b46f-4e55-8e86-4748cedc5e8e",
-                    "6f6ef6dc-a4ac-47d1-8295-e82c302dba20"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
-                    "ac45f91f-385b-486b-8fbf-7982529e44d0",
-                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Late Lunch",
-              "type": "Snack",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "Halal",
-                  "items": [
-                    "98abb8cd-0016-4587-ba1b-e98df19242e0",
-                    "57bedd01-7fba-4247-ab7d-0f3c514a21c1",
-                    "48cd9c1d-7f22-4437-bc97-d5adba855c4a",
-                    "cd737c62-b163-473f-aa1c-148c085fcd17"
-                  ]
-                },
-                {
-                  "name": "Regent Grill",
-                  "items": [
-                    "31385092-de7a-413c-acdc-e489653d07fd",
-                    "585b0c64-164d-4ee7-8629-2e9a23197ab8",
-                    "b333f90b-859d-4d07-9069-9ec6e5d213b8",
-                    "4fce70df-9332-460a-825f-46da9ee0a54f",
-                    "2c7b6d7b-757d-44d8-9297-a5dfebc9fcab",
-                    "59bf1033-2f1d-4a12-abc4-f1b2f7077fe9",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Pasta Bar",
-                  "items": [
-                    "db9a6006-9b29-4705-8d9c-bc13f6d6f460",
-                    "ec7eb998-a992-48ef-a683-9aa5b038ff26",
-                    "49712305-dc59-4a2d-9982-f37a07466c69",
-                    "e3f88c0f-331d-4ccf-8e34-6c1ec53bc2fe"
-                  ]
-                },
-                {
-                  "name": "Chelsea Garden",
-                  "items": [
-                    "8f487137-3ad5-443e-9101-7f2ab5d01653",
-                    "ab24665f-bbc5-4782-b5e7-e6bc4677281e",
-                    "a4c1cdbb-5285-4248-957e-977f197f3857"
-                  ]
-                },
-                {
-                  "name": "Grain Central Station",
-                  "items": [
-                    "6ea8afe8-85b0-4b3a-81b4-325ada49efb1",
-                    "75d6e739-6a77-4062-a402-ff28327fed65"
-                  ]
-                },
-                {
-                  "name": "Abby Road Deli",
-                  "items": [
-                    "426a8fb8-2c00-4fa8-8bfa-9274b0b5f56b",
-                    "23cfc816-08e6-45af-92aa-e0ecf2a466e8"
-                  ]
-                },
-                {
-                  "name": "Devonshire Way",
-                  "items": [
-                    "0490d9d4-ae34-4e13-984c-4c2b3bdaaace",
-                    "1459911c-b46f-4e55-8e86-4748cedc5e8e",
-                    "6f6ef6dc-a4ac-47d1-8295-e82c302dba20"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 2,
-              "stations": [
-                {
-                  "name": "SoHo International Market",
-                  "items": [
-                    "9334dfa3-40ab-4738-82a2-7f11de3e066d",
-                    "a19887ea-99b1-44be-8b7e-02d92a6b8e3a",
-                    "4ece7a9d-e39f-4418-bc77-503ad541626b",
-                    "afb013fe-caa2-4a1c-896a-11e34e48ad8b",
-                    "67d8d5ca-7a79-4fa9-8460-39d53d630532",
-                    "c7f9b1f9-a5b1-42c2-84b9-9a9170645a42",
-                    "59bf1033-2f1d-4a12-abc4-f1b2f7077fe9",
-                    "7af36f7c-db9f-40a9-a039-80324de2646a",
-                    "26e59970-482a-4597-97a5-93440f1419a6"
-                  ]
-                },
-                {
-                  "name": "Halal",
-                  "items": [
-                    "9334dfa3-40ab-4738-82a2-7f11de3e066d",
-                    "a19887ea-99b1-44be-8b7e-02d92a6b8e3a",
-                    "4ece7a9d-e39f-4418-bc77-503ad541626b",
-                    "afb013fe-caa2-4a1c-896a-11e34e48ad8b",
-                    "67d8d5ca-7a79-4fa9-8460-39d53d630532",
-                    "c7f9b1f9-a5b1-42c2-84b9-9a9170645a42",
-                    "59bf1033-2f1d-4a12-abc4-f1b2f7077fe9"
-                  ]
-                },
-                {
-                  "name": "Regent Grill",
-                  "items": [
-                    "31385092-de7a-413c-acdc-e489653d07fd",
-                    "585b0c64-164d-4ee7-8629-2e9a23197ab8",
-                    "b333f90b-859d-4d07-9069-9ec6e5d213b8",
-                    "2c7b6d7b-757d-44d8-9297-a5dfebc9fcab",
-                    "4fce70df-9332-460a-825f-46da9ee0a54f",
-                    "59bf1033-2f1d-4a12-abc4-f1b2f7077fe9",
-                    "4803d385-361f-4870-a7c5-be9fba3781bd"
-                  ]
-                },
-                {
-                  "name": "Portobello Road - Vegetarian",
-                  "items": [
-                    "e71a8e30-5fb4-43be-a982-9115444979c1",
-                    "cb389e1f-a2f5-44f1-b538-6f046dccdbb0",
-                    "8250ca53-98cb-4ba9-9699-c760e1375c3d",
-                    "df79537e-5130-4e1b-97b3-03010f71627d",
-                    "4b2553a6-bc05-4095-b573-53d0b1d7aa9b"
-                  ]
-                },
-                {
-                  "name": "Pasta Bar",
-                  "items": [
-                    "db9a6006-9b29-4705-8d9c-bc13f6d6f460",
-                    "ec7eb998-a992-48ef-a683-9aa5b038ff26",
-                    "49712305-dc59-4a2d-9982-f37a07466c69",
-                    "e3f88c0f-331d-4ccf-8e34-6c1ec53bc2fe"
-                  ]
-                },
-                {
-                  "name": "Chelsea Garden",
-                  "items": [
-                    "8f487137-3ad5-443e-9101-7f2ab5d01653",
-                    "ab24665f-bbc5-4782-b5e7-e6bc4677281e",
-                    "a4c1cdbb-5285-4248-957e-977f197f3857"
-                  ]
-                },
-                {
-                  "name": "Grain Central Station",
-                  "items": [
-                    "6ea8afe8-85b0-4b3a-81b4-325ada49efb1",
-                    "75d6e739-6a77-4062-a402-ff28327fed65"
-                  ]
-                },
-                {
-                  "name": "Abby Road Deli",
-                  "items": [
-                    "426a8fb8-2c00-4fa8-8bfa-9274b0b5f56b",
-                    "23cfc816-08e6-45af-92aa-e0ecf2a466e8"
-                  ]
-                },
-                {
-                  "name": "Devonshire Way",
-                  "items": [
-                    "0490d9d4-ae34-4e13-984c-4c2b3bdaaace",
-                    "1459911c-b46f-4e55-8e86-4748cedc5e8e",
-                    "6f6ef6dc-a4ac-47d1-8295-e82c302dba20"
-                  ]
-                },
-                {
-                  "name": "By Request",
-                  "items": [
-                    "0944faba-c4c3-46ca-b2bb-bdbd2406ba60",
-                    "15ca873d-ce96-40af-ae25-547aec74789b",
-                    "8ddc50f6-09f4-4f17-b40d-62a41382ced5",
-                    "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
-                    "72449982-e58b-4d1f-a472-511a0ac6865a",
-                    "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
           "meals": [
@@ -10518,7 +9180,7 @@
                     "553c5d21-4ddf-4805-8c92-7808d11d4f96",
                     "d2610609-333a-4b5f-9080-dbc40805991a",
                     "2e3c0468-81bd-4726-a9b2-6027681e16a8",
-                    "2cc64a9e-d980-4f4c-a730-3e21d71435ba",
+                    "a95f21db-c977-4474-b35d-a30d96175a17",
                     "26e59970-482a-4597-97a5-93440f1419a6"
                   ]
                 },
@@ -10786,7 +9448,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -10877,7 +9541,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -10959,7 +9625,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11136,7 +9804,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11218,7 +9888,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11322,7 +9994,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11442,7 +10116,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11528,7 +10204,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11748,7 +10426,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11830,7 +10510,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -11935,7 +10617,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12045,7 +10729,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12127,7 +10813,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12231,7 +10919,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12342,7 +11032,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12427,7 +11119,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12538,7 +11232,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12644,7 +11340,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12755,7 +11453,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12836,7 +11536,9 @@
                     "5550caa6-fb15-4b37-ae34-b7afce1c70d2",
                     "72449982-e58b-4d1f-a472-511a0ac6865a",
                     "94f931a2-9812-452f-8843-d179e66190e4",
-                    "807ce933-8003-419a-b5c3-b7eef59b45a5"
+                    "807ce933-8003-419a-b5c3-b7eef59b45a5",
+                    "8e95ffbd-18bf-411c-9dd0-4a9182c0f50c",
+                    "ac45f91f-385b-486b-8fbf-7982529e44d0"
                   ]
                 }
               ]
@@ -12850,88 +11552,6 @@
       "displayName": "1bowl (Meredith)",
       "category": "quickbites",
       "days": [
-        {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "Main Course",
-                  "items": [
-                    "8a80f672-9ecb-4c0c-8c52-91a3c9d8b403"
-                  ]
-                },
-                {
-                  "name": "Vegetarian",
-                  "items": [
-                    "1745c168-f01c-4718-8a9f-b813d032e008"
-                  ]
-                },
-                {
-                  "name": "Salads",
-                  "items": [
-                    "958d8eaa-0764-434c-afc7-4f9bd182c84b"
-                  ]
-                },
-                {
-                  "name": "Smoothie Bowl",
-                  "items": [
-                    "9fb07079-4aa2-45b4-b611-5934b9197d8f"
-                  ]
-                },
-                {
-                  "name": "Yogurt Bowl",
-                  "items": [
-                    "00a5d718-b6ac-4ee1-a604-72423c63ad0e"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "Main Course",
-                  "items": [
-                    "8a80f672-9ecb-4c0c-8c52-91a3c9d8b403"
-                  ]
-                },
-                {
-                  "name": "Vegetarian",
-                  "items": [
-                    "1745c168-f01c-4718-8a9f-b813d032e008"
-                  ]
-                },
-                {
-                  "name": "Salads",
-                  "items": [
-                    "958d8eaa-0764-434c-afc7-4f9bd182c84b"
-                  ]
-                },
-                {
-                  "name": "Smoothie Bowl",
-                  "items": [
-                    "9fb07079-4aa2-45b4-b611-5934b9197d8f"
-                  ]
-                },
-                {
-                  "name": "Yogurt Bowl",
-                  "items": [
-                    "00a5d718-b6ac-4ee1-a604-72423c63ad0e"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
@@ -13589,71 +12209,6 @@
       "displayName": "Pete's Za (Tarkington)",
       "category": "quickbites",
       "days": [
-        {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Lunch/Dinner",
-              "type": "Snack",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "Main Course",
-                  "items": [
-                    "f17af7a1-ad3b-4875-ac49-be1157af8086",
-                    "5d4d8c50-bc92-4e85-a16b-e6de850cedac",
-                    "77039018-8257-49a8-a19e-6196874fd7b0",
-                    "176b7d99-4f27-4867-92f1-88ddddef1e50",
-                    "fd660b3e-b1f1-4b57-9d98-76044e82b6c8",
-                    "28c85b11-a1e8-45b1-bc23-9364ccc55cc5",
-                    "23cc3443-0e9e-4474-8a04-a41c29358d84",
-                    "f320d07c-5fa6-4f40-b0a0-f4d36ff245dc",
-                    "9f89a89e-5dbd-4377-9aa1-b8763e5a5528",
-                    "7da241f7-789a-4d97-80dd-a62511c69dc3",
-                    "6651f370-3318-4fdf-bca9-d19e1bbe1e9e"
-                  ]
-                },
-                {
-                  "name": "Grab & Go",
-                  "items": [
-                    "d164895f-9fe0-4f1d-9ffe-a2d7d0615e02",
-                    "aa7d2dca-faf1-4c0b-9d80-198dec52acb6",
-                    "a93248c7-7dda-4787-a72c-e73d0b61b866",
-                    "fd5b0fa1-98f9-4365-adfc-f000e441f91e",
-                    "11b84697-3738-4bad-b6b9-c31239373903",
-                    "2a09dc4b-b106-4434-8f79-abf042636781",
-                    "f5bfde19-35ed-4642-bfac-39a02a97be25",
-                    "e70c9e3a-a995-4d05-b944-b9584c3fb8ed",
-                    "947cca59-5df6-4f30-9e94-b15ebb88236c",
-                    "9dd35aa3-56bc-4fde-a7f5-be8fce60abdb",
-                    "04649de5-1b26-41a7-93ba-598b32c6684d",
-                    "ce635c8f-b2d3-45c0-ae04-73cbd660015a",
-                    "9a973a88-ce88-43b7-9924-451283b8c235",
-                    "bd66da2f-4132-493c-a39a-cabc7879f4a1",
-                    "3f121ac2-754e-4065-aefb-5bd18f5a9919",
-                    "a226d4fd-163c-4d78-9977-6331949fc27d",
-                    "6bf6f5da-ecd5-4b3a-8e6d-6e9539ae3d61",
-                    "3bc83429-90ab-4008-aa02-5050dede37d6",
-                    "b65c4e1a-46ba-4333-b19c-3999a642c7d3",
-                    "ee660863-86eb-4282-ac91-3a88e9df72c9",
-                    "63311f7c-e845-47eb-bb18-ae30c90abc00",
-                    "f2b6d200-1c52-4273-b7f2-8ce51a365eb7",
-                    "a0fde475-3a99-4041-8dc1-a08ba0dcd00b",
-                    "bf47b79b-541c-421d-add9-581eac5e7d18",
-                    "44b492a8-a3b8-469e-ab4f-c050687226b0",
-                    "2f9d4ef1-27f1-401a-a904-8498f94f0041",
-                    "d41677a7-e602-4215-81f4-0e7a0d61f706",
-                    "e8a9857a-a36c-4805-bd3e-1bc22e68ea83",
-                    "a0577925-ada2-4dcf-9ed1-daaa27fef721",
-                    "459119fe-b423-4dc2-9b27-bb1a8f3e9736"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",
@@ -14415,68 +12970,6 @@
       "displayName": "Sushi Boss (South)",
       "category": "quickbites",
       "days": [
-        {
-          "date": "2026-09-17",
-          "dayOfWeek": "Thursday",
-          "meals": [
-            {
-              "name": "Lunch",
-              "type": "Lunch",
-              "status": "Open",
-              "order": 0,
-              "stations": [
-                {
-                  "name": "Sushi Boss",
-                  "items": [
-                    "b1509068-842d-4951-a092-939405a1b1b0",
-                    "291701b9-64d2-404d-928f-f91d8cc74ed3",
-                    "b114c100-2d6b-4398-9919-e8c7e1509463",
-                    "37a3aca1-4952-4fc3-ad43-df19974467eb",
-                    "70d1a209-02d7-427a-acfe-d7727fdad3db",
-                    "c648d629-4080-4092-af21-c7cc6d7e1e3e",
-                    "d552d1c1-25f8-44e4-b048-a40715236b49",
-                    "54fe7f21-9b3e-4d85-9aeb-0301a28d3635",
-                    "0b7e8186-773c-4680-995e-113d2684301b",
-                    "299892eb-078e-4c8c-9e1b-76d94958b52b",
-                    "e5507f31-af93-4047-b675-2e74e8dcdaf0",
-                    "e8d810d7-25cd-4346-a985-fd2beb34a932",
-                    "e6b96b5f-541b-4190-91bb-f326524cae1a",
-                    "1521f2e5-1e7c-4102-a922-e272e1f4a26d",
-                    "5cd80b95-6e8b-48f8-8da3-b3ee45368e8b"
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Dinner",
-              "type": "Dinner",
-              "status": "Open",
-              "order": 1,
-              "stations": [
-                {
-                  "name": "Sushi Boss",
-                  "items": [
-                    "b1509068-842d-4951-a092-939405a1b1b0",
-                    "291701b9-64d2-404d-928f-f91d8cc74ed3",
-                    "b114c100-2d6b-4398-9919-e8c7e1509463",
-                    "37a3aca1-4952-4fc3-ad43-df19974467eb",
-                    "70d1a209-02d7-427a-acfe-d7727fdad3db",
-                    "c648d629-4080-4092-af21-c7cc6d7e1e3e",
-                    "d552d1c1-25f8-44e4-b048-a40715236b49",
-                    "54fe7f21-9b3e-4d85-9aeb-0301a28d3635",
-                    "0b7e8186-773c-4680-995e-113d2684301b",
-                    "299892eb-078e-4c8c-9e1b-76d94958b52b",
-                    "e5507f31-af93-4047-b675-2e74e8dcdaf0",
-                    "1521f2e5-1e7c-4102-a922-e272e1f4a26d",
-                    "5cd80b95-6e8b-48f8-8da3-b3ee45368e8b",
-                    "e6b96b5f-541b-4190-91bb-f326524cae1a",
-                    "e8d810d7-25cd-4346-a985-fd2beb34a932"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
         {
           "date": "2026-09-18",
           "dayOfWeek": "Friday",

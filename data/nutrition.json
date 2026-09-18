@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T14:12:49.314Z",
+  "updatedAt": "2026-09-18T13:30:56.692Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -8471,6 +8471,26 @@
     },
     "291701b9-64d2-404d-928f-f91d8cc74ed3": {
       "name": "Crab Philly Roll",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "292a668b-03ff-4855-aaa8-101300c8f5c6": {
+      "name": "Pasta Alfredo Pesto Linguini",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -48472,6 +48492,26 @@
         "Wheat": true
       },
       "ingredients": "Boston Cream Pie (Sugar, Enriched Flour (Wheat Flour, Bleached Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Skim Milk, Eggs, Vegetable Oil (Soybean, Palm), High Fructose Corn Syrup, Nonfat Dry Milk, Modified Food Starch, Corn Syrup, Hydrogenated Palm Kernel Oil, Corn Syrup Solids, Contains 2% Or Less: Natural And Artificial Flavor, Cocoa, Salt, Monoglycerides, Polysorbate 60 And 65, Sodium Stearoyl Lactylate, Cocoa Processed With Alkali, Carrageenan, Sodium Acid Pyrophosphate, Baking Soda, Soy Lecithin, Xanthan Gum, Polyglycerol Esters Of Fatty Acids, Beta Carotene, Sodium Citrate, Carbohydrate Gum, Disodium Phosphate, Chocolate Liquor, Mono- And Diglycerides, Wheat Starch, Monocalcium Phosphate, Guar Gum, Dextrose, Annatto Extract, Cream Of Tartar, Turmeric.)"
+    },
+    "e0945dc5-8fa5-4586-b625-0b42c01842ba": {
+      "name": "New Orleans Potatoes",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "e0c57dda-7001-45bd-9c22-214d3c4fa5cb": {
       "name": "Parstock 1B Green Goddess Smoothie Bowl",
