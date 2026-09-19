@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T13:30:56.692Z",
+  "updatedAt": "2026-09-19T12:59:43.198Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -44572,6 +44572,26 @@
         "Wheat": true
       },
       "ingredients": "Buttermilk Biscuit (Enriched Flour Bleached (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Oil (Palm And/Or Palm Kernel Oil), Sugar, Buttermilk, Baking Soda, Salt, Sodium Aluminum Phosphate, Sodium Acid Pyrophosphate, Modified Corn Starch, Pectin, Whey Protein.)"
+    },
+    "ce86bdce-946a-40bc-a1be-967f7495e9c4": {
+      "name": "Smoked Ribs",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "cec2dfa6-4f39-4a7e-b143-e77da17a1e8f": {
       "name": "Mango Chunks",
