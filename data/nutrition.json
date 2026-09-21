@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T13:31:04.258Z",
+  "updatedAt": "2026-09-21T15:47:10.980Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -3338,6 +3338,26 @@
         "Wheat": false
       },
       "ingredients": "Sauce Hoisin GF (Sugar, Water, Miso (Water, Soybeans, Rice, Salt, Alcohol), Soy Sauce (Water, Soybeans, Salt, Sugar), Dried Plum Puree (Dried Plum Juice Concentrate, Dried Plum), Garlic, Caramel Color, Modified Corn Starch, Salt, Vinegar, Spices, Citric Acid, Xanthan Gum.), Sauce Chili Red Gold 6 x #10 (Tomato Concentrate, High Fructose Corn Syrup, Distilled Vinegar, Corn Syrup, Salt, Less Than 2% Of: Dehydrated Onion, Spice, Natural Flavors.), Sauce Garlic Chili 3x1 Gal (Red Jalapeno Peppers, Salt, Garlic, Water, Acetic Acid, Potassium Sorbate (Preservative), Xanthan Gum, Sodium Metabisulfite (Sulfiting Agent/Preservative), Sodium Biphosphate (Sulfiting Agent/Preservative).), Juice Apple 100% 60oz (Apple Juice (Filtered Water, Apple Juice From Concentrate).), Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Granulated Sugar (Sugar.), Fish Sauce (Anchovy Extract (Fish), Salt, Water, Sugar, Hydrolyzed Vegetable Protein (Corn).), Oil Sesame 6 x 61 oz (Sesame Oil.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.)"
+    },
+    "1156e957-b35e-4476-84b3-e14af64418a2": {
+      "name": "Parstock Earhart Beef Barbacoa Taco",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "11b84697-3738-4bad-b6b9-c31239373903": {
       "name": "Oreo Cheesecake",
@@ -16741,6 +16761,26 @@
       },
       "ingredients": "Cream Half & Half (Cream (Milk), Mono And Diglycerides, Polysorbate 80, Carrageenan.), Monterey Jack Feather Shredded Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch And Powdered Cellulose Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor).), Pie Shell Raw 10\" (Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Shortening (Interesterified Soybean Oil, Fully Hydrogenated Cottonseed Oil), Water, Contains 2% Or Less: White Grape Juice Concentrate, Salt, Citrus Fiber, Xanthan Gum.), Scrambled Eggs (Whole Eggs, Reconstituted Nonfat Dry Milk, Egg Whites, Corn Oil, Salt, Xanthan Gum, Citric Acid, Natural Flavoring, Annatto (A Natural Color).), Diced Ham (Cured With Water, Salt, Sodium Phosphate, Potassium Acetate, Sodium Erythorbate, Potassium Diacetate, Sodium Nitrite.), Green Pepper (Green Pepper.), Yellow Onion (Onion.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Spice Mustard Ground (Mustard Flour.), Ground White Pepper (White Pepper.)"
     },
+    "4ca8f3e9-3183-4c23-9b9f-76b667e6cfe0": {
+      "name": "Roasted Vegetables",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "4cc22903-08de-4d9d-a0dc-66250334857c": {
       "name": "Muffin Cinnamon Streusel",
       "isVegetarian": false,
@@ -19924,6 +19964,26 @@
         "Wheat": false
       },
       "ingredients": "Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch. Contains 1% Or Less Of: Natural Flavor, Corn Starch, Citric Acid, Vegetable Juice (For Color), Potassium Sorbate Added To Maintain Freshness, Vitamin A Acetate, Vitamin D3."
+    },
+    "5c7681ea-be38-4c4c-8ff0-b97ff2a14dc2": {
+      "name": "Cookie n Cream Cake",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "5c7d5c81-f792-4c46-8934-e3e09d731c6c": {
       "name": "Grated Parmesan Cheese",
@@ -42399,6 +42459,40 @@
       },
       "ingredients": "Sour Cream (Cultured Milk, Cream, Whey, Modified Cornstarch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Nonfat Dry Milk.), Granulated Sugar (Sugar.), Semisweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor, Milk).), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Cocoa Powder (Cocoa Processed With Alkali.), Eggs, Eggs, Sugar Sanding Coarse White 8# (Cane Sugar, Carnauba Wax.), Flavor Vanilla Imitation (Water, Caramel Color, Artifical Flavor, Citric Acid, Sodium Benzoate (Preservative).), Baking Powder 4 x 10# (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Baking Soda 24 x 1# (Sodium Bicarbonate)"
     },
+    "c4ac6853-1e3d-4886-8e8b-aa1a0008702f": {
+      "name": "Black Beans",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "1/2 Cup",
+      "calories": 95.7292,
+      "protein": 5.9324,
+      "carbs": 17.8267,
+      "fat": 0.0378,
+      "saturatedFat": 0.0081,
+      "sodium": 161.5772,
+      "fiber": 5.2439,
+      "sugar": 1.0807,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 55.0003,
+      "iron": 1.5031,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride (Firming Agent).), Diced Onion (Onion.), Minced Garlic (Peeled Garlic), Ground Cumin (Cumin.), Spice Chili Powder Mild 18 oz (Chili Pepper And Other Spices, Salt, Garlic Powder.), Spice Coriander Ground 16 oz, Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Spice Oregano Dry Leaf 24 oz (Oregano Leaves.), Cinnamon, Cayenne Pepper (Red Pepper.)"
+    },
     "c4e2cb5e-7e0a-42cf-ba3c-7ac2e98a954d": {
       "name": "Sweet Potato Wedge Fries",
       "isVegetarian": true,
@@ -45707,6 +45801,40 @@
       },
       "ingredients": "Chicken Sliced Thigh Meat Halal, Butter Chicken Sauce (Water, Tomato Paste, Onions, Butter (Sweet Cream, Natural Flavoring), Cream (Heavy Cream, Milk), Canola Oil, Garlic, Spices, Sugar, Salt, Ginger, Tapioca Starch, Black Salt, Dried Fenugreek Leaves, Paprika.), Cream Heavy Whipping Quart (Cream (Milk), Mono And Diglycerides, Polysorbate 80 And Carrageenan.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Cilantro (Cilantro.)"
     },
+    "d384188e-9864-4afb-b5b0-e81c1989b197": {
+      "name": "Double Chocolate Chip Cookie",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Cookie",
+      "calories": 285.1697,
+      "protein": 3.0913,
+      "carbs": 34.7126,
+      "fat": 16.0111,
+      "saturatedFat": 7.9571,
+      "sodium": 164.4638,
+      "fiber": 2.3773,
+      "sugar": 21.6964,
+      "addedSugar": 21.617,
+      "cholesterol": 10.7084,
+      "calcium": 10.6383,
+      "iron": 2.53,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Semisweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor, Milk).), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Powdered Sugar (Sugar, Cornstarch.), Egg Whole Frozen (Whole Egg, Citric Acid.), Cocoa Powder (Cocoa Processed With Alkali.), Flavor Vanilla Imitation (Water, Caramel Color, Artifical Flavor, Citric Acid, Sodium Benzoate (Preservative).), Baking Soda 24 x 1# (Sodium Bicarbonate), Spice Cream of Tartar (Potassium Bitartarate.)"
+    },
     "d3e82578-20d2-4e0f-824c-978dc9843954": {
       "name": "Apple Nut Cake",
       "isVegetarian": true,
@@ -47561,6 +47689,26 @@
       },
       "ingredients": "Syrup Corn Light 4 x 1 Gallon (Corn Syrup, High Fructose Corn Syrup, Water, Salt, Natural And Artificial Vanilla Flavor.), Red Raspberries (Raspberries.), Gel Clear Instant Corn Starch 50# (Corn Starch.)"
     },
+    "dcd09f7f-f35a-4022-bba2-ba6e7ca86591": {
+      "name": "Garlic and Herb Breadsticks",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "dce56ce2-a4d6-4411-be23-abecf03276e9": {
       "name": "Vegan Breakfast Scramble",
       "isVegetarian": true,
@@ -48382,6 +48530,26 @@
         "Wheat": false
       },
       "ingredients": "Water, Syrup Blend (Sucrose Syrup And Corn Syrup), Contains 2% Or Less Of The Following: Cherry Juice Concentrate, Natural Flavor, Citric Acid, Xanthan Gum, Beet Juice Concentrate, Ascorbic Acid."
+    },
+    "dfe9a964-edba-4d46-8a3f-4c002afee830": {
+      "name": "Sauce Lemon Dill",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "dff03581-cfc1-46c1-ad86-3bc121bc0c0b": {
       "name": "Cinnamon",
