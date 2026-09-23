@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T13:58:01.849Z",
+  "updatedAt": "2026-09-23T14:09:24.790Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -34574,6 +34574,40 @@
         "Wheat": true
       },
       "ingredients": "Enriched Flour (Wheat Flour, Malted Barley, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Sugar, Yeast, Contains Less Than 2% Of Each Of The Following: Salt, Wheat Gluten, Calcium Propionate (A Preservative), Guar Gum, Soybean Oil, Wheat Flour, Sodium Stearoyl Lactylate, Monoglycerides, Citric Acid (A Preservative), Sorbic Acid (A Preservative), Enzymes, Hydrogenated Soybean Oil, Degerminated Yellow Corn Meal, Ascorbic Acid (A Preservative)."
+    },
+    "9988fb08-a0f0-4585-a61f-4c0743bcff81": {
+      "name": "Strawberry Cream Pie",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "10 Cut Serving",
+      "calories": 290.7908,
+      "protein": 2.1349,
+      "carbs": 37.3559,
+      "fat": 15.2514,
+      "saturatedFat": 10.9656,
+      "sodium": 223.6848,
+      "fiber": 1.1405,
+      "sugar": 25.9513,
+      "addedSugar": 19.9251,
+      "cholesterol": 32.8003,
+      "calcium": 85.4699,
+      "iron": 0.3896,
+      "allergens": {
+        "Coconut": true,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Strawberry Yogurt (Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch. Contains 1% Or Less Of: Natural Flavor, Corn Starch, Citric Acid, Vegetable Juice (For Color), Potassium Sorbate Added To Maintain Freshness, Vitamin A Acetate, Vitamin D3.), Sliced Strawberries (Strawberries, Sugar.), Cream Heavy Whipping Quart (Cream (Milk), Mono And Diglycerides, Polysorbate 80 And Carrageenan.), Pie Shell Graham Cracker 9\" (Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Vitamin B1 [Thiamin Mononitrate], Vitamin B2 [Riboflavin], Folic Acid), Palm And Palm Kernel Oil With TBHQ For Freshness, Sugar, Graham Flour, Corn Syrup, Molasses, Contains 2% Or Less Of Salt, Leavening (Baking Soda, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Malt Extract, Soy Lecithin.), Whipped Topping (Water, High Fructose Corn Syrup, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), Contains Less Than 2% Of The Following: Sodium Caseinate (A Milk Derivative), Dextrose, Artificial Flavor, Polysorbate 60, Sorbitan Monostearate, Guar Gum, Xanthan Gum, Colored With Turmeric And Annatto Extracts.), Vanilla Pudding (Dextrose, Sugar, Modified Food Starch, Less Than 2% Of Disodium Phosphate, Tetrasodium Pyrophosphate, Tricalcium Sulfate, Natural And Artificial Flavor, Salt, Xanthan Gum, Nonfat Dry Milk, Mono And Diglycerides, Yellow 5, Yellow 6.), Fresh Strawberries (Fresh Strawberries.), Graham Cracker Crumbs (Whole Wheat Flour, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Vitamin B1 (Thiamin Mononitrate), Vitamin B2 (Riboflavin), Folic Acid), Sugar, Vegetable Oil (Soybean And/Or Canola Oil), Molasses, Honey, Corn Syrup, Contains 2% Or Less Of Leavening (Baking Soda, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Natural Flavors, Salt, Soy Lecithin.)"
     },
     "99a13d79-af95-48dd-b661-1a90c9786a95": {
       "name": "Chicken Wings Honey BBQ",
