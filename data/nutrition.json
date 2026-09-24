@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:09:24.790Z",
+  "updatedAt": "2026-09-24T14:07:36.382Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -9047,6 +9047,26 @@
     },
     "29da9642-3ce3-4e7d-92e9-58ef73e95984": {
       "name": "French Toast Sticks",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "29e8aa0f-22da-4b4f-868a-a3f6b3a40d31": {
+      "name": "Mei Fun Vegetarian Wiley",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
