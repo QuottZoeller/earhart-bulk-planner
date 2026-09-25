@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T14:07:36.382Z",
+  "updatedAt": "2026-09-25T14:30:48.622Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -41228,6 +41228,40 @@
         "Wheat": false
       },
       "ingredients": "Fried Tofu Cubes (Tofu (Non-GMO Soybeans, Water, Calcium Sulfate, Glucono Delta Lactone (GDL).), Cornstarch (Corn Starch.)), Butter Chicken Sauce (Water, Tomato Paste, Onions, Butter (Sweet Cream, Natural Flavoring), Cream (Heavy Cream, Milk), Canola Oil, Garlic, Spices, Sugar, Salt, Ginger, Tapioca Starch, Black Salt, Dried Fenugreek Leaves, Paprika.)"
+    },
+    "b7ba16a2-cb50-4793-8ed4-2afbfaff19e7": {
+      "name": "Double Chocolate Chip Cookie",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Cookie",
+      "calories": 120,
+      "protein": 1,
+      "carbs": 18,
+      "fat": 5,
+      "saturatedFat": 2,
+      "sodium": 105,
+      "fiber": 0,
+      "sugar": 11,
+      "addedSugar": 11,
+      "cholesterol": 5,
+      "calcium": 10,
+      "iron": 1,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Enriched Bleached Flour (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Margarine (Palm Oil, Water, Soybean Oil, Contains 2% Or Less Of: Salt, Mono- And Diglycerides, Natural Flavors [Contains Milk], Citric Acid, Vitamin A Palmitate Added, Beta Carotene [Color]), White Chocolate Chips (Sugar, Whole Milk Powder, Cocoa Butter, Soy Lecithin, Artificial Flavor), Molasses, Dextrose, Eggs, Semi-Sweet Chocolate Chips (Sugar, Unsweetened Chocolate, Cocoa Butter, Soy Lecithin, Natural Flavor, Milk), Contains 2% Or Less Of: Cocoa (Processed With Alkali), Water, Wheat Starch, Caramel Color, Baking Soda, Salt, Natural And Artificial Flavor."
     },
     "b7d4f432-7951-44b4-a936-8ad41d8b609c": {
       "name": "Tri Color Tortilla Chips",
