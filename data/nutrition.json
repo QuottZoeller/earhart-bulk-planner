@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:37:37.430Z",
+  "updatedAt": "2026-09-28T17:30:19.350Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -20657,6 +20657,26 @@
       },
       "ingredients": "Zesty Orange Sauce (Sugar, Water, Soy Sauce (Water, Soybeans, Wheat, Salt), White Distilled Vinegar, Modified Cornstarch, 2% Or Less Of Garlic, Toasted Sesame Oil, Orange Juice Concentrate, Ginger, Xanthan Gum, Canola Oil, Salt, Extractives Of Annatto, Spice.), Tofu (Non-GMO Soybeans, Water, Calcium Sulfate, Glucono Delta Lactone (GDL).), Snow Peas (Sugar Snap Peas.), Yellow Onion (Onion.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Canola/Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.)"
     },
+    "5be829ff-1739-49ab-82c7-10b19c3757d1": {
+      "name": "Beef & Broccoli Stir-Fry",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "5befb4c1-9fe2-4d58-aead-4721a7df022b": {
       "name": "Thin Cut Fries",
       "isVegetarian": true,
@@ -22403,6 +22423,26 @@
     },
     "64f808b3-da72-4828-adf9-e7a5a084bd9a": {
       "name": "Glaze Maple",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "652322a3-329e-41a3-8df0-fbde99e6a163": {
+      "name": "Onion Gravy HP",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -25199,6 +25239,26 @@
       "allergens": null,
       "ingredients": null
     },
+    "6fd2e68a-1554-4117-9578-1bfec4cf591d": {
+      "name": "Sausage gravy",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "6ff4ccef-99cd-43c3-8553-311f7cc8fba1": {
       "name": "Cuban Yellow Rice",
       "isVegetarian": true,
@@ -25748,6 +25808,26 @@
         "Wheat": true
       },
       "ingredients": "Corn Nuggets Battered 12# (Corn, Water, Bleached Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Sugar, Yellow Corn Flour, Modified Food Starch, Liquid Margarine (Soybean Oil, Water, Salt, Hydrogenated Soybean Oil, Vegetable Monogylcerides, Soy Lecithin, Potassium Sorbate and Citric Acid [Preservatives], Artificial Flavor, Beta Carotene [Color], Vitamin A Palmitate Added), Contains Less Than 2% Of: Spice, Natural Flavors, Nonfat Milk, Egg, Whey, Dextrose, Salt, Corn Starch, Soy Flour, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Sodium Alginate, Sodium Citrate, Sodium Tripolyphosate, Soybean Oil, Calcium Chloride, Oleoresin Paprika (Color). Prefried in Vegetable Oil (Soybean and/or Canola Oil).)"
+    },
+    "731869f7-2492-4ec4-9a80-b6a9f7261565": {
+      "name": "Corn",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "731e5950-3d8a-4f5f-9b8f-0964e526183e": {
       "name": "Fried Egg Patty with Black Pepper",
@@ -28246,6 +28326,26 @@
         "Wheat": true
       },
       "ingredients": "Cheese Tortellini (Dough Mixture: Enriched Semolina Flour (Semolina Flour [Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid]), Water, Eggs, Turmeric. Filling: Ricotta Cheese (Whey, Pasteurized Whole Milk, Skim Milk, Vinegar, Salt) Imported Romano Cheese (Pasteurized Sheep’s Milk, Cheese Culture, Salt), Cracker Meal (Enriched Wheat Flour [Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Soybean Oil, Potato Flakes (Dehydrated Potatoes, Mono And Diglycerides [Preserved With Sodium Acid Pyrophosphate, Sodium Bisulfate And Citric Acid]), Salt, Garlic, Spices.), Pesto Alfredo Cream Sauce (GF Alfredo Sauce (Cream, Skim Milk, Water, Parmesan And Asiago Cheese Blend With Flavor (Parmesan And Asiago Cheeses [Cultured Milk, Salt, Enzymes], Enzyme Modified Parmesan Cheese [Cultured Milk, Water, Salt, Enzymes], Whey, Salt), Soybean Oil, Canola Oil, 2% Or Less Of Modified Cornstarch, Salt, Romano Cheese Made From Cow's Milk Cultured Milk, Salt, Enzymes), Lactose, Spice, Xanthan Gum, Datem, Mono- And Diglycerides, Seasoning (Cornstarch, Extractives Of Turmeric And Annatto, Natural Flavor), Seasoning (Maltodextrin, Flavor, Enzyme Modified Butterfat).), Kale Pesto (Canola Oil, Kale, Water, Basil, Garlic, Parmesan Cheese (Pasteurized Part Skim Cows' Milk, Cultures, Salt, Enzymes), Rice Vinegar, Spices, Salt, Salt Substitute (Potassium Chloride, Rice Flour), Xanthan Gum, Citric Acid.))"
+    },
+    "7d7c585e-e549-42e7-b0b0-fb2caaaaa188": {
+      "name": "Chicken Breast With Princess Rub",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "7d914a9e-4ee6-47fe-a0bb-00e0aeaf4628": {
       "name": "African Mango Chicken",
@@ -31518,6 +31618,26 @@
         "Wheat": false
       },
       "ingredients": "Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enzymes."
+    },
+    "8b67b59c-172c-4f1b-88c6-c5c4e574fa38": {
+      "name": "Spaghetti",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "8b750416-2da9-4e90-8f9f-f78b4e0ecd01": {
       "name": "Quinoa with Kale and Sundried Tomatoes",
@@ -48863,6 +48983,40 @@
       "allergens": null,
       "ingredients": null
     },
+    "d962de5f-90a1-4a44-94ef-e739051d356a": {
+      "name": "Apple Cinnamon Pancake",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Pancake",
+      "calories": 108.5467,
+      "protein": 2.3346,
+      "carbs": 21.2904,
+      "fat": 1.8671,
+      "saturatedFat": 0.4668,
+      "sodium": 201.8037,
+      "fiber": 0.7109,
+      "sugar": 7.0385,
+      "addedSugar": 4.8533,
+      "cholesterol": 4.6666,
+      "calcium": 14.9979,
+      "iron": 0.9359,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Pancake Mix Buttermilk (Enriched Flour Bleached (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Degermed Yellow Corn Meal, Dextrose, Modified Whey, Sugar, Soybean Oil, Leavening (Baking Soda, Sodium Aluminum Phosphate), Defatted Soy Flour, Palm Oil, Buttermilk, Salt, Egg Yolk With Sodium Silicoaluminate, Soy Lecithin, Potassium Chloride, Citric Acid, Annatto And Turmeric Extract Color.), Diced Apples (Diced Apples And Water.), Cinnamon Sugar (Granulated Sugar (Sugar.), Cinnamon)"
+    },
     "d9d3312c-3f98-4d34-9710-e8f23cf3e211": {
       "name": "Grilled Smoked Andouille Sausage",
       "isVegetarian": false,
@@ -49508,6 +49662,40 @@
         "Wheat": true
       },
       "ingredients": "Soup Cream Of Chicken (Chicken Stock, Water, Vegetable Oil, Modified Food Starch, Wheat Flour, Cream (Milk), Contains Less Than 2% Of: Salt, Dried Chicken, Soy Protein Concentrate, Chicken Fat, Yeast Extract, Beta Carotene (For Color), Dried Chicken Broth, Flavoring, Cane Sugar, Dried Onions, Corn Starch, Celery Extract, Onion Extract, Xanthan Gum.), Grilled Chicken Breast Strip (Skinless Boneless Chicken Breast Meat With Rib Meat, Water, Modified Food Starch, Seasoning (Chicken Broth, Chicken Flavor, Sea Salt, Potato Flour, Onion Powder, Cane Sugar And Natural Flavor), Salt, Dextrose, Sodium Phosphates, Carrageenan.), 2% Milk (Reduced Fat Milk, Vitamin A Palmitate And Vitamin D3.), Broccoli Florets (Broccoli.), Rotini Pasta (Semolina (Wheat), Durum Wheat Flour, Niacin (Vitamin B3), Ferrous Sulfate (Iron), Thiamin Mononitrate (Vitamin B1), Riboflavin (Vitamin B2), Folic Acid.), Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Color) When Applicable.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Yellow Onion (Onion.), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Color) When Applicable.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Base Caldo De Pollo (Chicken) (Salt, Monosodium Glutamate, Corn Starch, Potassium Chloride, Powdered Cooked Chicken, Sugar, Natural Flavor, Chicken Fat, Palm Oil, Disodium Inosinate, Disodium Guanylate, Caramel Color (Contains Sulfites), Maltodextrin, Dehydrated Parsley, Citric Acid, Turmeric (Color), Paprika Oleoresin (Color).), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ground Black Pepper (Black Pepper.), Spice Thyme Leaf (Thyme.)"
+    },
+    "dbac8261-0784-41ef-97c3-22344a97d9c3": {
+      "name": "Caramel Topping",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Tablespoon",
+      "calories": 50.0581,
+      "protein": 0,
+      "carbs": 11.9369,
+      "fat": 0.1925,
+      "saturatedFat": 0,
+      "sodium": 30.805,
+      "fiber": 0,
+      "sugar": 6.5461,
+      "addedSugar": 6.5461,
+      "cholesterol": 0,
+      "calcium": 0,
+      "iron": 0,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Corn Syrup, Water, Sweetened Condensed Milk (Condensed Milk, Sugar), Less Than 2% Of: Modified Corn Starch, Sugar, Salt, Butter (Cream, Salt), Disodium Phosphate, Soy Lecithin, Xanthan Gum, Molasses, Caramel Color, Propylene Glycol, Barley Malt Extract, Caramel Color, Natural Flavor And Artificial Flavors."
     },
     "dc0c0251-58c5-48f7-b078-3443b0e93ee9": {
       "name": "Pumpkin Muffin",
@@ -56018,6 +56206,26 @@
         "Wheat": true
       },
       "ingredients": "Broth Chicken (Base Caldo De Pollo (Chicken) (Salt, Monosodium Glutamate, Corn Starch, Potassium Chloride, Powdered Cooked Chicken, Sugar, Natural Flavor, Chicken Fat, Palm Oil, Disodium Inosinate, Disodium Guanylate, Caramel Color (Contains Sulfites), Maltodextrin, Dehydrated Parsley, Citric Acid, Turmeric (Color), Paprika Oleoresin (Color).)), Granulated Sugar (Sugar.), Gel Clear Instant Corn Starch 50# (Corn Starch.), Sauce Garlic Chili 3x1 Gal (Red Jalapeno Peppers, Salt, Garlic, Water, Acetic Acid, Potassium Sorbate (Preservative), Xanthan Gum, Sodium Metabisulfite (Sulfiting Agent/Preservative), Sodium Biphosphate (Sulfiting Agent/Preservative).), Vinegar White (White Distilled Vinegar, Water.), Oil Sesame 6 x 61 oz (Sesame Oil.), Sauce Soy Mushroom 12 x 5# (Water, Soybeans, Sugar, Salt, Wheat Flour, Extract Of Mushroom, Sulfur Dioxide.)"
+    },
+    "f95b8fcc-844e-4b8e-b4cd-31078b9cd654": {
+      "name": "Broccoli & Cauliflower Blend",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f97ea168-2600-4a61-8cad-bad4bbc83863": {
       "name": "Roasted Garlic Butter Carrots",
