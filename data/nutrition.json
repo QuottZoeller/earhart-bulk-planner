@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:34:10.056Z",
+  "updatedAt": "2026-09-30T15:45:43.486Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -24493,6 +24493,26 @@
       },
       "ingredients": "Grape Tomatoes (Tomatoes.), Pasta Bow Tie (Farfalle) (Durum Wheat Semolina, Niacin, Iron (Ferrous Sulfate), Thaimin, Mononitrate, Riboflavin, Folic Acid).), Zesty Golden Italian Dressing (Water, Vinegar, Soybean Oil, Sugar, Salt, Contains Less Than 2% Of Dried Garlic, Xanthan Gum, Spice, Dried Onions, Dried Red Bell Peppers, Paprika, Beta-Carotene (Color), Potassium Sorbate And Calcium Disodium EDTA (To Protect Flavor).), Shredded 3 Cheese Blend (Paseurized Milk, Cheese Cultures, Salt, Enzymes.), Diced Onion (Onion.), Fresh Basil (Fresh Basil), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Garlic Chopped (Minced Garlic (Peeled Garlic))"
     },
+    "6cce5939-0cc4-45a8-b738-b94ac38f1f4f": {
+      "name": "Fried Egg Roll Chip ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "6cdda871-9ff6-4f66-bd98-93127d6bd3ff": {
       "name": "Broccoli & Carrots",
       "isVegetarian": true,
@@ -27492,6 +27512,26 @@
         "Wheat": true
       },
       "ingredients": "Cream Cheese (Pasteurized Milk And Cream, Salt, Carob Bean Gum, Cheese Culture.), Mayonnaise (Soybean Oil, Vinegar, Eggs, Water, Salt, Egg Yolks, Sugar, Calcium Disodium EDTA (To Protect Flavor), Dried Garlic, Dried Onions, Natural Flavor.), Jalapeno Pepper Rings (Jalapeno Peppers, Water, Vinegar, Salt, Calcium Chloride, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative), Yellow 5.), Shredded 3 Cheese Blend (Paseurized Milk, Cheese Cultures, Salt, Enzymes.), Bread Crumbs Panko (Wheat Flour, Sugar, Yeast, Salt.)"
+    },
+    "79acd249-31e8-4728-bcae-42b3173cafe8": {
+      "name": "Mac and Cheese White Wiley's",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "79b6268a-d5fc-4a49-a74c-8331fbdf62da": {
       "name": "Onion Diced 1/4\" 5#",
