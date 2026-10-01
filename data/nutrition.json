@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:45:43.486Z",
+  "updatedAt": "2026-10-01T16:12:09.357Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -6976,6 +6976,26 @@
         "Wheat": false
       },
       "ingredients": "Strawberries, Sugar."
+    },
+    "205deaa8-545f-444c-ae4c-093a4a7ee6e1": {
+      "name": "Cherry Pie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "20710ffb-8999-40a6-acfd-d47d361aba57": {
       "name": "Southern Style Biscuit",
