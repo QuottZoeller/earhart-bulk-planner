@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T16:12:09.357Z",
+  "updatedAt": "2026-10-02T15:36:10.848Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -52950,6 +52950,26 @@
         "Wheat": false
       },
       "ingredients": "36% Of Weight Is Added Ingredients. Cured With Water, Dextrose, Salt, Modified Cornstarch, Corn Syrup, Sodium Phosphates, Sodium Erythorbate, Sodium Nitrite."
+    },
+    "e7fa138c-fa71-434b-89c3-38e12ef74130": {
+      "name": "Pineapple",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "e82aa466-bfe9-4cb4-b02c-25d5bf30c183": {
       "name": "Cheddar Cheese Sauce",
