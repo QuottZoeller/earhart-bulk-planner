@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:36:10.848Z",
+  "updatedAt": "2026-10-03T14:12:32.710Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -50678,6 +50678,26 @@
         "Wheat": false
       },
       "ingredients": "Cooked Chickpeas (Chickpeas, Water), Water, Soybean Oil And/Or Canola Oil, Sesame Tahini, Roasted Garlic Seasoning (Maltodextrin, Dehydrated Garlic, Soybean Oil, Natural Flavor), Olive Oil, Contains Less Than 2% Of Lemon Juice, Salt, Garlic Puree (Garlic, Citric Acid And Ascorbic Acid), Citric Acid, Dehydrated Toasted Onions, Spices."
+    },
+    "df12d1c7-3ca7-4d65-9ac1-36dee0fb5ba5": {
+      "name": "Fried Potatoes",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "df2266ff-b826-4b07-baa4-cf11fd24317d": {
       "name": "Buttered Red Potatoes with Chives",
