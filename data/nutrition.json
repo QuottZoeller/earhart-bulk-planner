@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T14:12:32.710Z",
+  "updatedAt": "2026-10-04T14:43:03.985Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -3321,6 +3321,26 @@
     },
     "10a112c5-8af5-4a91-9ea5-89fa12aaa998": {
       "name": "Vegetarian Hibachi Chicken & Noodle Bowl",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "10b13aa6-24a3-4970-bb2c-e4e148956caf": {
+      "name": "Cantaloupe",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -30987,6 +31007,26 @@
       },
       "ingredients": "Battered Dill Pickles (Dill Pickle (Cucumbers, Water, Vinegar, Salt, Alum, Calcium Chloride, Potassium Sorbate [Preservative], Natural Flavors, Polysorbate 80, Yellow 5, Blue 1), Bleached Wheat Flour, Water, Yellow Corn Flour, Contains Less Than 2% Of: Spice, Whey (Milk), Soy Flour, Spice Extractive, Leavening (Sodium Aluminum Phosphate, Sodium Bicarbonate), Dextrose, Sugar, Soybean Oil, Yellow 5, Red 40, Blue 2, Salt. Prefried In Vegetable Oil (Soybean And/Or Corn Oil).)"
     },
+    "880d7e1f-4f31-491f-b907-8aed3183a8af": {
+      "name": "Basmati Rice",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "8823e8de-f3a8-4dd7-8fa7-3486f0cf1c17": {
       "name": "Chili Ginger Tofu",
       "isVegetarian": true,
@@ -32982,6 +33022,26 @@
         "Wheat": true
       },
       "ingredients": "Dough Roll Homestyle White 1.5 oz (Enriched Unbleached Wheat Flour (Wheat Flour, Niacin, Iron As Ferrous Sulfate, Thiamine Mononitrate, Enzyme, Riboflavin, Folic Acid), Water, Yeast, Sugar, Soybean Oil, Potato Flour, Contains Less Than 2% Of The Following: Dextrose, Salt, Leavening (Sodium Acid Pyrophosphate, Baking Soda, Monocalcium Phosphate), Soy Lecithin, Potassium Chloride, Enzyme, Ascorbic Acid.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Grated Parmesan Cheese (Grated Parmesan (Pasteurized Cow’s Milk, Salt, Enzymes), Powdered Cellulose Added To Prevent Caking.), Garlic Seasoning (Granulated Garlic.), Spice Parsley Flakes"
+    },
+    "90533e9e-8a22-4e73-a6a2-2841d999c9cd": {
+      "name": "Samosa",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "9059fc8b-e197-4a6b-9d7a-8644f606a069": {
       "name": "Pork Lo Mein",
@@ -57789,6 +57849,26 @@
     },
     "fe0a04f2-af50-4ca7-9f5f-9a2fa4580c7d": {
       "name": "Pineapple Cubes",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "fe15e736-66c3-4bac-a900-f00b498acd82": {
+      "name": "Chickpea Chole Curry",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
