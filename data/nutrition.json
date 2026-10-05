@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T14:43:03.985Z",
+  "updatedAt": "2026-10-05T18:10:39.034Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -9261,6 +9261,26 @@
       },
       "ingredients": "Turkey Burger Patty White Raw 4 oz (White Turkey, Turkey Fat, Contains 2% Or Less Salt, Rosemary Extract, Savory Seasoning (Spices Including Black Pepper, Dehydrated Garlic, Onion Powder).), Seasoned Salt Lawry's (Salt, Sugar, Spices (Including Paprika, Tumeric), Onion, Cornstarch, Garlic, Natural Flavor, And Extractives Of Paprika.)"
     },
+    "2a80655f-9f7c-4c93-8c36-3259c86dac61": {
+      "name": "Texas Toast Garlic Bread",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "2af5c227-94b8-467b-91f0-0b28ba2f1bfb": {
       "name": "Chicken and Broccoli Alfredo",
       "isVegetarian": false,
@@ -10645,6 +10665,26 @@
       "allergens": null,
       "ingredients": null
     },
+    "30ab1768-7f71-40d7-9446-9871ecad68c4": {
+      "name": "Breaded chicken strip",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "30f99825-735e-496e-808f-58bc901df430": {
       "name": "Zesty Black Beans",
       "isVegetarian": true,
@@ -10800,6 +10840,26 @@
         "Wheat": true
       },
       "ingredients": "Breaded Chicken Breast (Boneless Chicken Breast Meat With Rib Meat, Water, Seasoning (Modified Food Starch, Carrageenan), Sugar, Seasoning (Salt, Onion Powder, Yeast Extract, Torula Yeast, Garlic Powder, Spices, Disodium Inosinate And Disodium Guanylate, Flavor [Hydrolyzed Soy Protein, Autolyzed Yeast Extract, Hydrolyzed Corn Protein, Natural Chicken Type Flavor, Maltodextrin, Chicken Fat, Corn Syrup Solids], Paprika, Spice Extractives), Sodium Phosphates. Breaded With Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Wheat Flour, Sugar, Salt, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Monocalcium Phosphate), Whey Protein Concentrate, Spices, Dried Whole Egg, Yeast Extract, Disodium Inosinate And Guanylate, Paprika, Extractive Of Turmeric.), Sauce Gochujang (Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Brown Sugar (Sugar, Molasses.), Paste Gochujang No MSG (Corn Syrup, Rice, Water, Chili Powder, Salt, Alcohol, Garlic, Yeast Extract, Onion, Fermented Soybean Powder, (Soybean, Water, Salt), Thiamin (Vitamin B1), Koji Seed.), Vinegar Rice (Rice Vinegar, Diluted With Water To 4.2% Acidity (42 Grain).), Oil Sesame 6 x 61 oz (Sesame Oil.), Crushed Red Pepper (Red Pepper.), Garlic Chopped (Minced Garlic (Peeled Garlic)))"
+    },
+    "31619fd4-33cf-44db-9530-937be2914ab4": {
+      "name": "Fried Cheese Ravioli",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "31d8977b-0df7-4ed4-b26b-f70da4b9b183": {
       "name": "Jalapeno Pepper Rings",
@@ -24757,6 +24817,26 @@
       },
       "ingredients": "Bananas, >or Pulp=, Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Granulated Sugar (Sugar.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Egg Whole Frozen (Whole Egg, Citric Acid.), Walnut Pieces (Walnuts.), Baking Powder 4 x 10# (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Baking Soda 24 x 1# (Sodium Bicarbonate)"
     },
+    "6d473b4e-f4f8-451b-baa9-555cb0d8fa5e": {
+      "name": "Shrimp and Broccoli ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "6db4b903-d24c-4b24-a930-d49eb5f0fff6": {
       "name": "Athenian Rice",
       "isVegetarian": true,
@@ -29697,6 +29777,26 @@
       },
       "ingredients": "Chicken Drumstick, Princess Dry Rub (Brown Sugar (Sugar, Molasses.), Seasoned Salt Lawry's (Salt, Sugar, Spices (Including Paprika, Tumeric), Onion, Cornstarch, Garlic, Natural Flavor, And Extractives Of Paprika.), Spice Paprika Spanish 18 oz (Paprika.), Spice Onion Granulated (Dehydrated Onion.), Spice Chipotle Powder (Dried Smoked Ripe Jalapenos, Less Then 2% Silicon Dioxide (Used As An Anticaking Agent).), Ground Black Pepper (Black Pepper.), Spice Mustard Ground (Mustard Flour.), Spice Ginger Ground (Ground Ginger.), Cayenne Pepper (Red Pepper.), Spice Allspice (Allspice.))"
     },
+    "8366e8ba-5f16-4e8a-97e6-31d011d2006e": {
+      "name": "Mexican Corn Dip",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "8385eea7-970e-413a-9139-d6fdee87794e": {
       "name": "Fuji Flame Roasted Apple Topping",
       "isVegetarian": true,
@@ -32051,6 +32151,26 @@
       },
       "ingredients": "Fresh Spinach (Spinach.), Brown Sugar (Sugar, Molasses.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Sesame Seeds (Sesame Seeds.), Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.), Fish Sauce (Anchovy Extract (Fish), Salt, Water, Sugar, Hydrolyzed Vegetable Protein (Corn).), Crushed Red Pepper (Red Pepper.)"
     },
+    "8cce4c4b-2638-451a-8848-b779b0d66eef": {
+      "name": "Honey BBQ Breaded Chicken Strip",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "8d05753f-b24f-479e-ba31-ec46a490a566": {
       "name": "Boilermaker Dessert Bar",
       "isVegetarian": true,
@@ -33632,6 +33752,26 @@
         "Wheat": true
       },
       "ingredients": "Rice Long Grain (Long Grain Rice Enriched With Iron (Ferric Orthophosphate), Niacin, Thiamin (Thiamin Mononitrate), And Folic Acid.), Egg Whole Frozen (Whole Egg, Citric Acid.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Peas (Green Peas.), Carrots Diced 3/8\", Diced Onion (Onion.), Granulated Sugar (Sugar.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Sauce Soy Mushroom 12 x 5# (Water, Soybeans, Sugar, Salt, Wheat Flour, Extract Of Mushroom, Sulfur Dioxide.)"
+    },
+    "927130bd-f92f-46e0-9e0f-a39542a0e99d": {
+      "name": "Chicken Taco",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "928b93a6-0462-42aa-a430-703381fab39e": {
       "name": "Veggie Stir Fry",
@@ -36368,6 +36508,26 @@
         "Wheat": true
       },
       "ingredients": "Mix Muffin Basic TFF Add Water Complete (Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Sugar, Palm Oil, Leavening (Sodium Acid Pyrophosphate, Baking Soda, Monocalcium Phosphate), Contains 2% Or Less Of: Dextrose, Modified Whey, Salt, Egg Yolk With Sodium Silicoaluminate, Xanthan Gum, Soy Lecithin, Nonfat Milk, Whey, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour, Eggs With Sodium Silicoaluminate.), Blueberries (Blueberries.), Sugar Sanding Coarse White 8# (Cane Sugar, Carnauba Wax.)"
+    },
+    "9f86b446-2298-4f38-9e46-dd05a9a5aaef": {
+      "name": "Buffalo Breaded Chicken Strip",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "9f89a89e-5dbd-4377-9aa1-b8763e5a5528": {
       "name": "Mac N White CheeZa Pasta",
@@ -44802,6 +44962,26 @@
         "Wheat": false
       },
       "ingredients": "Black Beans (Prepared Black Beans, Water, Salt, Calcium Chloride (Firming Agent).), Diced Onion (Onion.), Minced Garlic (Peeled Garlic), Ground Cumin (Cumin.), Spice Chili Powder Mild 18 oz (Chili Pepper And Other Spices, Salt, Garlic Powder.), Spice Coriander Ground 16 oz, Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Spice Oregano Dry Leaf 24 oz (Oregano Leaves.), Cinnamon, Cayenne Pepper (Red Pepper.)"
+    },
+    "c4bd0f21-e969-46ae-9d33-78ea114bee8f": {
+      "name": "Applesauce",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "c4e2cb5e-7e0a-42cf-ba3c-7ac2e98a954d": {
       "name": "Sweet Potato Wedge Fries",
@@ -55754,6 +55934,26 @@
       "iron": null,
       "allergens": null,
       "ingredients": "Pita Triangles (Pita Bread (Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamine Mononitrate [B1], Riboflavin [B2], Folic Acid), Water,  Contains 2% Or Less Of: Soybean Oil And/Or Canola Oil, Yeast, Salt, Sugar, Dough Conditioner (Calcium Sulfate, Guar Gum, Mono- And Diglycerides, Enzymes), Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Monocalcium Phosphate), Nonfat Dry Milk, Calcium Propionate And Potassium Sorbate (Preservatives), Yeast Nutrients (Ammonium Sulfate, Ascorbic Acid), Whole Wheat Flour.)), Vanilla Yogurt (Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch. Contains 1% Or Less Of: Corn Starch, Natural Flavor, Potassium Sorbate Added To Maintain Freshness, Vitamin A Acetate, Vitamin D3.), Strawberry Yogurt (Cultured Grade A Low Fat Milk, Sugar, Modified Corn Starch. Contains 1% Or Less Of: Natural Flavor, Corn Starch, Citric Acid, Vegetable Juice (For Color), Potassium Sorbate Added To Maintain Freshness, Vitamin A Acetate, Vitamin D3.), Grape Tomatoes (Tomatoes.), Cucumber (Cucumber.), Green Pepper (Green Pepper.), Hard Boiled Egg Slices (Hard Cooked Eggs.), Baby Carrots (Carrots.), Cottage Cheese (Skim Milk, Milk, Cream, Lactose, Salt, Stabilizer (Guar Gum, Mono And Diglycerides, Xanthan Gum, Carrageenan, Carob Bean Gum), Citric Acid, Carbon Dioxide And Potassium Sorbate (Maintain Freshness) And Cheese Cultures.), Chopped Lettuce (Lettuce.), Matchstick Carrots, Shredded Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, And Annatto (Color) When Applicable.), Shredded Lettuce (Lettuce.), Garbanzo Beans (Prepared Chick Peas, Water, Salt, Mustard Calcium Chloride, Disodium EDTA.), Hidden Valley Ranch Dressing (Mayonnaise (Soybean Oil, Vinegar, Eggs, Water, Salt, Egg Yolks, Sugar, Calcium Disodium EDTA (To Protect Flavor), Dried Garlic, Dried Onions, Natural Flavor.), Milk Buttermilk 1/2 Gallon (Cultured Milk, Stabilizer (Mono And Diglycerides, Carob Bean Gum, Carrageenan, Calcium Sulfate, Modified Corn And Tapioca Staches), Salt, Vitamin D3.), Dressing Mix Ranch Hidden Valley (Salt, Monosodium Glutamate, Dried Garlic, Modified Corn Starch, Spices, Dried Onion, Maltodextrin, Less Than 2% Of: Natural Flavor (Milk, Soy), Guar Gum, Calcium Stearate.)), Red Onion (Onion.), Mesclun Lettuce (Green Leaf Lettuce.), Garlic Hummus (Cooked Chickpeas (Chickpeas, Water), Water, Soybean Oil And/Or Canola Oil, Sesame Tahini, Roasted Garlic Seasoning (Maltodextrin, Dehydrated Garlic, Soybean Oil, Natural Flavor), Olive Oil, Contains Less Than 2% Of Lemon Juice, Salt, Garlic Puree (Garlic, Citric Acid And Ascorbic Acid), Citric Acid, Dehydrated Toasted Onions, Spices.), Broccoli Florets, Fresh Spinach (Spinach.), Ranch Dip (Sour Cream (Cultured Milk, Cream, Whey, Modified Cornstarch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Nonfat Dry Milk.), Dressing Mix Ranch Hidden Valley (Salt, Monosodium Glutamate, Dried Garlic, Modified Corn Starch, Spices, Dried Onion, Maltodextrin, Less Than 2% Of: Natural Flavor (Milk, Soy), Guar Gum, Calcium Stearate.)), Red Pepper (Red Pepper.), Lite Buttermilk Ranch (Water, Corn Syrup, Vegetable Oil (Soybean And/Or Canola Oil), Vinegar, Egg Yolks, Salt, Modified Food Starch, Sugar, Contains Less Than 2% Of Monosodium Glutamate, Phosphoric Acid, Xanthan Gum, Dried Garlic, Artificial Color, Polysorbate 60, Spice, Dried Parsley, Dried Onion, Natural Flavor (Contains Milk), Lactic Acid, Potassium Sorbate And Calcium Disodium EDTA (To Protect Flavor).), Diced Ham (Cured With Water, Salt, Sodium Phosphate, Potassium Acetate, Sodium Erythorbate, Potassium Diacetate, Sodium Nitrite), Celery, Croutons (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola And/Or Sunflower Oil (With Rosemary Extract And Ascorbic Acid [To Preserve Freshness]), Whey (Milk), Salt, Sugar, Yeast, 2% Or Less Of Spices, Dehydrated Parsley, Onion Powder, Paprika (Color), Turmeric (Color), Extractive Or Paprika (Color), Spice Extractive, Enzymes, Ascorbic Acid.), Sliced Fresh Mushrooms (Raw Mushrooms.), Balsamic Vinaigrette Dressing (Water, Balsamic Vinegar (Wine Vinegar, Grape Juice, Water), Vegetable Oil (Soybean Oil, Canola Oil, Extra Virgin Olive Oil), Sugar, Salt, Contains Less Than 2% Of Dried Garlic, Dijon Mustard (Water, Vinegar, Mustard Seed, Salt, White Wine, Fruit Pectin, Citric Acid, Tartaric Acid, Sugar, Spice), Spice, Xanthan Gum, Mustard Flour, Dried Parsley, Oleoresin Paprika, Artificial Flavor, Potassium Sorbate And Calcium Disodium EDTA (To Protect Flavor).), Gelatin Berry Blue (Sugar, Dextrose, Gelatin, Less Than 2% Fumaric Acid, Disodium Phosphate, Citric Acid, Artificial Flavor, Sodium Citrate, Malic Acid, Ascorbic Acid (Vitamin C), Blue 1, Blue 1 Lake.), Gelatin Cherry (Sugar, Dextrose, Gelatin, Less Than 2% Of Fumaric Acid, Sodium Citrate, Disodium Phosphate, Malic Acid, Citric Acid, Artifical Flavor, Red 40, Ascorbic Acid (Vitamin C), Red 40 Lake, Blue 1.), Gelatin Lime (Sugar, Dextrose, Gelatin, Less Than 2% Of Fumaric Acid, Sodium Citrate, Disodium Phosphate, Malic Acid, Citric Acid, Natural Flavor, Ascorbic Acid (Vitamin C), Yellow 5, Yellow 5 Lake, Blue 1, Blue 1 Lake.), Gelatin Orange (Sugar, Dextrose, Gelatin, Less Than 2% Of Fumaric Acid, Sodium Phosphate, Sodium Citrate, Natural And Artifical Flavor, Malic Acid, Citric Acid, Ascorbic Acid (Vitamin C), Yellow 6, Yellow 6 Lake.), Strawberry Gelatin (Sugar, Dextrose, Gelatin, Less Than 2% Of Fumaric Acid, Disodium Phosphate, Sodium Citrate, Malic Acid, Natural And Artificial Flavor, Citric Acid, Red 40, Ascorbic Acid (Vitamin C), Red 40 Lake.), Craisins (Dried Cranberries (Sugar, Cranberries).), Zesty Golden Italian Dressing (Water, Vinegar, Soybean Oil, Sugar, Salt, Contains Less Than 2% Of Dried Garlic, Xanthan Gum, Spice, Dried Onions, Dried Red Bell Peppers, Paprika, Beta-Carotene (Color), Potassium Sorbate And Calcium Disodium EDTA (To Protect Flavor).), Caesar Dressing (Soybean Oil, Water, Vinegar, Romano And Parmesan Made From Cow's Milk Cheeses (Part-Skim Milk, Cheese Culture, Salt, Enzymes), Sugar, Egg Yolks, Salt, Contains Less Than 2% Of: Dried Garlic, Spice (Contains Celery), Lemon Juice Concentrate, Whey, Xanthan Gum, Molasses, Dried Onions, Cream, Corn Syrup, Buttermilk, Modified Food Starch, Autolyzed Yeast Extract, Caramel Color, Disodium Phosphate, Disodium Guanylate, Disodium Inosinate, Enzymes, Tamarind, Natural Flavor, Sorbic Acid And Calcium Disodium EDTA (To Protect Flavor).), Red Wine Vinegar (Red Wine Vinegar (Diluted With Water To 5% Acidity).), Balsamic Vinegar (Wine Vinegar (Sulfites), Concentrated Grape Must, Caramel Color.), Olive Oil (Extra Virgin Olive Oil.)"
+    },
+    "f51ab7c1-7ec7-4a6a-9243-456da8fd2e91": {
+      "name": "Salmon Burgers",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f5393493-fb40-43d3-a96d-1713821358ca": {
       "name": "Baked Cheese Grits",
