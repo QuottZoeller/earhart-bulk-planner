@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T15:47:20.384Z",
+  "updatedAt": "2026-10-07T16:13:50.918Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -56360,6 +56360,26 @@
         "Wheat": true
       },
       "ingredients": "Chicken Fajita Strip (Chicken Breast Meat With Rib Meat, Water, Salt, Spices, Sodium Phosphate, Torula Yeast, Sugar, Dehydrated Onion, Dehydrated Garlic, Carrageenan, Modified Food Starch, Food Starch, Pea Protein Isolate, Maltodextrin, Natural Flavor, Malic Acid.), Fajita Vegetables (Green Pepper Strips, Red Pepper Strips, Onion Strips.), Seasoning Fajita Liquid Knorr (Water, Soy Sauce (Water, Soybeans, Wheat, Salt, Sodium Benzoate [Used To Protect Quality]), Red Wine Vinegar, Salt, Sugar, Modified Corn Starch, Soybean Oil, Spices, Caramel Color, Yeast Extract, Paprika, Lime Juice Concentrate, Maltodextrin, Xanthan Gum, Potassium Sorbate And Sodium Benzoate (Used To Protect Quality), Natural Flavor, Natural Smoke Flavor, Corn Syrup Solids.), Cilantro (Cilantro.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Seasoning Taco Wiley (Spice Meat Tenderizer Enhancer (Salt, Monosodium Glutamate, Dextrose, Paprika, Spices (Including Celery), Garlic, Turmeric, Bromelain, Onion, Silicon Dioxide (To Prevent Caking), FD&C Yellow No. 6 Lake.), Base Caldo De Pollo (Chicken) (Salt, Monosodium Glutamate, Corn Starch, Potassium Chloride, Powdered Cooked Chicken, Sugar, Natural Flavor, Chicken Fat, Palm Oil, Disodium Inosinate, Disodium Guanylate, Caramel Color (Contains Sulfites), Maltodextrin, Dehydrated Parsley, Citric Acid, Turmeric (Color), Paprika Oleoresin (Color).), Ground Cumin (Cumin.), Garlic Seasoning (Granulated Garlic.), Spice Paprika Spanish 18 oz (Paprika.), Spice Coriander Ground 16 oz, Spice Pepper Guajillo Ground (Chili Pepper, Silicon Dioxide (Anti-Caking Agent) And Ethoxyquin (Anti-Oxidant Agent).), Crushed Red Pepper (Red Pepper.))"
+    },
+    "f68c7be2-4ac0-4434-ba52-121c3e725dd1": {
+      "name": "Bbq chicken drumsticks",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f69f47e3-97ca-4006-bafc-ff88507c0f0d": {
       "name": "Bistro Sauce",
