@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T16:13:50.918Z",
+  "updatedAt": "2026-10-08T16:15:23.383Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -9511,6 +9511,26 @@
       },
       "ingredients": "Distilled Vinegar, Sugar, Water, #1 Grade Mustard Seed, Soy Sauce (Water, Wheat, Soybeans, Salt), Aged Cayenne Red Peppers, Salt, Apple Cider Vinegar, Tomato Paste, Natural Hickory Smoke Flavor, Turmeric, Corn Syrup, Paprika, Oleoresin Paprika (Color), Spices, Molasses, Garlic Powder, Natural Flavors, Onion Powder, Sodium Benzoate (As A Preservative) And Celery Seed"
     },
+    "2c1e815f-18ea-4ebe-b159-49fd584cff0e": {
+      "name": "Bananas Foster Bread Pudding",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "2c7b6d7b-757d-44d8-9297-a5dfebc9fcab": {
       "name": "Brioche Bun",
       "isVegetarian": true,
@@ -12182,6 +12202,26 @@
         "Wheat": false
       },
       "ingredients": "Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).)"
+    },
+    "36c4e3fb-8f4e-43b1-b313-0ec6f99093cc": {
+      "name": "Sundae Brunch Bar",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "36c564ab-649b-48e7-afd4-db4f506f964a": {
       "name": "Marinara Sauce",
@@ -28867,6 +28907,26 @@
       },
       "ingredients": "Mix Cake Devil's Food GM 6 x 5# (Sugar, Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Cocoa Processed With Alkali, Eggs With Sodium Silicoaluminate. Contains 2% Or Less Of: Leavening (Baking Soda, Monocalcium Phosphate), Nonfat Milk, Modified Corn Starch, Egg White, Propylene Glycol Mono And Diesters, Salt, Modified Whey, Mono And Diglycerides, Xanthan Gum, Natural Flavor, Defatted Soy Flour.), Powdered Sugar (Sugar, Cornstarch.), Chocolate Bittersweet L6040 Block 11# (Unsweetened Chocolate, Sugar, Cocoa Powder, Soy Lecithin, Natural Vanilla Flavor.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Shortening Vegetable Crisco Solid 6x6# (Soybean Oil, Fully Hydrogenated Palm Oil, Palm Oil, Mono And Diglycerides, THBQ And Citric Acid (Antioxidants).), Flavor Vanilla Imitation (Water, Caramel Color, Artifical Flavor, Citric Acid, Sodium Benzoate (Preservative).), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.)"
     },
+    "7e917682-e01b-43a5-8ab9-d4084348ae38": {
+      "name": "Roasted fingerling potatoes",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "7e996c16-3fa7-4a44-9ac4-79bbd2d3a441": {
       "name": "Raisins",
       "isVegetarian": true,
@@ -29280,6 +29340,26 @@
         "Wheat": true
       },
       "ingredients": "Mix Brownie Gm (Sugar, Enriched Flour, Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Cocoa Processed With Alkali, Soybean Oil. Contains 2% Or Less Of: Corn Starch, Egg White, Salt, Leavening (Baking Soda, Monocalcium Phosphate), Natural Flavor, Soy Flour, Nonfat Milk.), Raspberry Coulis (Red Raspberries (Raspberries.), Granulated Sugar (Sugar.), Cornstarch (Corn Starch.), Juice Lemon 32 oz. Fresh (Water, 100% Lemon Juice From Concentrate.))"
+    },
+    "80e92f3f-08e1-43b3-a120-5bce6740a692": {
+      "name": "Rice",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "810e4a94-9d21-4e97-8862-2df13eb42bc3": {
       "name": "Fajita Seasoned Chicken",
@@ -42726,6 +42806,40 @@
         "Wheat": false
       },
       "ingredients": "Sliced Fresh Mushrooms (Raw Mushrooms.), Cilantro (Cilantro.), Carrots Sliced Coin 20#, Eggplant (Eggplant.), Potato Sweet Diced 3/4\" Garden Cut (Potato), Diced Tomatoes (Tomatoes.), Broccoli Florets, Red Pepper (Red Pepper.), Yellow Onion (Onion.), Minced Garlic (Peeled Garlic), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Canola/Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Spread Red Chili Harissa 28 oz (Canola Oil, Water, Red Pepper, Garlic, Salt, Cumin, Chili Pepper, Lemon Juice, Sugar, Potassium Sorbate (Preservative).), Pancake Syrup (Corn Syrup, Water, Natural And Artificial Maple Flavor, Salt, Carboxymethyl Cellulose, Sodium Benzoate And Potassium Sorbate (As Preservatives), Caramel Color.), Ground Cumin (Cumin.), Spice Rosemary Leaf 6 oz., Base Vegetable Mirepoix Sauteed 6 x 1# (Sauteed Vegetable Puree Mix (Carrots, Onions, Celery), Salt, Sugar, Maltodextrin, Vegetable Oil (Corn And/Or Canola Oil), Less Than 2% Of Yeast Extract, Water, Potato Starch, Xanthan Gum, Natural Flavors, Carrot Juice Concentrate.)"
+    },
+    "bbade916-9fb1-469e-a729-bf14ace46102": {
+      "name": "Smashed Red Potatoes",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "1/2 Cup Serving",
+      "calories": 210.628,
+      "protein": 3.6557,
+      "carbs": 20.054,
+      "fat": 12.7837,
+      "saturatedFat": 8.3709,
+      "sodium": 381.6403,
+      "fiber": 1.9278,
+      "sugar": 2.9691,
+      "addedSugar": 0,
+      "cholesterol": 40.3749,
+      "calcium": 36.3406,
+      "iron": 0.8278,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Potato Red B Size 50#, Sour Cream (Cultured Milk, Cream, Whey, Modified Cornstarch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Nonfat Dry Milk.), Cream Cheese (Pasteurized Milk And Cream, Salt, Carob Bean Gum, Cheese Culture.), Butter Solids (Pasteurized Cream (Milk), Salt.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Celery Salt (Salt, Celery Seed.), Spice Onion Granulated (Dehydrated Onion.), Garlic Seasoning (Granulated Garlic.)"
     },
     "bbd70af4-5870-4048-9a53-22a925fe0933": {
       "name": "Quinoa and Peanut Salad",
