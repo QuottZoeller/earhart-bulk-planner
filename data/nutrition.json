@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T16:15:23.383Z",
+  "updatedAt": "2026-10-09T15:59:16.430Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -20748,6 +20748,40 @@
         "Wheat": false
       },
       "ingredients": "Zucchini (Zucchini.), Squash Yellow, Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Ground Black Pepper (Black Pepper.)"
+    },
+    "5b35d38f-0459-41b8-a7b8-6fa9b5350460": {
+      "name": "Grapefruit Wedges",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Wedge",
+      "calories": 11.7934,
+      "protein": 0.2322,
+      "carbs": 2.9778,
+      "fat": 0.0369,
+      "saturatedFat": 0.0052,
+      "sodium": 0,
+      "fiber": 0.4054,
+      "sugar": 2.5724,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 4.4225,
+      "iron": 0.0332,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Pink Grapefruit"
     },
     "5b5ee5e2-318b-41cf-b839-bde7d0b58b29": {
       "name": "Pecan Pie",
