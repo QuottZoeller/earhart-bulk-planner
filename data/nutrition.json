@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T15:59:16.430Z",
+  "updatedAt": "2026-10-10T15:08:31.992Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -3230,6 +3230,26 @@
         "Wheat": false
       },
       "ingredients": "Smoke Flavoring Added, Cured With Water, Salt, Smoke Flavoring, Sugar, Sodium Diacetate, Dextrose, Sodium Erythorbate, Sodium Nitrite."
+    },
+    "1049e39b-7c74-4d86-8528-e6646fbb2a99": {
+      "name": "Mango",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "1059c5c7-ce19-4f0b-bd65-64d4a5cfd976": {
       "name": "Strawberries",
@@ -9863,6 +9883,26 @@
       },
       "ingredients": "Fresh Pineapple (Pineapple.), Juice Pineapple 100% 46 oz (Pineapple Juice, Ascorbic Acid (Vitamin C).), Honey (Honey.), Lime Juice (Lime Juice From Concentrate (Water, Concentrated Lime Juice) And Less Than 2% Of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative).), Lime Zest (Limes (Lime Fresh.))"
     },
+    "2d932d15-fa71-4ea8-9f5b-231b4c2c312f": {
+      "name": "Strawberry Jello",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "2dd41461-529b-4a3f-94ec-678e75dcacc5": {
       "name": "Carambola (starfruit)",
       "isVegetarian": true,
@@ -13104,6 +13144,26 @@
         "Wheat": false
       },
       "ingredients": "Sugar, Molasses."
+    },
+    "39e87153-fb4e-4c95-a662-3fb899771db7": {
+      "name": "Tofu",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "3a11b2f4-48fd-4255-bbf3-697d2356d3eb": {
       "name": "Shredded Aged White Cheddar Cheese",
@@ -25412,6 +25472,26 @@
         "Wheat": true
       },
       "ingredients": "Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Ascorbic Acid As A Dough Conditioner, Thiamine Mononitrate, Riboflavin, Enzyme, Folic Acid), Buttermilk (Nonfat Milk, Dry Buttermilk, Bacterial Culture), Water, Soybean And/Or Canola Oil, Cultured Wheat Flour, Eggs, Sugar, Baking Powder (Sodium Acid Pyrophosphate, Baking Soda, Corn Starch, Monocalcium Phosphate), Sea Salt, Ghee (Clarified Butter), Wheat Gluten, Dextrose, Dextrin, Carrot Fiber, Yeast."
+    },
+    "6f25aaf1-2c0e-492a-9f80-b180f2dba3b8": {
+      "name": "Rice Krispie Bar",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "6f395b9f-820c-430d-920f-8bb004905080": {
       "name": "Salad Bar",
@@ -51385,6 +51465,26 @@
       },
       "ingredients": "Water, Sugar, Red Wine Vinegar, Red Bell Peppers (Red Bell Peppers, Vinegar, Salt, Potassium Sorbate And Sodium Benzoate [Preservatives], Calcium Chloride), Jalapeno Peppers (Jalapeno Peppers, Water, Salt, Vinegar, Calcium Chloride, Potassium Sorbate [Preservative], Capsicum Oleoresin), Modified Cornstarch, 2% Or Less Of Spices, Garlic, Xanthan Gum, Salt."
     },
+    "df8567f6-90b2-412a-b0ea-b04ad1d12b89": {
+      "name": "Chocolate Pudding",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "dfbba1ed-baa9-49d7-8203-bacde9561f5f": {
       "name": "Ham Egg & Swiss Bake",
       "isVegetarian": false,
@@ -55462,6 +55562,40 @@
         "Wheat": false
       },
       "ingredients": "Sliced Apples in Syrup (Sliced Apples, Water And Sugar.), Brown Sugar (Sugar, Molasses.), Granulated Sugar (Sugar.), Mix Flour All Purpose Bloomfield GF (Rice Flour, Potato Starch, Tapioca Dextrin, Xanthan Gum, Guar Gum.), Violife Plant Based Butter (Palm And Palm Kernel Oil, Water, Sunflower Oil, Pea Protein, Sunflower Lecithin, Lactic Acid, Natural Flavor, Annatto (Color), Vitamin A Palmitate.), Cinnamon, Cinnamon"
+    },
+    "f1494ee7-ab10-4c4e-b5d7-190f1d2f6b13": {
+      "name": "Jalapeno Coleslaw",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "1/2 Cup",
+      "calories": 140.1634,
+      "protein": 1.0859,
+      "carbs": 7.7542,
+      "fat": 11.4074,
+      "saturatedFat": 1.7373,
+      "sodium": 225.936,
+      "fiber": 2.0401,
+      "sugar": 5.1326,
+      "addedSugar": 2.2092,
+      "cholesterol": 4.6678,
+      "calcium": 43.8825,
+      "iron": 0.4148,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Shredded Slaw Mix (Green Cabbage, Carrot), Mayonnaise (Soybean Oil, Vinegar, Eggs, Water, Salt, Egg Yolks, Sugar, Calcium Disodium EDTA (To Protect Flavor), Dried Garlic, Dried Onions, Natural Flavor.), Jalapeno Peppers (Jalapeno Pepper.), Limes (Lime Fresh.), Green Onion (Green Onion.), Matchstick Carrots, Red Onion (Onion.), Spicy Brown Mustard (Water, Distilled And Cider Vinegar, Mustard Seed, Salt, White Wine, Citric Acid, Tartaric Acid, Spices, Turmeric, Oleoresin Paprika.), Granulated Sugar (Sugar.), Vinegar Apple Cider (Made From The Juices Of Apples, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity.), Celery Salt (Salt, Celery Seed.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Ground Cumin (Cumin.), Spice Paprika Smoked Sweet 20oz (Paprika.), Cayenne Pepper (Red Pepper.), Ground Black Pepper (Black Pepper.)"
     },
     "f14ccb25-4c92-4d7e-9697-dd4b868067ab": {
       "name": "Green Bean Stir Fry",
