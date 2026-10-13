@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:48:29.088Z",
+  "updatedAt": "2026-10-13T16:49:07.351Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -2071,6 +2071,26 @@
       },
       "ingredients": "Pie Cherry Unbaked 10\" (Cherries, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Vegetable Oil (Palm, Soybean), Sugar, Corn Syrup, Modified Corn Starch. Contains 2% Or Less: White Grape Juice Concentrate, Salt, Wheat Gluten.)"
     },
+    "0aaf03f0-6439-438a-b12e-94d0918c1c32": {
+      "name": "Pound Cake",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "0ac95cb0-9681-404e-95ea-b3816c06cd78": {
       "name": "Beef Gyros",
       "isVegetarian": false,
@@ -3673,6 +3693,26 @@
     },
     "12036663-f89f-4423-9ea4-89408622188b": {
       "name": "Dip Beef Queso",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "121dcf13-6bfb-41cf-94df-73f73fcc8b27": {
+      "name": "Orange Slices",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -10160,6 +10200,26 @@
         "Wheat": false
       },
       "ingredients": "Mix Waffle Belgian GF (Rice Flour, Corn Flour, Sugar, Baking Powder (Monocalcium Phosphate, Cornstarch, Sodium Bicarbonate), Canola Oil, Salt, Natural Flavor, Xanthan Gum.), Chocolate Chips Semi Sweet Allergen Free (Organic Cane Sugar, Organic Chocolate, Organic Cocoa Butter.)"
+    },
+    "2ee13eee-7d32-4502-9289-392c9f141d1e": {
+      "name": "Macaroni with Alfredo Sauce",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "2eeb68c3-955c-4d59-b490-824297bbea8d": {
       "name": "Hawaiian Za",
@@ -18623,6 +18683,26 @@
       },
       "ingredients": "Sesame Seeds (Sesame Seeds.)"
     },
+    "4f1b5b77-d36f-4d73-976a-5bd052411b55": {
+      "name": "Iced Cinnamon Rolls",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "4f2aff44-1257-4f64-8f8d-e545dabb661b": {
       "name": "Chicken Thighs with Princess Rub",
       "isVegetarian": false,
@@ -19303,6 +19383,26 @@
     },
     "526f3bd3-e6f8-475e-a976-60000f96a1b0": {
       "name": "Sizzling Pasta",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "52ab63ae-5f91-4869-a08e-bb5d3b871c2c": {
+      "name": "Strawberry Topping",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
