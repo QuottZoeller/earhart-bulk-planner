@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:03:08.585Z",
+  "updatedAt": "2026-10-16T13:51:26.449Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -18085,6 +18085,26 @@
       },
       "ingredients": "Red Onion (Onion.)"
     },
+    "4d50b257-835a-4d42-820e-44c5bfbc9d6e": {
+      "name": "Strawberry Cookie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "4d5b7b6f-ed84-40c8-af3c-d33cb4743a91": {
       "name": "Peach Crisp",
       "isVegetarian": true,
@@ -30726,6 +30746,26 @@
         "Wheat": false
       },
       "ingredients": "Brussels Sprouts Frozen, Monterey Jack Feather Shredded Cheese (Monterey Jack Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes), Potato Starch And Powdered Cellulose Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor).), Butter Solids (Pasteurized Cream (Milk), Salt.), Bacon Bits (Bacon (Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey).), Minced Garlic (Peeled Garlic), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Spice Paprika Hungarian 5# (Paprika And Less Than 2% Silicon Dioxide To Prevent Caking.), Spice Pepper Black Coarse Grind 5# (Black Pepper.)"
+    },
+    "84b80c37-7317-41aa-ad0b-bd3378bc78bb": {
+      "name": "Short Bread Cookie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "84d88f51-1917-4867-bd65-373a499af345": {
       "name": "Vegetarian Chicken and Waffle Bowl",
