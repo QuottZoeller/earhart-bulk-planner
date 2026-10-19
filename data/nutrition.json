@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T13:06:32.609Z",
+  "updatedAt": "2026-10-19T16:20:15.246Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -7673,6 +7673,26 @@
       },
       "ingredients": "Tomato Puree (Water, Tomato Paste), Vinegar, Corn Syrup, Salt, Raisin Paste, Crushed Orange Puree, Spice, Dried Garlic, Caramel Color, Dried Onions, Potassium Sorbate (To Preserve Freshness), Xanthan Gum, Celery Seed."
     },
+    "22561372-36dc-4941-8f2c-84f40a46c530": {
+      "name": "Brownie Swirl ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "2261f530-0401-49ec-8f60-ae8fab0f030a": {
       "name": "Flame Grilled Chicken Burger",
       "isVegetarian": false,
@@ -11176,6 +11196,40 @@
         "Wheat": true
       },
       "ingredients": "Halal Lamb & Beef Gyro Slices (Halal Beef, Halal Lamb, Water, Soy Protein Concentrate, Breadcrumbs (Wheat Flour, Sugar, Salt, Soybean Oil, Yeast), Salt, Monosodium Glutamate, Spices And Natural Flavorings.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.)"
+    },
+    "323e9b15-34f4-48c3-808e-94d3e0181fc0": {
+      "name": "Wrapper Egg Roll 6.5\"",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Each",
+      "calories": 60,
+      "protein": 2,
+      "carbs": 13,
+      "fat": 0,
+      "saturatedFat": 0,
+      "sodium": 130,
+      "fiber": 0,
+      "sugar": 0,
+      "addedSugar": 0,
+      "cholesterol": 5,
+      "calcium": 0,
+      "iron": 0.9,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Enriched Wheat Flour (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Salt, Whole Egg Powder, Sodium Propionate (To Retard Spoilage), Citric Acid, Sodium Benzoate (To Retard Spoilage), Calcium Sulfate, L-Cysteine (Dough Conditioner), Tricalcium Phosphate. Dusted With Cornstarch."
     },
     "324862b7-144c-4820-967a-c58c87760906": {
       "name": "Reuben Sandwich",
