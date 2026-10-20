@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T16:20:15.246Z",
+  "updatedAt": "2026-10-20T14:12:26.777Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -10691,6 +10691,26 @@
     },
     "30134b64-6e7d-485b-a6c3-1825fcdd33e5": {
       "name": "Berry mix",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "304e5ff0-cc73-414c-a8a2-6fefeda51406": {
+      "name": "Strawberry Rhubarb Pie",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -40513,6 +40533,26 @@
       },
       "ingredients": "Potato Fingerling (Potato.), Grated Parmesan Cheese (Grated Parmesan (Pasteurized Cow’s Milk, Salt, Enzymes), Powdered Cellulose Added To Prevent Caking.), Canola/Olive Oil Blend (Canola Oil, Extra Virgin Olive Oil.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.)"
     },
+    "ad2fde66-9e59-47c7-906c-94d673a0a1fb": {
+      "name": "Brownie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "ad31c1c6-a21f-43e3-93a9-5ef68406c4c1": {
       "name": "Sliced Pears",
       "isVegetarian": true,
@@ -55018,6 +55058,26 @@
         "Wheat": true
       },
       "ingredients": "Mix Cake Yellow (Sugar, Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Dextrose. Contains 2 % Or Less Of: Leavening (Sodium Aluminum Phosphate, Baking Soda), Propylene Glycol Mono And Diesters Of Fatty Acids, Modified Corn Starch, Egg With Sodium Silicoaluminate, Egg White, Salt, Nonfat Milk, Mono And Diglycerides, Modified Whey, Xanthan Gum, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour.), Egg Whole Frozen (Whole Egg, Citric Acid.), Brown Sugar (Sugar, Molasses.), Semisweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor, Milk).), Butter Solids (Pasteurized Cream (Milk), Salt.), Creamy Peanut Butter (Roasted Peanuts And Sugar, Contains 2% Or Less Of Molasses, Fully Hydrogenated Vegetable Oils (Rapeseed And Soybean), Mono And Diglycerides, Salt.)"
+    },
+    "ec741c1c-9457-416b-b1a1-d6bc104225d9": {
+      "name": "Cran & Blueberry White Chocolate Chip Cookie ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "ec7eb998-a992-48ef-a683-9aa5b038ff26": {
       "name": "Primavera Fregola Sauce",
