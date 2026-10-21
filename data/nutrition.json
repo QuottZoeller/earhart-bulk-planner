@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T14:12:26.777Z",
+  "updatedAt": "2026-10-21T14:24:42.142Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -56294,6 +56294,26 @@
         "Wheat": false
       },
       "ingredients": "Whole Green Beans, Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Ground Black Pepper (Black Pepper.)"
+    },
+    "f151c3b4-8842-4c97-8c9a-7499958e147b": {
+      "name": "Pineapple Fresh",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f1555fe5-8872-4adb-8f51-51d91782b60f": {
       "name": "Strawberries",
