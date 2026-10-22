@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T14:24:42.142Z",
+  "updatedAt": "2026-10-22T14:26:06.119Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -3026,6 +3026,40 @@
         "Wheat": true
       },
       "ingredients": "Enriched Flour (Unbleached Wheat Flour, Malted Barley Flour, Reduced Iron, Thiamine Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Niacin [Vitamin B3], Folic Acid), Water, Yeast, Sugar, Soybean Oil, Wheat Gluten, Salt, Vinegar, Calcium Propionate (A Preservative), Monoglycerides, Yellow Corn Flour, Annatto Extract And Turmeric Added For Color, Sodium Stearoyl Lactylate, Calcium Sulfate, Calcium Phosphate, Ascorbic Acid, Sesame. Topped With Yellow Corn Meal."
+    },
+    "0d9d92ce-139c-4001-b6cd-d681abcde8a9": {
+      "name": "Baby Back Ribs",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "8 oz Serving",
+      "calories": 347.0389,
+      "protein": 33.2731,
+      "carbs": 6.6772,
+      "fat": 20.3606,
+      "saturatedFat": 4.0808,
+      "sodium": 1380.3166,
+      "fiber": 0.3266,
+      "sugar": 5.5275,
+      "addedSugar": 5.447,
+      "cholesterol": 126.804,
+      "calcium": 40.4963,
+      "iron": 1.6411,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Pork Rib Baby Back 2.0 Up 3 Pc 28# AvgCs (Pork Ribs.), Sweet and Smokey Dry Rub (Brown Sugar (Sugar, Molasses.), Seasoned Salt Lawry's (Salt, Sugar, Spices (Including Paprika, Tumeric), Onion, Cornstarch, Garlic, Natural Flavor, And Extractives Of Paprika.), Celery Salt (Salt, Celery Seed.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Spice Paprika Spanish 18 oz (Paprika.), Spice Onion Granulated (Dehydrated Onion.), Spice Chipotle Powder (Dried Smoked Ripe Jalapenos, Less Then 2% Silicon Dioxide (Used As An Anticaking Agent).), Ground Black Pepper (Black Pepper.), Spice Mustard Ground (Mustard Flour.), Spice Ginger Ground (Ground Ginger.), Cayenne Pepper (Red Pepper.), Spice Allspice (Allspice.))"
     },
     "0e39f988-9184-408f-924f-1db09d406bae": {
       "name": "Snickerdoodle Bar",
@@ -20328,6 +20362,26 @@
         "Wheat": true
       },
       "ingredients": "Enriched Flour (Unbleached Wheat Flour, Malted Barley Flour, Reduced Iron, Thiamine Mononitrate [Vitamin B1], Riboflavin [Vitamin B2], Niacin [Vitamin B3], Folic Acid), Water, High Fructose Corn Syrup, Yeast, Soybean Oil, Wheat Gluten, Salt, Calcium Propionate (A Preservative), Monoglycerides, Sodium Stearoyl Lactylate, Wheat Starch, Calcium Sulfate, Calcium Phosphate, Ascorbic Acid, Sesame."
+    },
+    "5619bf76-b07e-400c-8897-ea2f96690cee": {
+      "name": "Chocolate Candy Piece Cookie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "5634d3c7-212e-41a6-959c-546f4559b5e0": {
       "name": "Indian Spiced Roasted Potatoes",
