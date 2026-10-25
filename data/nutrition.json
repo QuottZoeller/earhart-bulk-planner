@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T13:11:57.388Z",
+  "updatedAt": "2026-10-25T13:38:01.069Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -27447,6 +27447,26 @@
       },
       "ingredients": "Potatoes, Vegetable Oil (Soybean, Canola, And/Or Cottonsed Oils), Contains Less Than 2% Of Dextrose, Disodium Dihydrogen Pyrophosphate (To Maintain Natural Color)."
     },
+    "761c171b-996e-4689-802e-c9a1cae0832f": {
+      "name": "Spiced Rice",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "764a1380-1804-4a48-a47b-1dde0741bd13": {
       "name": "Chocolate Fudge Peanut Butter Bar",
       "isVegetarian": true,
@@ -36355,6 +36375,26 @@
       },
       "ingredients": "Scrambled Eggs (Whole Eggs, Reconstituted Nonfat Dry Milk, Egg Whites, Corn Oil, Salt, Xanthan Gum, Citric Acid, Natural Flavoring, Annatto (A Natural Color).), Bacon Bits (Bacon (Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey).), Shredded Cheddar & Mont. Jack Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto (A Natural Vegetable Color) Cellulose Added To Prevent Caking.), Shredded Cheddar & Mont. Jack Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto (A Natural Vegetable Color) Cellulose Added To Prevent Caking.)"
     },
+    "9b1d52b8-fc34-43a5-9dc5-3f402408edb7": {
+      "name": "Oreo Peanut Butter Pie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "9b378804-72da-4786-ad09-95e2a7f63e88": {
       "name": "Kings Hawaiian Bread Roll",
       "isVegetarian": true,
@@ -39144,6 +39184,26 @@
         "Wheat": true
       },
       "ingredients": "Pierogi Cheddar Mrs. T's  1.34 oz (Water, Enriched Flour (Wheat Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Potato Flakes (Potatoes, Mono And Diglycerides, Sodium Acid Pyrophosphate, Citric Acid), Soybean Oil, Dehydrated Cheddar Cheese (Cheddar Cheese [Pasteurized Milk, Cheese Cultures, Salt, Enzymes], Disodium Phosphate), Salt, Onion, Natural Flavor, Eggs, Yeast Extract, Whey, Spice, Annatto And Turmeric (Color).)"
+    },
+    "a758823c-ef35-4a53-9c09-aa75a127f45d": {
+      "name": "Roasted Zucchini and Yellow Squash",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "a786489f-afc8-4331-b46e-4bbb87ee0f8f": {
       "name": "Bleu Cheese Coleslaw",
