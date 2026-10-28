@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T15:14:00.112Z",
+  "updatedAt": "2026-10-28T15:49:57.541Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -21962,6 +21962,40 @@
         "Wheat": false
       },
       "ingredients": "Mayonnaise (Soybean Oil, Vinegar, Eggs, Water, Salt, Egg Yolks, Sugar, Calcium Disodium EDTA (To Protect Flavor), Dried Garlic, Dried Onions, Natural Flavor.), Sauce Garlic Chili 3x1 Gal (Red Jalapeno Peppers, Salt, Garlic, Water, Acetic Acid, Potassium Sorbate (Preservative), Xanthan Gum, Sodium Metabisulfite (Sulfiting Agent/Preservative), Sodium Biphosphate (Sulfiting Agent/Preservative).)"
+    },
+    "5e159743-3556-42e8-a0fc-d0ffd3a43781": {
+      "name": "Sliced Mushrooms",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Tablespoon",
+      "calories": 1.8539,
+      "protein": 0.2966,
+      "carbs": 0.0734,
+      "fat": 0,
+      "saturatedFat": 0,
+      "sodium": 32.628,
+      "fiber": 0.2966,
+      "sugar": 0,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 0,
+      "iron": 0.1335,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Mushrooms, Water, Salt, Citric Acid And/Or Ascorbic Acid."
     },
     "5e1ea02c-35b0-4151-9e4f-822aaf94ea1f": {
       "name": "Santa Fe Corn",
