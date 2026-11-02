@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T15:54:00.212Z",
+  "updatedAt": "2026-11-02T19:20:25.994Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -10979,6 +10979,26 @@
       "allergens": null,
       "ingredients": null
     },
+    "30eae064-29e7-4061-ab9d-259bf82c6790": {
+      "name": "Shrimp Fajitas",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "30f99825-735e-496e-808f-58bc901df430": {
       "name": "Zesty Black Beans",
       "isVegetarian": true,
@@ -14770,6 +14790,26 @@
         "Wheat": true
       },
       "ingredients": "Mix Brownie Gm (Sugar, Enriched Flour, Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Cocoa Processed With Alkali, Soybean Oil. Contains 2% Or Less Of: Corn Starch, Egg White, Salt, Leavening (Baking Soda, Monocalcium Phosphate), Natural Flavor, Soy Flour, Nonfat Milk.), White Vanilla Chocolate Chips (Sugar, Fractionated Palm Kernel Oil And Hydrogenated Palm Oil), Milk, Nonfat Milk, And Less Than 2% Of Soy Lecithin, Natural Flavor.), Marshmallow Cream 5 Gal Pail (Corn Syrup, Sugar, Water, Egg Whites, Artificial Flavors, Xanthan Gum, Lactic Acid And Salt.)"
+    },
+    "3f6affb7-67f1-4117-840d-d4967a318ff2": {
+      "name": "Chocolate Banana Bread ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "40093176-774c-4d15-bdc5-6abdb3cc139a": {
       "name": "Cilantro Lime Rice",
@@ -29963,6 +30003,26 @@
       "allergens": null,
       "ingredients": null
     },
+    "80696337-8902-4250-8bd5-9089d47930ff": {
+      "name": "Oven Roasted Broccoli ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "807ce933-8003-419a-b5c3-b7eef59b45a5": {
       "name": "Vegan Shredded Mozzarella Cheese",
       "isVegetarian": true,
@@ -44703,6 +44763,26 @@
       },
       "ingredients": "Chicken Breast Stir Fry Strip Halal (Chicken Breast.), Potato Cube 1/2\" (Potatoes, Dextrose, Disodium Dihydrogen Pyrophosphate (To Maintain Natural Color).), Yellow Onion (Onion.), Milk Coconut 6 x #10 (Coconut Milk, Water, Polysorbate 60, Guar Gum, Sodium Carboxyl Methyl Cellulose, Sodium Metabisulfite (Preservative).), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Spice Curry Powder 16 oz. (Spices, Turmeric (As Color), Salt, Red Pepper, Spice Extract.), Ginger Root 30# Case (Ginger Root.), Base Vegetable Mirepoix Sauteed 6 x 1# (Sauteed Vegetable Puree Mix (Carrots, Onions, Celery), Salt, Sugar, Maltodextrin, Vegetable Oil (Corn And/Or Canola Oil), Less Than 2% Of Yeast Extract, Water, Potato Starch, Xanthan Gum, Natural Flavors, Carrot Juice Concentrate.), Cinnamon, Garlic Chopped (Minced Garlic (Peeled Garlic)), Spice Anise Seed Whole 16 oz, Spice Cloves Ground 16 oz."
     },
+    "befc519d-a166-48f8-aa1c-ba6e370dbe14": {
+      "name": "Roasted Red Potatoes",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "bf3ed9c7-c337-42aa-8412-3374c091859e": {
       "name": "Korean Beef Bulgogi",
       "isVegetarian": false,
@@ -58030,6 +58110,26 @@
         "Wheat": false
       },
       "ingredients": "Water, Coconut Oil, Modified Tapioca & Potato Starch, Potato Starch, Salt, Glucose, Natural Flavors, Rowanberry Extract (To Help Maintain Freshness), Calcium Phosphate, Lentil Protein, Glucono Delta-Lactone, Citric Acid, Paprika Extract & Beta Carotene (Color), Herbs, Olive Extract, Vitamin B12."
+    },
+    "f7b07be0-2bce-4bf2-bb89-e8888d0ea423": {
+      "name": "Dutch Apple Pie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f7d88b4a-636d-48ff-826f-7d3c3c2eace9": {
       "name": "Royal Berry Coffeecake",
