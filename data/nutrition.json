@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T19:20:25.994Z",
+  "updatedAt": "2026-11-03T16:54:59.853Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -20747,6 +20747,26 @@
       "allergens": null,
       "ingredients": null
     },
+    "5821ebd8-1fde-4690-b4ee-36ce6da74ff8": {
+      "name": "Carved Ham",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "583a835c-7226-4deb-a7ca-6d1743ea41f6": {
       "name": "Garlic Butter Linguini",
       "isVegetarian": true,
@@ -26616,6 +26636,26 @@
         "Wheat": true
       },
       "ingredients": "Mix Brownie Gm (Sugar, Enriched Flour, Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Cocoa Processed With Alkali, Soybean Oil. Contains 2% Or Less Of: Corn Starch, Egg White, Salt, Leavening (Baking Soda, Monocalcium Phosphate), Natural Flavor, Soy Flour, Nonfat Milk.), Creamy Peanut Butter (Roasted Peanuts And Sugar, Contains 2% Or Less Of Molasses, Fully Hydrogenated Vegetable Oils (Rapeseed And Soybean), Mono And Diglycerides, Salt.), Butterscotch Morsels (Sugar, Hydrogenated Palm Kernel Oil, Coconut Oil, Whey, Nonfat Milk, Soy Lecithin, Colored With (Yellow 6 Lake, Yellow 5 Lake, Blue 2 Lake), Natural And Artificial Flavor, Salt.), Semisweet Chocolate Chips (Semi-Sweet Chocolate (Sugar, Chocolate, Cocoa Butter, Milk Fat, Soy Lecithin, Natural Flavor, Milk).), Marshmallow Cream 5 Gal Pail (Corn Syrup, Sugar, Water, Egg Whites, Artificial Flavors, Xanthan Gum, Lactic Acid And Salt.), Rice Krispies Cereal (Rice, Sugar, Contains 2% Or Less Of Salt, Malt Flavor, Iron (Ferric Phosphate), Niacinamide, Vitamin B6 (Pyridoxine Hydrochloride), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamin Hydrochloride), Folic Acid, Vitamin D3, Vitamin B12.)"
+    },
+    "71493007-c41b-4228-8ec2-61079581e093": {
+      "name": "Chips Egg Roll",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "716b716a-a538-49df-8ac7-4ee3b46a0682": {
       "name": "Funfetti Cookie",
