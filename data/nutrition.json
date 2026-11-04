@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T16:54:59.853Z",
+  "updatedAt": "2026-11-04T16:57:38.704Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -3540,6 +3540,40 @@
         "Wheat": false
       },
       "ingredients": "Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Honey (Honey.)"
+    },
+    "11079790-8080-4e6a-856b-4707270298da": {
+      "name": "Sauce Hoisin GF",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": ".5 Gal Bottle",
+      "calories": 5458.9797,
+      "protein": 42.3542,
+      "carbs": 1294.1547,
+      "fat": 14.1181,
+      "saturatedFat": 2.353,
+      "sodium": 28706.7037,
+      "fiber": 42.3542,
+      "sugar": 1152.9742,
+      "addedSugar": 1152.9742,
+      "cholesterol": 11.5297,
+      "calcium": 524.7209,
+      "iron": 14.1181,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Sugar, Water, Miso (Water, Soybeans, Rice, Salt, Alcohol), Soy Sauce (Water, Soybeans, Salt, Sugar), Dried Plum Puree (Dried Plum Juice Concentrate, Dried Plum), Garlic, Caramel Color, Modified Corn Starch, Salt, Vinegar, Spices, Citric Acid, Xanthan Gum."
     },
     "111bf101-d390-488d-ae78-75d18749d346": {
       "name": "Lasagna",
@@ -44375,6 +44409,26 @@
       },
       "ingredients": "2% Milk (Reduced Fat Milk, Vitamin A Palmitate And Vitamin D3.), Mix Cheesecake (Sugar, Dextrose, Buttermilk, Baker's Cheese (Skim Milk, Lactic Acid, Culture, BHA [Preservative]), Modified Tapioca Starch, Palm Kernel Oil, Corn Syrup Solids, Contains Less Than 2% Of: Propylene Glycol Monostearate, Sodium Caseinate, Acetylated Monoglycerides, Tetrasodium Pyrophosphate, Disodium Phosphate, Lactic Acid, Calcium Lactate, Salt, Mono- And Diglycerides, Artificial Flavor, Cellulose Gel, Yellow 5, Coconut Oil, Yellow 6, Natural Flavor.), Graham Cracker Crumbs (Whole Wheat Flour, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Vitamin B1 (Thiamin Mononitrate), Vitamin B2 (Riboflavin), Folic Acid), Sugar, Vegetable Oil (Soybean And/Or Canola Oil), Molasses, Honey, Corn Syrup, Contains 2% Or Less Of Leavening (Baking Soda, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Natural Flavors, Salt, Soy Lecithin.), Whpd Topping, Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Whipped Topping (Water, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), High Fructose Corn Syrup, Contains Less Than 2% Of The Following: Carbohydrate Gum, Polysorbate 60, Salt, Polyglycerol Esters Of Fatty Acids, Soy Lecithin, Disodium Phosphate, Sodium Citrate, Xanthan Gum, Artificial Flavor, Natural Flavor, Colored With Turmeric And Annatto Extracts.), Granulated Sugar (Sugar.), Maraschino Cherry Halves (Cherries, Water, Corn Syrup, High Fructose Corn Syrup, Sugar, Citric Acid, Natural And Artificial Flavors, Sodium Benzoate, Potassium Sorbate, FD&C Red #40, Sulfur Dioxide (Preservative).)"
     },
+    "bd0ea080-9d4b-4a99-86c9-875a9ccb8721": {
+      "name": "Candy Peice Cookie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "bd0fbfae-0131-41c6-ad88-dacbdf8bc052": {
       "name": "Pita Pocket",
       "isVegetarian": true,
@@ -49759,6 +49813,26 @@
       },
       "ingredients": "Scrambled Eggs (Whole Eggs, Reconstituted Nonfat Dry Milk, Egg Whites, Corn Oil, Salt, Xanthan Gum, Citric Acid, Natural Flavoring, Annatto (A Natural Color).), Broccoli Florets, Shredded Cheddar & Mont. Jack Cheese (Pasteurized Milk, Cheese Cultures, Salt, Enzymes And Annatto (A Natural Vegetable Color) Cellulose Added To Prevent Caking.), Sliced Fresh Mushrooms (Raw Mushrooms.), Red Pepper (Red Pepper.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Jalapeno Peppers (Jalapeno Pepper.), Green Onion (Green Onion.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Ground Black Pepper (Black Pepper.)"
     },
+    "d33f9c5f-8abc-4d95-90f4-b0cf25f3e0d2": {
+      "name": "Homemade Beef Gravy",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "d357653d-db33-437a-b5ca-2bc542638a04": {
       "name": "Halal Indian Butter Chicken",
       "isVegetarian": false,
@@ -51825,6 +51899,26 @@
     },
     "dc64a3e1-e7fc-4fe9-a977-ecbe8113b8eb": {
       "name": "Crispy Buffalo Chicken Sandwich",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "dc81ad7c-e7dc-434d-99ad-fd6e5b375775": {
+      "name": "Lemon Bars",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
