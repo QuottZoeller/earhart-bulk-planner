@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:33:01.449Z",
+  "updatedAt": "2026-11-08T15:52:19.517Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -33617,6 +33617,40 @@
       "allergens": null,
       "ingredients": null
     },
+    "8c244ac1-f5b9-4bca-b4a3-03e13b3f0eb8": {
+      "name": "Brownie",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "5x8 Cut Serving",
+      "calories": 155.5173,
+      "protein": 1.944,
+      "carbs": 26.2435,
+      "fat": 4.3739,
+      "saturatedFat": 1.944,
+      "sodium": 121.4979,
+      "fiber": 0.972,
+      "sugar": 18.4677,
+      "addedSugar": 18.4677,
+      "cholesterol": 0,
+      "calcium": 0,
+      "iron": 1.2636,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Mix Brownie Gm (Sugar, Enriched Flour, Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Cocoa Processed With Alkali, Soybean Oil. Contains 2% Or Less Of: Corn Starch, Egg White, Salt, Leavening (Baking Soda, Monocalcium Phosphate), Natural Flavor, Soy Flour, Nonfat Milk.)"
+    },
     "8c53e1d4-0d10-401c-b7db-9e77c4996142": {
       "name": "Bacon Bits",
       "isVegetarian": false,
@@ -35598,6 +35632,26 @@
         "Wheat": false
       },
       "ingredients": "Pork, Water, Salt, Spices, Sugar, Monosodium Glutamate, Spice Extractives, BHA, BHT."
+    },
+    "93a1ed95-8d37-423d-abdc-b406e90008fe": {
+      "name": "Honey Dew",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "93d374f6-28c2-4a41-a561-3ad73281d2bd": {
       "name": "Brownie Swirl",
