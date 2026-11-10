@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T19:39:03.134Z",
+  "updatedAt": "2026-11-10T16:54:01.260Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -8954,6 +8954,26 @@
         "Wheat": true
       },
       "ingredients": "Dough Pizza Sheeted 10\" (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean Oil, Yeast, Dry Malt (Malted Barley Flour, Wheat Flour, Dextrose), Salt, Sugar, Baking Powder (Corn Starch, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate), Dough Improver (Wheat Flour, Monocalcium Phosphate, Corn Starch, Salt, Mono- And- Diglycerides, Contains 2% Or Less Of: Ascorbic Acid, Potassium Iodate & Enzyme).), Jalapeno Pepper Rings (Jalapeno Peppers, Water, Vinegar, Salt, Calcium Chloride, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative), Yellow 5.), Jalapeno Peppers (Jalapeno Pepper.), Cheese New York Blend (Low-Moisture Whole Milk Mozzarella Cheese (Cultured Pasteurized Milk, Salt,\r\nEnzymes), Low-Moisture Part-Skim Mozzarella Cheese (Cultured Pasteurized Part-Skim\r\nMilk, Salt, Enzymes).), Shredded Sharp Cheddar Cheese (Cheddar Cheese (Pasteurized Milk, Cheese Culture, Salt, Enzymes, Annatto [Color]), Potato Starch And Powdered Cellulose Added To Prevent Caking, Natamycin (A Natural Mold Inhibitor).), Whipped Cream Cheese (Pasteurized Milk And Cream, Whey Protein Concentrate, Modified Food Starch, Salt, Cheese Culture, Guar Gum, Lactic Acid, Xanthan Gum, Carob Bean Gum, Natamycin (A Natural Mold Inhibitor).), Bacon Bits (Bacon (Cured With Water, Salt, Sugar, Sodium Erythorbate, Sodium Nitrite. May Also Contain Smoke Flavoring, Dextrose, Sodium Phosphate, Potassium Chloride, Sodium Diacetate, Flavoring, Honey).), Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Flour Semolina Gold Medal 50# (Semolina (Wheat), Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid.)"
+    },
+    "246db03a-1b25-4cce-9fae-75d4e84c675d": {
+      "name": "Tropical Fruit Blend",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "246fc462-6197-47fc-a4d7-b5aca108dad2": {
       "name": "Parstock Earhart Spicy Chicken Sandwich",
