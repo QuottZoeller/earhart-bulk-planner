@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T16:58:52.893Z",
+  "updatedAt": "2026-11-12T17:27:32.797Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -38945,6 +38945,26 @@
       },
       "ingredients": "GF Alfredo Sauce (Cream, Skim Milk, Water, Parmesan And Asiago Cheese Blend With Flavor (Parmesan And Asiago Cheeses [Cultured Milk, Salt, Enzymes], Enzyme Modified Parmesan Cheese [Cultured Milk, Water, Salt, Enzymes], Whey, Salt), Soybean Oil, Canola Oil, 2% Or Less Of Modified Cornstarch, Salt, Romano Cheese Made From Cow's Milk Cultured Milk, Salt, Enzymes), Lactose, Spice, Xanthan Gum, Datem, Mono- And Diglycerides, Seasoning (Cornstarch, Extractives Of Turmeric And Annatto, Natural Flavor), Seasoning (Maltodextrin, Flavor, Enzyme Modified Butterfat).), Lasagna Rollup Cheese 3.5oz (Enriched Durum Flour (Durum Flour, Niacin, Ferrous Sulfate, Thiamin Mononitrate, Riboflavin, Folic Acid), Water, Whole Milk Ricotta Cheese (Pasteurized Whey, Milk, Vinegar, Salt), Bread Crumbs (Wheat Flour, Yeast, Sugar, Salt), Imported Pecorino Romano Cheese (Sheep’s Milk, Rennet, Salt), Modified Food Starch, Black Pepper, Parsley.)"
     },
+    "9e2c8732-8135-45a1-982a-8ae900707c06": {
+      "name": "Fresh pineapple",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "9e32c702-f013-4d75-b767-2d411a5c3f32": {
       "name": "Chicken Sausage Patty",
       "isVegetarian": false,
@@ -40680,6 +40700,26 @@
         "Wheat": false
       },
       "ingredients": "Pomegranates"
+    },
+    "a5e5bc4a-91f8-441b-9320-6d14c1ab428d": {
+      "name": "Rotini Pasta Salad",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "a601b4fc-29d9-4d42-bdb2-35fbc30208a6": {
       "name": "Italian Seasoned Chicken Breast",
@@ -45968,6 +46008,26 @@
         "Wheat": true
       },
       "ingredients": "Dough Pizza Sheeted 10\" (Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Soybean Oil, Yeast, Dry Malt (Malted Barley Flour, Wheat Flour, Dextrose), Salt, Sugar, Baking Powder (Corn Starch, Sodium Bicarbonate, Sodium Acid Pyrophosphate, Sodium Aluminum Phosphate), Dough Improver (Wheat Flour, Monocalcium Phosphate, Corn Starch, Salt, Mono- And- Diglycerides, Contains 2% Or Less Of: Ascorbic Acid, Potassium Iodate & Enzyme).), Kale Pesto (Canola Oil, Kale, Water, Basil, Garlic, Parmesan Cheese (Pasteurized Part Skim Cows' Milk, Cultures, Salt, Enzymes), Rice Vinegar, Spices, Salt, Salt Substitute (Potassium Chloride, Rice Flour), Xanthan Gum, Citric Acid.), Cheese Mozz Fresh Log Sliced 16 oz (Pasteurized Milk, Vinegar, Salt, Enzymes.), Tomatoes (Tomatoes.), Garlic Spread Grill (Oil Liquid Butter Alternative Gal (Soybean Oil, Hydrogenated Soybean Oil, Salt, Soy Lecithin, Natural And Artificial Flavor, TBHQ And Citric Acid Added To Protect Flavor, Beta Carotene (Color), And Dimethylpolysiloxane Added To Reduce Foaming.), Garlic Seasoning (Granulated Garlic.)), Shredded 3 Cheese Blend (Paseurized Milk, Cheese Cultures, Salt, Enzymes.), Pizza Sauce (Vine Ripened Fresh Tomatoes, Blend of Extra Virgin Olive Oil And Sunflower Oil, Salt, Oregano, Granulated Garlic, Black Pepper, And Naturally Derived Citric Acid.), Fresh Basil (Fresh Basil)"
+    },
+    "bc27f311-591f-4222-8034-692f632c337b": {
+      "name": "Tomato Basil Rigatoni",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "bc3e3821-4158-4cc3-874a-1f5d13aa0a37": {
       "name": "Cheesy Chicken with Mushrooms",
