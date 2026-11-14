@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T17:01:56.529Z",
+  "updatedAt": "2026-11-14T15:40:24.692Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -48010,6 +48010,40 @@
         "Wheat": false
       },
       "ingredients": "Chicken Breast Bnlss Sknlss 4oz (Split, Boneless, Skinless Chicken Breast With Rib Meat, May Contain Up To 2% Retained Water.), Kale Pesto (Canola Oil, Kale, Water, Basil, Garlic, Parmesan Cheese (Pasteurized Part Skim Cows' Milk, Cultures, Salt, Enzymes), Rice Vinegar, Spices, Salt, Salt Substitute (Potassium Chloride, Rice Flour), Xanthan Gum, Citric Acid.), Tomatoes (Tomatoes.), Shredded 3 Cheese Blend (Paseurized Milk, Cheese Cultures, Salt, Enzymes.), Balsamic Glaze (Balsamic Vinegar Of Modena \"Aceto Balsamico Di Modena Igp\" 70% (Wine Vinegar, Concentrated Grape Must, Caramel Color), Glucose Syrup, Sugar, Modified Corn Starch, Xanthan Gum. Contains Sulfites.), Fresh Basil (Fresh Basil)"
+    },
+    "c35f25fb-b228-4e95-bdf0-eaba205ba3a8": {
+      "name": "Zucchini",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Cup",
+      "calories": 15.8366,
+      "protein": 1.2036,
+      "carbs": 2.84,
+      "fat": 0.3801,
+      "saturatedFat": 0.076,
+      "sodium": 3.1673,
+      "fiber": 1.0558,
+      "sugar": 1.8054,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 19.0039,
+      "iron": 0.3906,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Zucchini."
     },
     "c3628734-0b1f-4c57-b1ee-2eeb37622b54": {
       "name": "Strawberry Buttercream Filled Cake Roll",
