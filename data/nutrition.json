@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:40:24.692Z",
+  "updatedAt": "2026-11-15T16:10:40.113Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -8642,6 +8642,26 @@
         "Wheat": false
       },
       "ingredients": "Plantain Slices Ripe Non GMO IQF (Ripened Plantain, Vegetable Oil (Palm).)"
+    },
+    "23a1a78d-4b63-491b-b013-0e5564bcd660": {
+      "name": "Pancake",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "23b4d093-14d6-4734-9da6-47d1b08e288a": {
       "name": "Hot Spiced Apple Cider",
