@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T16:10:40.113Z",
+  "updatedAt": "2026-11-16T19:26:16.059Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -4769,6 +4769,26 @@
       },
       "ingredients": "Chicken Breast Stir Fry Strip Halal (Chicken Breast.), Milk Coconut 6 x #10 (Coconut Milk, Water, Polysorbate 60, Guar Gum, Sodium Carboxyl Methyl Cellulose, Sodium Metabisulfite (Preservative).), Potato Peeled Diced 1/2\" (Red Potatoes, Sodium Acid Sulfate (Sodium Bisulfate).), Milk Coconut 6 x #10 (Coconut Milk, Water, Polysorbate 60, Guar Gum, Sodium Carboxyl Methyl Cellulose, Sodium Metabisulfite (Preservative).), Yellow Onion (Onion.), Paste Curry Red 35 oz (Garlic, Dried Red Chili, Lemongrass, Shallot, Salt, Galangal, Shrimp Paste (Shrimp, Salt), Kaffir Lime Peel, Pepper), Fish Sauce (Anchovy Extract (Fish), Salt, Water, Sugar, Hydrolyzed Vegetable Protein (Corn).), Brown Sugar (Sugar, Molasses.), Spice Curry Powder 16 oz. (Spices, Turmeric (As Color), Salt, Red Pepper, Spice Extract.)"
     },
+    "1487bcd8-6ede-4e73-a32e-ddd34f3f2dc5": {
+      "name": "Fruit Cocktail",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "1493a25d-00c2-4299-ae18-9787d0362f41": {
       "name": "Pizza NY Spinach",
       "isVegetarian": false,
@@ -6662,6 +6682,26 @@
         "Wheat": false
       },
       "ingredients": "Water, Vinegar, Sugar, Corn Syrup, Salt, Parmesan Cheese (Part-Skim Milk, Cheese Culture, Salt, Enzymes), Contains Less Than 2% Of Garlic, Onion Juice, Whey, Phosphoric Acid, Xanthan Gum, Spice, Yeast Extract, Red Bell Peppers, Lemon Juice Concentrate, Garlic, Caramel Color, Buttermilk, Sodium Phosphate, Enzymes, Oleoresin Paprika, Potassium Sorbate And Calcium Disodium Edta (To Protect Freshness)."
+    },
+    "1c11034e-7a94-4ff5-b3d7-46c4b36f354d": {
+      "name": "Crinkle Cut Wedge Fry ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "1c12c9da-d8a8-42fd-a44c-ba4ebf38ff53": {
       "name": "Vegetarian Macaroni and Cheese Bowl",
@@ -16303,6 +16343,26 @@
       },
       "ingredients": "Chicken Breast Stir Fry Strip Halal (Chicken Breast.), Green Onion (Green Onion.), Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Vinegar Rice (Rice Vinegar, Diluted With Water To 4.2% Acidity (42 Grain).), Cabbage Bok Choy Baby 30# (Cabbage Bok Choy.), Matchstick Carrots, Sesame Seeds (Sesame Seeds.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Oil Sesame 6 x 61 oz (Sesame Oil.), Brown Sugar (Sugar, Molasses.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.), Crushed Red Pepper (Red Pepper.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Ground Black Pepper (Black Pepper.), Cornstarch (Corn Starch.)"
     },
+    "43025a01-b3fd-480b-9c08-6afdd22e5c6e": {
+      "name": "White Chocolate Macadamia Nut Cookie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "435b5f35-5991-4b7d-9e85-cbd1af3fcc0a": {
       "name": "Vegetarian Stromboli",
       "isVegetarian": true,
@@ -19750,6 +19810,40 @@
         "Wheat": true
       },
       "ingredients": "Cream, Nonfat Milk, Apple Swirl (Sugar, Apple, Water, High Fructose Corn Syrup, Natural Flavor, Pectin, Malic Acid, Locust Bean Gum, Phosphoric Acid, Sodium Citrate, Annatto [Color]), Sugar, High Fructose Corn Syrup, Cake Crunch (Bleached Wheat Flour, Sugar, Palm Oil, Wheat Gluten, Salt, Coconut Oil, Cinnamon, Natural Flavor, Sorbic Acid), Corn Syrup, Whey, Natural Flavor, Mono & Diglycerides, Guar Gum, Polysorbate 80, Carrageenan."
+    },
+    "4f0bbef2-6241-442a-bf8b-079bc7f90855": {
+      "name": "Yellow Mustard",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Teaspoon",
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "saturatedFat": 0,
+      "sodium": 60,
+      "fiber": 0,
+      "sugar": 0,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 0,
+      "iron": 0,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika Powder."
     },
     "4f1368c6-cb62-4305-8767-fa2811fb683e": {
       "name": "Toasted Sesame Seeds",
@@ -36433,6 +36527,26 @@
       },
       "ingredients": "Sliced Apples in Syrup (Sliced Apples, Water And Sugar.), Brown Sugar (Sugar, Molasses.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Cinnamon, Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.)"
     },
+    "932c3353-2bf3-446a-8767-c85609cc017a": {
+      "name": "Cherry Cobbler",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "9334dfa3-40ab-4738-82a2-7f11de3e066d": {
       "name": "Halal Italian Beef with Gravy",
       "isVegetarian": false,
@@ -37785,6 +37899,26 @@
     },
     "99a13d79-af95-48dd-b661-1a90c9786a95": {
       "name": "Chicken Wings Honey BBQ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "99be8f5e-62b9-49ef-876e-0afa34c03d0b": {
+      "name": "Boneless Chicken Wings",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -42118,6 +42252,40 @@
       "iron": null,
       "allergens": null,
       "ingredients": null
+    },
+    "aa084a3a-ebe0-4686-944b-8468b594e7d1": {
+      "name": "Jellied Cranberry Sauce",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "1/2 cup",
+      "calories": 220.0001,
+      "protein": 0,
+      "carbs": 56,
+      "fat": 0,
+      "saturatedFat": 0,
+      "sodium": 20,
+      "fiber": 0,
+      "sugar": 48,
+      "addedSugar": 45.9999,
+      "cholesterol": 0,
+      "calcium": 0,
+      "iron": 0,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Cranberries, High Fructose Corn Syrup, Filtered Water, Corn Syrup, Citric Acid."
     },
     "aa1beec2-a1dc-410c-b7a2-7f0e498bb74c": {
       "name": "Halal Beef Patty",
@@ -55814,6 +55982,26 @@
         "Wheat": false
       },
       "ingredients": "Tofu (Non-GMO Soybeans, Water, Calcium Sulfate, Glucono Delta Lactone (GDL).), Sweet & Sour Sauce (Water, Sugar, Tomatoes (Tomatoes, Tomato Juice, Citric Acid, Calcium Chloride), Pineapple, Vinegar, Modified Cornstarch, Hydrolyzed Soy Protein, 2% Or Less Of Molasses, Soybean Oil, Tomato Paste, Pineapple Juice From Concentrate, Salt, Dried Onions, Dried Green Pepper, Spices, Corn Syrup Solids, Lemon Juice Concentrate, Beet Powder (Color), Dried Garlic.), Pineapple Chunks (Pineapple, Pineapple Juice, Water, Clarified Pineapple Juice Concentrate.), Green Pepper (Green Pepper.), Yellow Onion (Onion.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.)"
+    },
+    "e2485ea9-5e48-4e8e-8b27-4e001848434b": {
+      "name": "Garlic Bread",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "e24c1049-e453-467b-8237-4122889ba2e4": {
       "name": "Moroccan Chicken Thighs",
