@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T19:26:16.059Z",
+  "updatedAt": "2026-11-17T18:20:09.332Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -14014,6 +14014,40 @@
       "iron": null,
       "allergens": null,
       "ingredients": null
+    },
+    "396d5901-15bd-41e9-be75-88467932e97f": {
+      "name": "Fiery Chicken Fingers",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "6 piece serving",
+      "calories": 286.511,
+      "protein": 25.6351,
+      "carbs": 7.5397,
+      "fat": 16.5874,
+      "saturatedFat": 3.0159,
+      "sodium": 1221.4412,
+      "fiber": 0,
+      "sugar": 0,
+      "addedSugar": 0,
+      "cholesterol": 90.4771,
+      "calcium": 27.1431,
+      "iron": 1.508,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Fiery Chicken Finger Strips (Chicken Breast With Rib Meat, Water, Seasoning (Maltodextrin, Salt, Garlic Powder, Sodium Tripolyphosphate, Spices, Soybean Oil, Spice Extractive, Extractives Of Paprika). Coated With Wheat Flour, Vinegar Powder (Maltodextrin, Food Starch Modified, Vinegar), Salt, Maltodextrin, Egg White Powder, Paprika, Spices, Colored With Oleoresin Paprika, Caramel Color, Dextrose, Malic Acid, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate).)"
     },
     "3984f51e-9f4d-4ad0-a3a8-cf54f95d48b6": {
       "name": "Arugula",
@@ -57398,6 +57432,26 @@
       "iron": null,
       "allergens": null,
       "ingredients": "Cilantro (Cilantro.), Matchstick Carrots, Limes (Lime Fresh.), Green Onion (Green Onion.), Red Radish, Roasted Garlic (Minced Garlic (Peeled Garlic), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.)), Sesame Seeds (Sesame Seeds.), 5\" Flour Tortilla (Bleached Wheat Flour, Water, Shortening (Interesterified Soybean Oil, Mono And Diglycerides), Rice Flour, Less Than 2% Or Less Of The Following Sea Salt, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Xanthan Gum, Wheat Gluten, Sugar, Preservative Blend (Calcium Propionate, Sodium Propionate, Potassium Sorbate, Citric Acid), Yeast, Sorbitan Monostearate, Ascorbic Acid, Cellulose Gum, Maltodextrin, Organic Sunflower Oil, Natural Flavors, Organic Rice Starch, Calcium Sulfate, Wheat Starch, Enzymes, Microcrystalline Cellulose, Dough Conditioner (Sodium Metabisulfite).), Baked Korean Tofu Cubes (Tofu (Non-GMO Soybeans, Water, Calcium Sulfate, Glucono Delta Lactone (GDL).), Korean Taco Sauce (Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Brown Sugar (Sugar, Molasses.), Sauce Garlic Chili 3x1 Gal (Red Jalapeno Peppers, Salt, Garlic, Water, Acetic Acid, Potassium Sorbate (Preservative), Xanthan Gum, Sodium Metabisulfite (Sulfiting Agent/Preservative), Sodium Biphosphate (Sulfiting Agent/Preservative).), Garlic Chopped (Minced Garlic (Peeled Garlic)), Oil Sesame 6 x 61 oz (Sesame Oil.), Ginger Root 30# Case (Ginger Root.), Crushed Red Pepper (Red Pepper.))), Jasmine Rice (Jasmine Rice (Jasmine Rice.)), Kimchi (Napa Cabbage (Cabbage Napa.), Matchstick Carrots, Spice Pepper Hot Powder 5# (Dried Red Pepper.), Vinegar Apple Cider (Made From The Juices Of Apples, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity.), Green Onion (Green Onion.), Granulated Sugar (Sugar.), Minced Garlic (Peeled Garlic), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Ginger Root 30# Case (Ginger Root.)), Pickled Cucumbers (Cucumber (Cucumber.), Vinegar Rice (Rice Vinegar, Diluted With Water To 4.2% Acidity (42 Grain).), Granulated Sugar (Sugar.), Iodized Salt (Salt, Sodium Silicoaluminate, Dextrose, Potassium Iodine.), Sauce Garlic Chili 3x1 Gal (Red Jalapeno Peppers, Salt, Garlic, Water, Acetic Acid, Potassium Sorbate (Preservative), Xanthan Gum, Sodium Metabisulfite (Sulfiting Agent/Preservative), Sodium Biphosphate (Sulfiting Agent/Preservative).))"
+    },
+    "e7c87524-0f33-4f4c-9194-035aedb049e5": {
+      "name": "Seasoned Crinkle Wedge Fry",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "e7cd8c2f-502d-48af-abc2-07b4e59e4765": {
       "name": "Portabello Chop Suey",
