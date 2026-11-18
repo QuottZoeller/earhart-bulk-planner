@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T18:20:09.332Z",
+  "updatedAt": "2026-11-18T17:53:55.320Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -40211,6 +40211,40 @@
       },
       "ingredients": "Distilled Vinegar, Water, Mustard Seed, Salt, Turmeric, Paprika."
     },
+    "a2bb8baa-5594-4f02-a039-505c65b017ce": {
+      "name": "Garlic Herb Roasted Chicken Drumsticks",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "Leg",
+      "calories": 158.2064,
+      "protein": 10.9893,
+      "carbs": 1.4702,
+      "fat": 12.0909,
+      "saturatedFat": 1.9588,
+      "sodium": 64.4282,
+      "fiber": 0,
+      "sugar": 0,
+      "addedSugar": 0,
+      "cholesterol": 55.9188,
+      "calcium": 4.8625,
+      "iron": 0.4316,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Chicken Drumstick, Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Garlic Seasoning (Granulated Garlic.)"
+    },
     "a32b7925-0f30-4de6-a0fc-1fde018e929a": {
       "name": "Mixed Fresh Grapes",
       "isVegetarian": true,
@@ -41152,6 +41186,40 @@
         "Wheat": true
       },
       "ingredients": "Flour All Purpose H&R Gold Medal (Bleached Wheat Flour, Malted Barley Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Base Beef Granular TFF Pail 4 x 4.4# (Salt, Monosodium Glutamate, Beef Fat, Sugar, Corn Starch, Dried Beef, Hydrolyzed Corn Protein, Natural Flavor, Silicon Dioxide, Maltodextrin, Yeast Extract, Dehydrated Parsley, Disodium Inosinate, Caramel Color, Turmeric (For Color), Citric Acid, Spice, Beef Extract.)"
+    },
+    "a70621f1-27d6-490a-8f1e-cd6e7c2584fb": {
+      "name": "Mix Stuffing",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "Ounce",
+      "calories": 115.1698,
+      "protein": 3.5437,
+      "carbs": 19.4903,
+      "fat": 2.6578,
+      "saturatedFat": 0,
+      "sodium": 451.8202,
+      "fiber": 0.8859,
+      "sugar": 1.7718,
+      "addedSugar": 0.8859,
+      "cholesterol": 0,
+      "calcium": 15.0607,
+      "iron": 0.8859,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Bread: Enriched Flour (Wheat Flour, Malted Barley Flour, Niacin, Reduced Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Canola And/Or Sunflower Oil (With Rosemary Extract And Ascorbic Acid [To Preserve Freshness]), Sugar, Whole Wheat Flour, Yeast, Salt, Wheat Gluten, Honey, Caramel Color. Seasoning: Dehydrated Onion, Salt, Hydrolyzed Soy, Wheat Gluten Protein, Dehydrated Celery, Spices, Dehydrated Parsley, Dehydrated Chicken Broth, Sugar, Rendered Chicken Fat, Dehydrated Cooked Chicken, Caramel Color, Turmeric (Color), Disodium Inosinate, Disodium Guanylate, Natural Flavors, Citric Acid, Yeast Extract, Less Than 2% Silicon Dioxide (Anticaking Agent)."
     },
     "a70eb1ae-fc6c-4278-93f7-7c4b71be675e": {
       "name": "Herb Roasted Tomatoes",
