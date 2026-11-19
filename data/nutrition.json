@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T17:53:55.320Z",
+  "updatedAt": "2026-11-19T18:05:31.051Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -10865,6 +10865,26 @@
     },
     "2e52a3f9-d215-4fa5-819d-b3079c1b0452": {
       "name": "Parstock Earhart Baby Boilers",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "2e7c8df1-7de1-462b-9317-17bd6c6546e2": {
+      "name": "Chocolate Cake with Buttercream frosting",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -32062,6 +32082,26 @@
         "Wheat": true
       },
       "ingredients": "Cherry Pie Filling (Cherries, Water, High Fructose Corn Syrup, Food Starch-Modified (Corn), Sugar, Potassium Sorbate (Preservative), Citric Acid, Ascorbic Acid Added To Protect Color, Carageenan, Red 40 Color.), Cream Cheese (Pasteurized Milk And Cream, Salt, Carob Bean Gum, Cheese Culture.), Whpd Topping, Whipped Topping (Water, Hydrogenated Vegetable Oil (Palm, Palm Kernel, Coconut And/Or Cottonseed), High Fructose Corn Syrup, Contains Less Than 2% Of The Following: Carbohydrate Gum, Polysorbate 60, Salt, Polyglycerol Esters Of Fatty Acids, Soy Lecithin, Disodium Phosphate, Sodium Citrate, Xanthan Gum, Artificial Flavor, Natural Flavor, Colored With Turmeric And Annatto Extracts.), Graham Cracker Crumbs (Whole Wheat Flour, Enriched Flour (Wheat Flour, Niacin, Reduced Iron, Vitamin B1 (Thiamin Mononitrate), Vitamin B2 (Riboflavin), Folic Acid), Sugar, Vegetable Oil (Soybean And/Or Canola Oil), Molasses, Honey, Corn Syrup, Contains 2% Or Less Of Leavening (Baking Soda, Sodium Acid Pyrophosphate, Monocalcium Phosphate), Natural Flavors, Salt, Soy Lecithin.), Margarine (Vegetable Oil Blend (Palm Oil And Soybean Oil), Water, Salt, Contains Less Than 2% Of Soy Lecithin, Vegetable Mono- And Diglycerides, Potassium Sorbate (A Preservative), Citric Acid, Natural And Artificial Flavor, Beta Carotene (Color), Vitamin A Palmitate Added, Whey (Milk).), Powdered Sugar (Sugar, Cornstarch.), Granulated Sugar (Sugar.)"
+    },
+    "82be3e9e-1b2c-4857-9610-f0e26591fae6": {
+      "name": "Coconut Cream Pie",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "82ec6155-3698-4ec2-9961-783c1937c767": {
       "name": "Coconut Lime Chicken",
@@ -61226,6 +61266,26 @@
         "Wheat": false
       },
       "ingredients": "Shredded Hashbrown Potatoes (Potatoes, Dextrose, Disodium Dihydrogen Pyrophosphate (To Maintain Natural Color).), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Diced Onion (Onion.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Ground Black Pepper (Black Pepper.)"
+    },
+    "f81d9aec-745c-4d7a-ab74-1719bcaa8a20": {
+      "name": "Steamed Carrots",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f831558f-c085-4a87-bdb5-77940ce3ca80": {
       "name": "Baked Korean Tofu Cubes",
