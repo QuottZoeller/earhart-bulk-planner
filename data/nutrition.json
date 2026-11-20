@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T18:05:31.051Z",
+  "updatedAt": "2026-11-20T17:39:21.684Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -45145,6 +45145,40 @@
       },
       "ingredients": "9 Grain Bread (Wheat, White Whole Wheat Flour, Flour (Wheat, Malted Barley), Wheat Gluten, Sunflower Seeds, Brown Sugar, Flaxseed, Wheat Bran, Cracked Wheat, Oatmeal, Rye Meal, Honey, Barley Flakes, Millet, Buckwheat Flour, Yeast, Molasses, Palm Oil, Cultured Wheat Flour, Contains Less Than 2% Of Each Of The Following: Wheat Gum, Salt, Enzymes, Monoglycerides, Vinegar, Sea Salt, Maltodextrin, Yeast Extract, Flavor And Rice Flavor Concentrate, Ascorbic Acid, Preservatives(Propionic Acid, Phosphoric Acid)Topping: Rolled Oats), Nutella Spread (Sugar, Palm Oil, Hazelnuts, Skim Milk, Cocoa, Soy Lecithin (As An Emulsifier), Vanillin (Artificial Flavor)), Fresh Strawberries, Granola (Whole Grain Oats, Sugar, Crips Rice (Rice Flour, Barley Malt Extract, Salt), Honey, Brown Sugar Syrup, Salt, Baking Soda, Natural Flavor, Vitamin E (Mixed Tocopherols) Added To Preserve Freshness)"
     },
+    "b6799830-44a3-41f5-bab4-3e11733b52cc": {
+      "name": "Carved Ham with Pineapple Glaze",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "4 oz Serving",
+      "calories": 149.7941,
+      "protein": 20.0701,
+      "carbs": 6.7871,
+      "fat": 5.3338,
+      "saturatedFat": 2.0001,
+      "sodium": 1210.7147,
+      "fiber": 0.1258,
+      "sugar": 6.5354,
+      "addedSugar": 2.6127,
+      "cholesterol": 53.3333,
+      "calcium": 4.1397,
+      "iron": 0.0353,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": false
+      },
+      "ingredients": "Ham (Ham Cured With: Water, Salt, Sugar, Sodium Lactate, Sodium Phosphates, Sodium Diacetate, Sodium Erythorbate, Sodium Nitrite.), Pineapple Glaze (Pineapple Cubes (Pineapple.), Juice Pineapple 100% 46 oz (Pineapple Juice, Ascorbic Acid (Vitamin C).), Granulated Sugar (Sugar.), Vinegar Apple Cider (Made From The Juices Of Apples, Diluted With Water To A Uniform Pickling And Table Strength Of 5% (50 Grains) Acidity.), Brown Sugar (Sugar, Molasses.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Spice Cinnamon Stick 2.75\" (Cinnamon Stick.), Ground Nutmeg, Spice Cloves Whole, Spice Bay Leaf Whole (Bay Leaf.))"
+    },
     "b69b8ed8-da6c-47ea-9fa2-92d83442ca4a": {
       "name": "Roasted Buffalo Chickpeas",
       "isVegetarian": true,
@@ -46235,6 +46269,26 @@
         "Vegan": true,
         "Wheat": false
       },
+      "ingredients": null
+    },
+    "bc104476-1ca0-4d1d-8cd9-7cbe6740f0b9": {
+      "name": "Devil Food Cake",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
       "ingredients": null
     },
     "bc188827-5f12-450a-83d2-8c8890cc6c0c": {
@@ -51294,6 +51348,40 @@
         "Wheat": true
       },
       "ingredients": "Mix Cake Yellow (Sugar, Enriched Flour Bleached (Wheat Flour, Niacin, Iron, Thiamin Mononitrate, Riboflavin, Folic Acid), Palm Oil, Dextrose. Contains 2 % Or Less Of: Leavening (Sodium Aluminum Phosphate, Baking Soda), Propylene Glycol Mono And Diesters Of Fatty Acids, Modified Corn Starch, Egg With Sodium Silicoaluminate, Egg White, Salt, Nonfat Milk, Mono And Diglycerides, Modified Whey, Xanthan Gum, Natural Flavor, Annatto And Turmeric Extract Color, Defatted Soy Flour.), Milk Evaporated (Milk, Dipotassium Phosphate, Carrageenan, And Vitamin D3.), Milk Condensed Sweet Pouch 3 x 140 oz (Whole Milk, Sugar.), Cheese Mascarpone 4 x 5# (Pasteurized Cream And Milk, Citric Acid.), Cream Heavy Whipping Quart (Cream (Milk), Mono And Diglycerides, Polysorbate 80 And Carrageenan.), Cream Heavy Whipping Quart (Cream (Milk), Mono And Diglycerides, Polysorbate 80 And Carrageenan.), Sour Cream (Cultured Milk, Cream, Whey, Modified Cornstarch, Sodium Phosphate, Guar Gum, Carrageenan, Calcium Sulfate, Carob Bean Gum, Nonfat Dry Milk.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Powdered Sugar (Sugar, Cornstarch.), Coffee Instant Folgers 8 oz. Jar (Instant Coffee.), Flavor Vanilla Imitation (Water, Caramel Color, Artifical Flavor, Citric Acid, Sodium Benzoate (Preservative).), Cocoa Powder (Cocoa Processed With Alkali.)"
+    },
+    "cf20d741-efff-4e42-b2d8-ad5c0922eafb": {
+      "name": "Turkey And Noodles",
+      "isVegetarian": false,
+      "nutritionReady": true,
+      "servingSize": "8OZ LADLE",
+      "calories": 224.8792,
+      "protein": 17.2751,
+      "carbs": 28.6974,
+      "fat": 5.2925,
+      "saturatedFat": 1.1009,
+      "sodium": 715.9107,
+      "fiber": 0.9565,
+      "sugar": 1.0342,
+      "addedSugar": 0,
+      "cholesterol": 82.1552,
+      "calcium": 7.7345,
+      "iron": 2.0905,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": true,
+        "Fish": false,
+        "Gluten": true,
+        "Milk": true,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": true,
+        "Tree Nuts": false,
+        "Vegetarian": false,
+        "Vegan": false,
+        "Wheat": true
+      },
+      "ingredients": "Noodle Egg Reames 4 x 3# (Bleached Enriched Wheat Flour (Wheat Flour, Malted Barley Flour, Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Egg Yolks, Eggs.), Turkey Meat White Pulled 10# (White Turkey, Rosemary Extract.), Soup Cream Of Mushroom (Water, Vegetable Oil (Corn, Canola, And/Or Soybean), Mushrooms, Modified Food Starch, Wheat Flour, Contains Less Than 2% Of: Salt, Cream (Milk), Soy Protein Concentrate, Yeast Extract, Dried Whey, Dried Garlic, Flavoring.), Base Turkey No Added Msg (Roasted Turkey, Salt, Hydrolyzed Corn Protein, Sugar, Maltodextrin, Turkey Broth, Turkey Fat, Yeast Extract, Flavors, Contains 2% Or Less Of Food Starch - Modified, Torula Yeast, Caramel Color, Disodium Inosinate, Disodium Guanylate.), Yellow Onion (Onion.), Pimientos Diced Canned (Pimentos, Water, And Citric Acid), Pepper Green Diced (12 x 2#) (Green Pepper.), Ground White Pepper (White Pepper.)"
     },
     "cf2f031e-1357-4f9c-8885-6b71a1629c58": {
       "name": "Sweet Smoked Rope Sausage",
@@ -61022,6 +61110,26 @@
         "Wheat": true
       },
       "ingredients": "Pork Shoulder Butt Strips (Bonless Pork Shoulder Butt.), Whole Green Beans, Yellow Onion (Onion.), Sauce Stir Fry (Water, Soy Sauce (Water, Soybeans, Wheat, Salt), Sugar, Sherry Wine, Modified Cornstarch, Soybean Oil, Worcestershire Sauce (Distilled Vinegar, Molasses, Corn Syrup, Water, Salt, Caramel Color, Garlic Powder, Sugar, Spices, Anchovies, Tamarind, Natural Flavor), 2% Or Less Of Vinegar, Sesame Oil, Oyster Sauce (Water, Sugar, Salt, Modified Corn Starch, Caramel Color, Maltodextrin, Oyster Extract, Yeast Extract), Dried Garlic, Salt, Onion Powder, Citric Acid, Spices, Caramel Color, Natural Flavors, Sulfiting Agents.), Sauce Sesame Stir Fry (Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Vinegar Rice (Rice Vinegar, Diluted With Water To 4.2% Acidity (42 Grain).), Oil Sesame 6 x 61 oz (Sesame Oil.), Green Onion (Green Onion.), Sesame Seeds (Sesame Seeds.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.)), Lime Juice (Lime Juice From Concentrate (Water, Concentrated Lime Juice) And Less Than 2% Of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative).), Sliced Fresh Mushrooms (Raw Mushrooms.), Syrup Corn Light 4 x 1 Gallon (Corn Syrup, High Fructose Corn Syrup, Water, Salt, Natural And Artificial Vanilla Flavor.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Ginger Root 30# Case (Ginger Root.), Sauce Soy Mushroom 12 x 5# (Water, Soybeans, Sugar, Salt, Wheat Flour, Extract Of Mushroom, Sulfur Dioxide.), Sesame Seeds (Sesame Seeds.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.)"
+    },
+    "f72e786c-9853-4ca7-9c43-7128da5f6b45": {
+      "name": "Assorted Rolls",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "f76c9b95-067f-4900-adb1-af2ec5d8c773": {
       "name": "Chicken and Waffle Bowl",
