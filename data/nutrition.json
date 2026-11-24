@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T21:01:26.149Z",
+  "updatedAt": "2026-11-24T20:01:52.755Z",
   "items": {
     "0017d183-ea5f-4f08-8e3f-3e64ec05ac59": {
       "name": "Shrimp Po Boy",
@@ -2405,6 +2405,26 @@
     },
     "0ad4f330-ac23-4c72-91cc-096bfa493bac": {
       "name": "Stir Fry Bok Choy",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
+    "0ad7e1c0-bfae-4c2e-913b-c11f86565f8e": {
+      "name": "Ravioli Alfredo",
       "isVegetarian": false,
       "nutritionReady": false,
       "servingSize": null,
@@ -25385,6 +25405,26 @@
       },
       "ingredients": "Kiwi (Raw Kiwi.)"
     },
+    "6633c081-c9fc-48cb-a4e7-a62d45147247": {
+      "name": "Double Chocolate Chip Cookies",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "6651f370-3318-4fdf-bca9-d19e1bbe1e9e": {
       "name": "PZ Pizza Hawaiian Heatwave 10\"",
       "isVegetarian": false,
@@ -30806,6 +30846,26 @@
         "Wheat": false
       },
       "ingredients": "Carrots Bulk Jumbo 50# (Carrots)"
+    },
+    "79e271af-8f2c-4d14-b643-44e21a045ad0": {
+      "name": "Chicken Macaroni and Cheese",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
     },
     "7a0aa5da-534d-4585-8216-251bda7a6b0f": {
       "name": "Allergy Free Mixed Fruit Crisp",
@@ -42779,6 +42839,26 @@
       },
       "ingredients": "Seasoned Diced Beef (Beef, Water, Salt, Dextrose, Sodium Phosphate.), Sliced Fresh Mushrooms (Raw Mushrooms.), Yellow Onion (Onion.), Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Brown Sugar (Sugar, Molasses.), Green Pepper (Green Pepper.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Vinegar White (White Distilled Vinegar, Water.), Yellow Onion (Onion.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Base Beef Granular TFF Pail 4 x 4.4# (Salt, Monosodium Glutamate, Beef Fat, Sugar, Corn Starch, Dried Beef, Hydrolyzed Corn Protein, Natural Flavor, Silicon Dioxide, Maltodextrin, Yeast Extract, Dehydrated Parsley, Disodium Inosinate, Caramel Color, Turmeric (For Color), Citric Acid, Spice, Beef Extract.), Spice Ginger Ground (Ground Ginger.), Garlic Seasoning (Granulated Garlic.)"
     },
+    "a80c7e5c-ca04-452d-abfd-e5b66e9b27ca": {
+      "name": "White Rice ",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "a8483451-f8bb-484e-9412-e3027e1573c7": {
       "name": "Diced Jalapeno Peppers",
       "isVegetarian": true,
@@ -45033,6 +45113,26 @@
       },
       "ingredients": "Dough Pizza Fz to Oven 16\" (Wheat Flour Enriched (Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid, Malted Barley Flour), Water, Yeast, Degermed White Corn Meal, Salt, Palm Oil, Sugar, Soybean Oil, Dry Malt (Malted Barley Flour, Wheat Flour, Dextrose), Dough Conditioner (Enriched Wheat Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Inactive Dry Yeast, Xanthan Gum, Enzymes, Ascorbic Acid), Vital Wheat Gluten, Baking Powder (Sodium Acid Pyrophosphate, Sodium Bicarbonate, Corn Starch, Monocalcium Phosphate), Dough Improver (Enriched Wheat Flour [Wheat Flour, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Folic Acid], Guar Gum, Ammonium Sulfate, Monoglycerides, Enzymes, Ascorbic Acid [Vitamin C] And Soybean Oil), Garlic.), Pizza Sauce (Vine Ripened Fresh Tomatoes, Blend of Extra Virgin Olive Oil And Sunflower Oil, Salt, Oregano, Granulated Garlic, Black Pepper, And Naturally Derived Citric Acid.), Sausage Crumbles (Pork, Water, Textured Soy Flour, Seasoning (Salt, Spices And Dextrose, Garlic), Caramel Color.), Shredded 3 Cheese Blend (Paseurized Milk, Cheese Cultures, Salt, Enzymes.), >in Cans="
     },
+    "b0f73369-6cab-4188-a04c-8af90ea21b23": {
+      "name": "Sausage link",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "b0fa4fde-f94a-4ec1-8788-b4e73a44b84c": {
       "name": "Hunan Beef",
       "isVegetarian": false,
@@ -46845,6 +46945,26 @@
       },
       "ingredients": "Tail-Off Shrimp (Shrimp, Water, Salt, Sodium Tripolyphosphate (To Retain Moisture), Sodium Bisulfite (As A Preservative).), Butter Solids (Pasteurized Cream (Milk), Salt.), Lemon Zest (Lemon (Fresh Lemon.)), Lemon Juice (Filtered Water, Lemon Juice Concentrate, Sodium Bisulfite (Preservative), Sodium Benzoate (Preservative) And Lemon Oil.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Herb Parsley 60 Ct. (Parsley.), Olive Oil (Extra Virgin Olive Oil.), Coarse Kosher Salt (Salt, Yellow Prussiate Of Soda.), Ground Black Pepper (Black Pepper.), Crushed Red Pepper (Red Pepper.)"
     },
+    "b97adc09-0b8b-409e-994e-a0f77b3d40bf": {
+      "name": "Shredded Cheddar",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "b9936680-a5c3-416d-9f95-75a69ffa44ab": {
       "name": "French Cream Cheesecake",
       "isVegetarian": false,
@@ -47238,6 +47358,40 @@
         "Wheat": true
       },
       "ingredients": "Boneless Chicken Breast With Rib Meat, Water, Salt, Sodium Phosphates. Breaded With Enriched Bleached Wheat Flour And Durum Flour (Enriched With Niacin, Ferrous Sulfate, Thiamine Mononitrate, Riboflavin, Folic Acid), Water, Modified Food Starch, Salt, Garlic Powder, Spices, Soybean Oil, Yellow Corn Flour, Leavening (Sodium Acid Pyrophosphate, Sodium Bicarbonate), Dextrose, Extractives Of Paprika, Cellulose Gum (Sodium Carboxymethylcellulose), Natural Flavor, Sodium Alginate, Not More Than 2% Silicon Dioxide Added To Prevent Caking."
+    },
+    "bad26112-910e-4aed-bcfb-677be45dd440": {
+      "name": "Kiwi",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "Each",
+      "calories": 45.7841,
+      "protein": 0.8556,
+      "carbs": 11.0332,
+      "fat": 0.3903,
+      "saturatedFat": 0.0218,
+      "sodium": 2.2517,
+      "fiber": 2.2517,
+      "sugar": 6.7475,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 25.519,
+      "iron": 0.2327,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Raw Kiwi."
     },
     "bb37eca1-f941-494f-8704-6876bbba227e": {
       "name": "Mayonnaise Curry",
@@ -62491,6 +62645,26 @@
       },
       "ingredients": "Pork Shoulder Butt Strips (Bonless Pork Shoulder Butt.), Whole Green Beans, Yellow Onion (Onion.), Sauce Stir Fry (Water, Soy Sauce (Water, Soybeans, Wheat, Salt), Sugar, Sherry Wine, Modified Cornstarch, Soybean Oil, Worcestershire Sauce (Distilled Vinegar, Molasses, Corn Syrup, Water, Salt, Caramel Color, Garlic Powder, Sugar, Spices, Anchovies, Tamarind, Natural Flavor), 2% Or Less Of Vinegar, Sesame Oil, Oyster Sauce (Water, Sugar, Salt, Modified Corn Starch, Caramel Color, Maltodextrin, Oyster Extract, Yeast Extract), Dried Garlic, Salt, Onion Powder, Citric Acid, Spices, Caramel Color, Natural Flavors, Sulfiting Agents.), Sauce Sesame Stir Fry (Sauce Soy Tamari GF (Water, Soybeans, Salt, Sugar.), Vinegar Rice (Rice Vinegar, Diluted With Water To 4.2% Acidity (42 Grain).), Oil Sesame 6 x 61 oz (Sesame Oil.), Green Onion (Green Onion.), Sesame Seeds (Sesame Seeds.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.)), Lime Juice (Lime Juice From Concentrate (Water, Concentrated Lime Juice) And Less Than 2% Of Lime Oil, Sodium Benzoate (Preservative), Sodium Metabisulfite (Preservative).), Sliced Fresh Mushrooms (Raw Mushrooms.), Syrup Corn Light 4 x 1 Gallon (Corn Syrup, High Fructose Corn Syrup, Water, Salt, Natural And Artificial Vanilla Flavor.), Canola Oil (Canola Oil With TBHQ And Citric Acid Added To Help Protect Flavor. Dimethylpolysiloxane, An Antifoaming Agent, Added.), Ginger Root 30# Case (Ginger Root.), Sauce Soy Mushroom 12 x 5# (Water, Soybeans, Sugar, Salt, Wheat Flour, Extract Of Mushroom, Sulfur Dioxide.), Sesame Seeds (Sesame Seeds.), Garlic Chopped (Minced Garlic (Peeled Garlic)), Ginger Root 30# Case (Ginger Root.)"
     },
+    "f6caa59b-ba4b-4211-9b2d-2cbfebc6a9f3": {
+      "name": "Grilled Mediterranean Chicken",
+      "isVegetarian": false,
+      "nutritionReady": false,
+      "servingSize": null,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "saturatedFat": null,
+      "sodium": null,
+      "fiber": null,
+      "sugar": null,
+      "addedSugar": null,
+      "cholesterol": null,
+      "calcium": null,
+      "iron": null,
+      "allergens": null,
+      "ingredients": null
+    },
     "f72e786c-9853-4ca7-9c43-7128da5f6b45": {
       "name": "Assorted Rolls",
       "isVegetarian": false,
@@ -63684,6 +63858,40 @@
         "Wheat": false
       },
       "ingredients": "Appetizer Croquette Tikki Veg Brd Frz (Potatoes (Potatoes, Dextrose, Disodium Pyrophosphate [Maintains Color]), Water, Green Peas, Carrots, Jalapeno Peppers, Ginger, Brown Rice Flour, Canola Oil, Corn Starch, Cilantro, Spices, Salt, Mango Powder, Black Salt, Turmeric.)"
+    },
+    "fb40bb93-a07c-41de-abb9-14855a4cc3a9": {
+      "name": "Red Seedless Grapes",
+      "isVegetarian": true,
+      "nutritionReady": true,
+      "servingSize": "2 oz",
+      "calories": 36.4688,
+      "protein": 0.3429,
+      "carbs": 9.3349,
+      "fat": 0.1905,
+      "saturatedFat": 0.0621,
+      "sodium": 1.0886,
+      "fiber": 0.4899,
+      "sugar": 8.845,
+      "addedSugar": 0,
+      "cholesterol": 0,
+      "calcium": 7.6203,
+      "iron": 0.1579,
+      "allergens": {
+        "Coconut": false,
+        "Eggs": false,
+        "Fish": false,
+        "Gluten": false,
+        "Milk": false,
+        "Peanuts": false,
+        "Sesame": false,
+        "Shellfish": false,
+        "Soy": false,
+        "Tree Nuts": false,
+        "Vegetarian": true,
+        "Vegan": true,
+        "Wheat": false
+      },
+      "ingredients": "Grapes."
     },
     "fb771b6a-a28e-4a87-8787-ec0a40e059aa": {
       "name": "Shredded Daikon Radish",
